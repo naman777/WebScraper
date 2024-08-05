@@ -1,0 +1,512 @@
+Goldman Sachs Interview questions – Onsite (Experience: 1+ years)
+Technical rounds – 4
+Managerial round – 1
+Technical rounds
+
+
+
+I had an interview recently with Goldman Sachs Bangalore for 2+ years Java Developer position. I got a call from some consultancy and after my profile got shortlisted I got mail for HR for online test.
+16 MCQs Java Question.
+2 programs:
+OOPs concepts with real time examples. Exception Handling. How hash map work internally explain on board. Hashmap vs CocurrentHashmap vs HashTable vs SynchronizedMap
+Singleton Design pattern. How you make it double ton(in even call of getInstance() first object should be return and odd call of getInstance() second instance should be return). Make it triple don.
+HashSet internal working. How load factor works in HashMap. When to go for ArrayList and when for LinkedList.
+print series 010203040506.. using multi-threading 1st thread will print only 0 2nd thread will print only even numbers and 3rd thread print only odd numbers. Some SQL queries normal JOIN queries. Synchronize block vs Synchronize method
+SAX parser vs Dom parser. How will you store key value pair in sorted way based on values. Given a doubly circular linked list one node is not pointing to next how will find this and fix this. Same question next pointer is pointing to some random pointer how will you find this and fix this. How will you break TreeSet property (it should store Objects in non sorted order)
+Given a situation there are three lifts A,B & C, lift A is at kth floor and user wants to go at nth floor what will be the test cases in this situation. Interviewer gave 3-4 situation in same problem to write test cases.
+There is method which will take a date i.e. 11/09/2013 and return a expiry date and that is 3rd Friday of input month. Write all unit cases covering all corner case that will a sure that this method will never fail.
+Current project (Architecture), Which technologies are you working on. Why are you using SOAP why not Restful. Why are you using SAX why not DOM. What is Agile. What is your role. Java 8 features.
+Some puzzles. Explained me about GS how they work in GS and all.
+
+
+
+I had an experience of 2.5 years and was interviewed at Bangalore office of Goldman Sachs.
+Round 1:
+After asking for a brief intro, the interviewer started by asking Java questions which were: OOPs concepts of Java, what is runtime polymorphism, overloading/overriding, how many collections you have used in Java, how does Hashmap works, what is a contract between equals and hashcode?
+Then, he asked a question on an array: Given an int array, arrange the elements in increasing decreasing order i.e. one element bigger than a smaller element then bigger and so on.
+After I answered this question, he asked me a simple question that suppose 2 people are starting at some point in the circle, first with speed of 4 and second with speed of 6, In how much time they’ll meet again. (Don’t know the motive behind asking so simple question. :P)
+Round 2:
+Here too, the interviewer started by asking java questions: What is the difference between string, string buffer and string builder, what does final keyword do, when can final variable value be changed, what is classpath in java?
+After all these questions he gave me a design problem: Suppose you have to design an election campaign application. He gave a number of questions which for which we should provide some APIs for. The question was like: How many total constituencies are there? Which all candidates are contesting? Which candidate represents which party? How many male/female candidates won and with how many votes?
+The class which I told him were: State, Constituency, Candidate, Party, Voter.
+Further, I told him that the state will have a list of constituencies. The constituency will have a list of male and female candidates. A party will have list of constituencies (where their candidates are contesting) and also a list of all candidates. A candidate will have reference to the constituency (in case he decides to contest from a different constituency next time) and a reference to the party (same reason as above).
+The discussion happened on this design for some 20 minutes on various grounds. 
+Round 3:
+I was given a system with IDE on it and was asked to code a problem. The interviewer told me that you can write and run your own test cases and after one hour we’ll be running our test cases.
+Question: Given a remote having 0-9 digits, plus button (to increase channel), minus (to decrease) and previous channel button (to go to the previous channel). We were given 2 numbers stating the start and end channel number and an array having various channel numbers. The task was to go to all channel numbers given in array with a minimum number of clicks. 
+Round 4: (Director’s round)
+To start with, he asked me thoroughly about my current work and what things I am working upon. We had a discussion for around 30 minutes on my work exp.
+Then, he asked me to implement a stack. I did it using an arraylist. Cross questioning on this happened for 10 minutes.
+After that, he gave me a puzzle: Suppose you and I are playing a game on a round table and we both have an infinite number of coins. The rules are as follows:
+So if I give you the opportunity to go first, which move you’ll start with to ensure victory?
+After this, some discussion happened on GS and its workings. 
+
+M
+
+
+Round 1: HackerRank Test – 90 min
+1: Find the total lattice points on the circumference of a circle.
+Ref: https://www.geeksforgeeks.org/circle-lattice-points/
+2: Question on Graph DFS (not exactly remember the question)
+Suggestion: Read the questions more than once if not clear. Note down the constraints. Don’t panic, stay calm. Enough time to solve both the questions.
+Note: To qualify for the next round both questions need to be solved.
+Round 2: CoderPad Round
+CoderPad Round is also a coding round in which you have to code live i.e screen is shared between you and the interviewer and the interviewer will be on a call with you.
+1: Find the first non-repeating character in an array.
+Ref: https://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/
+2: Form the largest possible number from the array of number.
+Ref: https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/
+Suggestion: Start with discussing the different algorithms with the interviewer then start coding. The interviewer will give you hint so no need to worry 🙂
+Note: The code should be syntactically and logically correct as the code will be compiled by the compiler and you have to pass all the test cases. At least one question should be solved completely in order to qualify for the next round.
+Round 3 : Telephonic Interview – 45 min
+In this round, you will be basically asked a question from your technical skills and few questions related to data structures.
+Java questions asked:
+1. OOPs concept.
+2. Abstraction vs Interface
+3. HashMap internal implementation.
+4. Equals and Hashcode concept.
+5. Set vs List
+6. ArrayList vs LinkedList
+7. Final keyword
+Design questions:
+1. Design Conference Room Allocation system considering the time and number of rooms available constraints.
+Algorithms:
+1. Tree – Preoder, PostOrder, Inorder
+2. Graph – DFS vs BFS
+Round 4: Telephonic Interview (Senior person from New York HO) – 45min
+In this round questions were mainly asked on the behavioral skills and few design and algorithms.
+Behavioral questions:
+Questions on your experience like:
+1. Challenges faced in the past developing any applications. How did you handle it and the conclusion?
+2. A situation when you have to change your work lifestyle.
+3. A situation when you conflict with your manager and how did you handle it.
+Design questions:
+1. Design Snake And Ladder Game.
+Algorithms: Given a circular linked list, detect a loop in it.
+Ref: https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/
+Suggestion: Discuss with them like friends. Tell them all the approaches that come to your mind. They are not going to ask you to code the solutions.
+Note: Above 2 telephonic interview was back to back. 
+Round 5-8 (In Person)
+Round 5:
+Questions on Java concepts and multithreading.
+They will give you a problem statement and ask you to design the solutions and write the code on paper.
+Algorithms:
+1. Min flip to make binary string alternate.
+Ref: https://www.geeksforgeeks.org/number-flips-make-binary-string-alternate/
+2. Maximum possible stolen value from houses.
+Ref: https://www.geeksforgeeks.org/find-maximum-possible-stolen-value-houses/
+Round 6:
+Java questions:
+1. JVM internal architecture.
+2. Memory allocation in Java (Stack vs Heap)
+3. Fibonacci Series for very large n.
+4. Water Jug Puzzle
+5. Given X and Y, wap to output X if the input is Y and Output Y if the input is X. No use of conditional operator is allowed.
+Solution : Use +, ^ operator.
+6. Design Snake and Ladder – you have to identify all the classes and its member variable and methods and relationship among different classes.
+Round 7:
+All questions from your resume and a few database concepts and Puzzles.
+Discussion on the roles and responsibility in the current organization. 
+Round 8 (Hiring Manager)
+Situational Based questions, Behavioral questions, and few puzzles.
+Ref: https://www.geeksforgeeks.org/puzzle-round-table-coin-game/
+Variant of this questions on Square table instead of Round Table.
+Note: The process is very long and takes too much time so even if you are not prepared you will get enough time to prepare yourselves in between the process. So stay calm and keep preparing yourselves 😉
+In my case process took almost 2 months. The process varies between 6 – 12 rounds depending upon your performance and company requirements.
+Hope this will help you guys and all the best 🙂 
+
+
+Goldman Sachs conducted a Code Sprint where 6 challenges were given. I solved 4 of them and was ranked below 1600 out of 10120 candidates. After this I got a call from the HR to appear for the next rounds.
+ 
+1st Round: HackerRank Test (1 hr 30 min)
+1. Given n and an array of strings, print the string that contains the digits (1, 2, 3), if there are multiple strings that satisfies the conditions, print them in ascending order.
+2. Given a sequence of M and N with M representing increasing and N representing decreasing, output the smallest number that follows this pattern.
+You need to solve atleast one question in order to progress to further round.
+ 
+2nd Round: CoderPad Interview (1 hr)
+This is a screen sharing round where the interviewer will be on call with you.
+The interviewer asked about my experience, I answered 1 year. Probably the problem difficulty is based on the candidate’s experience.
+1. Given a string, the task is to find maximum consecutive repeating character in string
+https://www.geeksforgeeks.org/maximum-consecutive-repeating-character-string/
+2. Given a string, print the reverse order of the string.
+https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/
+You need to solve atleast one question in order to progress to further round.
+ 
+3rd Round : Face to Face Technical Interview (45 min)
+This was a 2 on 1 face to face technical round in Goldman Sachs office campus.
+1. Write a query to get the below output.
+2. Given an array of numbers where each number is in continuous series and would not be repeated once the series is over, print the count of each number.
+3. Write a program to count frequency of each number in an array of elements without using a hash table.
+I gave O(n) complexity solution, but the interviewer was not satisfied with it and asked me to implement a balanced binary search tree which I couldn’t.
+
+
+I have interviewed with Goldmanc sachs in Nov-17. The process  is very slow as in my case first round was started in Sept-17 and last round ended in Nov-17.
+Round 1: First was the HackerRank Test. Two Coding questions, first easy ,second Medium to Hard Level.
+Note: I do not remember the exact wording of the question.
+1.)  Given an string and a burst length , output the string such that count of same adjacent characters in string are less than burst length.
+Example:
+Input : abbcaaaccd , 3
+Output: abbd
+ 
+2.) Given an array of distinct integers, output the number of sub-sequences of length 3, either in increasing or decreasing order.
+Tips: Prepare Dynamic Programming as almost every time second question is of DP.
+Round 2: CoderPad
+Here two questions were asked :
+Tips: In  CoderPad round first discuss your algorithm with the interviewer. Interviewer excepts you to write professional level code. Also interviewer will ask you to write all possible test cases especially corner test cases and your code should pass it.
+Round 3: Video Conference 
+In this round lots of technical questions were asked to check to in-depth knowledge of the C++ language.
+Some questions i remember are:
+ 
+After this round and a month wait, i was called for face to face discussion in GS Bangalore. All the below round were happened in GS Bangalore and in single day. For each round there were two interviewers.
+Round 4:  Face to Face
+Again lots of questions on C++ :
+Output:
+2 1 2
+1 0 1
+2 1 2
+Round 5 
+C++ questions :
+Round 6
+Design Question  : Design a mobile directory i.e. the list of contacts to save mobile number , email and other information. All operations which we can do in our mobile like searching by name , number etc.
+Algorithm Question : Given two strings s1, s2. output all the ways in which these two strings can be merged while keeping the order of character same as they were in s1, s2. Design a recursive algorithm.
+Example : s1 : ab , s2: cd
+Output :
+abcd
+acbd
+acdb
+cabd
+cadb
+cdab
+ 
+So guys, hope you will find it useful for your interview preparation. Best of luck!!!
+
+
+I appeared for the Goldman Sachs recruitment process for the position of Technical Analyst, Bangalore. I applied via employee referral.
+Round 1: Hackerrank written test
+Two questions were there in the round.
+1.) Spiral order traversal of the matrix
+2.) Subarray with 0 sum
+Round 2: Coderpad round
+This is a telephonic interview and a screen is shared for writing the full working code. And you need to write some of your test cases and clear the nes they have provided. Two questions were asked in this:
+1.) A car has to be given on rent. Different people come and ask for it for interval [s,e] and offer some price p. To whom shall the car be given in order to earn maximum.
+2.) I don’t remember the question exactly, but logic of the problem was BFS.
+After these two, I was called for onsite interviews. Their interview process is a day long procedure. I had 6 round of interview and all were technical.
+Round 3:
+Two interviewers came and they both were very friendly.
+First I was asked various behavioural question like why I want to change, describe myself, strength, weakness. They asked me to rate myself in the skills mentioned in my resume on a scale of 1-10.
+1.) First technical question was finding first non-repeating character in a string.
+2.) Then,internal implementation of list and map in C++. I was asked to do implementation of AVL trees as well. They were knowledgeable and had a good understanding of data structures.
+3.) How a hashmap is implemented internally in JAVA. Then its most famous contract question as well.
+I was then asked some puzzles, water jug problem, fit balls in the given box.
+Round 4:
+This round was a discussion of almost every data structure I have read.
+1.) Started with linked list, circular LL, DLL, overflow and underflow conditions, working, applications where they can be used.
+2.) Binary tree, BST, code for deletion in tree. The interviewer was more interested to know how I’m writing the recursive calls. He asked me to draw the recursive stack and show every activation record.
+3.) I was then asked to design cache. He gave me various scenarios like how will make the system fault tolerant if one machine goes down. We also discussed about push and pull affinity, he said running stream of records will come and you have some n machines. How will you store these records and then fetch them.
+Round 5:
+This round was less of technical but more on resume.
+1.) We discussed various projects and things I mentioned in it.
+2.) A technical ques, given a 2D matrix, I was asked to find an submatrix with maximum sum. Submatrix can be square and rectangular as well.
+3.) Some discussion on Software Testing, waterfall and spiral model etc. The person was from the Risk Management team and testing concepts were discussed in this interview.
+4.) Then he came to OS. Critical section problem, testAndSwap() instruction, peterson’s problem its drawback and why software solutions were needed for solving critical section problems.
+Round 6:
+This was again a coding round and I was expected to write the fully working code.
+1.) Rotate matrix by 90, 180 , 270.
+2.) Root to leaf path in a binary tree.
+3.) They asked me about the work in my current company. Then they shifted to why JAVA over C++. If I am creating any application from scratch, which language should I chose and why.
+Round 7:
+This round was majorly the discussion on Machine Learning and design problems.
+1.) I was given a scenario related to file system and was asked various question of how it’s different API’s can be designed. How to maintain the whole structure when a file was modified. At any given time, I have to output the files modified within last 5 days. The file system is a big one.
+2.) The second problem was again a scenario in which a company C collects data from Company A and B about some 100 customers which always remain fixed. Some records are provided to C by A and B and C has to validate these. How shall they provide the record, how should company C release its application. In what frequency, should validations be carried on the data collected, when should the data be collected. How can you make your system learn about the 100 customers, so that the cost of validation can be reduced. This was a very open-ended question.
+3.) Scenario again, the code in production branch is producing lots of error everytime the code is run. I was asked how machine learning can make this situation better. I firstly contradicted his question by saying, how the code has been committed to production branch when it has errors. Shouldn’t it be in the developer branch and integrated and committed in production later. The interviewer and me were laughing for next 5 mins because of how I contradicted him. He changed errors to warnings then, said, Developers many times ignore them, but can they be of any use? I introduced lot of machine learning here and we had discussion on various models.
+Round 8:
+Again technical round cum last Hiring Manager round.
+1.) A problem on string was given. I don’t remember exactly, but logic was LIS. Both recursion and DP code.
+2.) Problem on arrays. Solved using queues.
+3.) Design cricbuzz.
+4.) Design notification system. Here he mentioned you have the database and records are stored. You need to filter which the records as per the trending topics and deliver notifications. For context filtering, I talked about NLTK, n-grams, tagging, and then prioritizing the records filtered.
+With this the process ended and he started explaining me about the work of the team etc.
+Overall, it took around 7 hours for these 6 interviews.I hardly took 15 mins break in between.
+Next day, I received the call that my interviews went well and they’d like to proceed further with my candidature. I got the offer.
+I’d like to thanks GeeksForGeeks for their incredible website which helped me prepare a lot. Do go through previously asked interview questions an dpractise them.
+
+
+I got contacted by a recruiter agency.
+1st Round (HackerRank Test 1 Hour 30 Mins):
+1) https://www.geeksforgeeks.org/print-number-ascending-order-contains-1-2-3-digits/
+2) 2. Given a sequence of M and N with M representing increasing and N representing decreasing, output the smallest number that follows this pattern.
+Input    : MMMM
+Output   : 12345
+Input    : NNNN
+Output   : 54321
+Input    : MMNM
+Output   : 2314
+My hackerRank test was same as described here: https://www.geeksforgeeks.org/goldman-sachs-interview-experience-set-35-experienced/ 
+Solved both of them and got the call for next round. 
+2nd Round (Coderpad Test 1 Hour):
+1) There are two fractions example: F1 = 3/4 and F2 = 5/6. You need to compute their sum and return the result.
+2) One problem similar to described here: https://www.geeksforgeeks.org/solve-dynamic-programming-problem/
+The interviewer will be helping you in case you get stuck. But make sure you at least start approaching the problem. Even the brute force.
+Completed both of them in 1 hour and got the call for next round.
+3rd Round (F2F)
+Project-specific questions. Related to Java JDBC, Socket Programming and project at the current company.
+Got eliminated here.
+V
+
+
+Goldman Sachs Interview questions – Onsite (Experience: 1+ years)
+Technical rounds – 4
+Managerial round – 1
+Technical rounds
+
+
+
+I had an interview recently with Goldman Sachs Bangalore for 2+ years Java Developer position. I got a call from some consultancy and after my profile got shortlisted I got mail for HR for online test.
+16 MCQs Java Question.
+2 programs:
+OOPs concepts with real time examples. Exception Handling. How hash map work internally explain on board. Hashmap vs CocurrentHashmap vs HashTable vs SynchronizedMap
+Singleton Design pattern. How you make it double ton(in even call of getInstance() first object should be return and odd call of getInstance() second instance should be return). Make it triple don.
+HashSet internal working. How load factor works in HashMap. When to go for ArrayList and when for LinkedList.
+print series 010203040506.. using multi-threading 1st thread will print only 0 2nd thread will print only even numbers and 3rd thread print only odd numbers. Some SQL queries normal JOIN queries. Synchronize block vs Synchronize method
+SAX parser vs Dom parser. How will you store key value pair in sorted way based on values. Given a doubly circular linked list one node is not pointing to next how will find this and fix this. Same question next pointer is pointing to some random pointer how will you find this and fix this. How will you break TreeSet property (it should store Objects in non sorted order)
+Given a situation there are three lifts A,B & C, lift A is at kth floor and user wants to go at nth floor what will be the test cases in this situation. Interviewer gave 3-4 situation in same problem to write test cases.
+There is method which will take a date i.e. 11/09/2013 and return a expiry date and that is 3rd Friday of input month. Write all unit cases covering all corner case that will a sure that this method will never fail.
+Current project (Architecture), Which technologies are you working on. Why are you using SOAP why not Restful. Why are you using SAX why not DOM. What is Agile. What is your role. Java 8 features.
+Some puzzles. Explained me about GS how they work in GS and all.
+
+
+
+I had an experience of 2.5 years and was interviewed at Bangalore office of Goldman Sachs.
+Round 1:
+After asking for a brief intro, the interviewer started by asking Java questions which were: OOPs concepts of Java, what is runtime polymorphism, overloading/overriding, how many collections you have used in Java, how does Hashmap works, what is a contract between equals and hashcode?
+Then, he asked a question on an array: Given an int array, arrange the elements in increasing decreasing order i.e. one element bigger than a smaller element then bigger and so on.
+After I answered this question, he asked me a simple question that suppose 2 people are starting at some point in the circle, first with speed of 4 and second with speed of 6, In how much time they’ll meet again. (Don’t know the motive behind asking so simple question. :P)
+Round 2:
+Here too, the interviewer started by asking java questions: What is the difference between string, string buffer and string builder, what does final keyword do, when can final variable value be changed, what is classpath in java?
+After all these questions he gave me a design problem: Suppose you have to design an election campaign application. He gave a number of questions which for which we should provide some APIs for. The question was like: How many total constituencies are there? Which all candidates are contesting? Which candidate represents which party? How many male/female candidates won and with how many votes?
+The class which I told him were: State, Constituency, Candidate, Party, Voter.
+Further, I told him that the state will have a list of constituencies. The constituency will have a list of male and female candidates. A party will have list of constituencies (where their candidates are contesting) and also a list of all candidates. A candidate will have reference to the constituency (in case he decides to contest from a different constituency next time) and a reference to the party (same reason as above).
+The discussion happened on this design for some 20 minutes on various grounds. 
+Round 3:
+I was given a system with IDE on it and was asked to code a problem. The interviewer told me that you can write and run your own test cases and after one hour we’ll be running our test cases.
+Question: Given a remote having 0-9 digits, plus button (to increase channel), minus (to decrease) and previous channel button (to go to the previous channel). We were given 2 numbers stating the start and end channel number and an array having various channel numbers. The task was to go to all channel numbers given in array with a minimum number of clicks. 
+Round 4: (Director’s round)
+To start with, he asked me thoroughly about my current work and what things I am working upon. We had a discussion for around 30 minutes on my work exp.
+Then, he asked me to implement a stack. I did it using an arraylist. Cross questioning on this happened for 10 minutes.
+After that, he gave me a puzzle: Suppose you and I are playing a game on a round table and we both have an infinite number of coins. The rules are as follows:
+So if I give you the opportunity to go first, which move you’ll start with to ensure victory?
+After this, some discussion happened on GS and its workings. 
+
+M
+
+
+Round 1: HackerRank Test – 90 min
+1: Find the total lattice points on the circumference of a circle.
+Ref: https://www.geeksforgeeks.org/circle-lattice-points/
+2: Question on Graph DFS (not exactly remember the question)
+Suggestion: Read the questions more than once if not clear. Note down the constraints. Don’t panic, stay calm. Enough time to solve both the questions.
+Note: To qualify for the next round both questions need to be solved.
+Round 2: CoderPad Round
+CoderPad Round is also a coding round in which you have to code live i.e screen is shared between you and the interviewer and the interviewer will be on a call with you.
+1: Find the first non-repeating character in an array.
+Ref: https://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/
+2: Form the largest possible number from the array of number.
+Ref: https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/
+Suggestion: Start with discussing the different algorithms with the interviewer then start coding. The interviewer will give you hint so no need to worry 🙂
+Note: The code should be syntactically and logically correct as the code will be compiled by the compiler and you have to pass all the test cases. At least one question should be solved completely in order to qualify for the next round.
+Round 3 : Telephonic Interview – 45 min
+In this round, you will be basically asked a question from your technical skills and few questions related to data structures.
+Java questions asked:
+1. OOPs concept.
+2. Abstraction vs Interface
+3. HashMap internal implementation.
+4. Equals and Hashcode concept.
+5. Set vs List
+6. ArrayList vs LinkedList
+7. Final keyword
+Design questions:
+1. Design Conference Room Allocation system considering the time and number of rooms available constraints.
+Algorithms:
+1. Tree – Preoder, PostOrder, Inorder
+2. Graph – DFS vs BFS
+Round 4: Telephonic Interview (Senior person from New York HO) – 45min
+In this round questions were mainly asked on the behavioral skills and few design and algorithms.
+Behavioral questions:
+Questions on your experience like:
+1. Challenges faced in the past developing any applications. How did you handle it and the conclusion?
+2. A situation when you have to change your work lifestyle.
+3. A situation when you conflict with your manager and how did you handle it.
+Design questions:
+1. Design Snake And Ladder Game.
+Algorithms: Given a circular linked list, detect a loop in it.
+Ref: https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/
+Suggestion: Discuss with them like friends. Tell them all the approaches that come to your mind. They are not going to ask you to code the solutions.
+Note: Above 2 telephonic interview was back to back. 
+Round 5-8 (In Person)
+Round 5:
+Questions on Java concepts and multithreading.
+They will give you a problem statement and ask you to design the solutions and write the code on paper.
+Algorithms:
+1. Min flip to make binary string alternate.
+Ref: https://www.geeksforgeeks.org/number-flips-make-binary-string-alternate/
+2. Maximum possible stolen value from houses.
+Ref: https://www.geeksforgeeks.org/find-maximum-possible-stolen-value-houses/
+Round 6:
+Java questions:
+1. JVM internal architecture.
+2. Memory allocation in Java (Stack vs Heap)
+3. Fibonacci Series for very large n.
+4. Water Jug Puzzle
+5. Given X and Y, wap to output X if the input is Y and Output Y if the input is X. No use of conditional operator is allowed.
+Solution : Use +, ^ operator.
+6. Design Snake and Ladder – you have to identify all the classes and its member variable and methods and relationship among different classes.
+Round 7:
+All questions from your resume and a few database concepts and Puzzles.
+Discussion on the roles and responsibility in the current organization. 
+Round 8 (Hiring Manager)
+Situational Based questions, Behavioral questions, and few puzzles.
+Ref: https://www.geeksforgeeks.org/puzzle-round-table-coin-game/
+Variant of this questions on Square table instead of Round Table.
+Note: The process is very long and takes too much time so even if you are not prepared you will get enough time to prepare yourselves in between the process. So stay calm and keep preparing yourselves 😉
+In my case process took almost 2 months. The process varies between 6 – 12 rounds depending upon your performance and company requirements.
+Hope this will help you guys and all the best 🙂 
+
+
+Goldman Sachs conducted a Code Sprint where 6 challenges were given. I solved 4 of them and was ranked below 1600 out of 10120 candidates. After this I got a call from the HR to appear for the next rounds.
+ 
+1st Round: HackerRank Test (1 hr 30 min)
+1. Given n and an array of strings, print the string that contains the digits (1, 2, 3), if there are multiple strings that satisfies the conditions, print them in ascending order.
+2. Given a sequence of M and N with M representing increasing and N representing decreasing, output the smallest number that follows this pattern.
+You need to solve atleast one question in order to progress to further round.
+ 
+2nd Round: CoderPad Interview (1 hr)
+This is a screen sharing round where the interviewer will be on call with you.
+The interviewer asked about my experience, I answered 1 year. Probably the problem difficulty is based on the candidate’s experience.
+1. Given a string, the task is to find maximum consecutive repeating character in string
+https://www.geeksforgeeks.org/maximum-consecutive-repeating-character-string/
+2. Given a string, print the reverse order of the string.
+https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/
+You need to solve atleast one question in order to progress to further round.
+ 
+3rd Round : Face to Face Technical Interview (45 min)
+This was a 2 on 1 face to face technical round in Goldman Sachs office campus.
+1. Write a query to get the below output.
+2. Given an array of numbers where each number is in continuous series and would not be repeated once the series is over, print the count of each number.
+3. Write a program to count frequency of each number in an array of elements without using a hash table.
+I gave O(n) complexity solution, but the interviewer was not satisfied with it and asked me to implement a balanced binary search tree which I couldn’t.
+
+
+I have interviewed with Goldmanc sachs in Nov-17. The process  is very slow as in my case first round was started in Sept-17 and last round ended in Nov-17.
+Round 1: First was the HackerRank Test. Two Coding questions, first easy ,second Medium to Hard Level.
+Note: I do not remember the exact wording of the question.
+1.)  Given an string and a burst length , output the string such that count of same adjacent characters in string are less than burst length.
+Example:
+Input : abbcaaaccd , 3
+Output: abbd
+ 
+2.) Given an array of distinct integers, output the number of sub-sequences of length 3, either in increasing or decreasing order.
+Tips: Prepare Dynamic Programming as almost every time second question is of DP.
+Round 2: CoderPad
+Here two questions were asked :
+Tips: In  CoderPad round first discuss your algorithm with the interviewer. Interviewer excepts you to write professional level code. Also interviewer will ask you to write all possible test cases especially corner test cases and your code should pass it.
+Round 3: Video Conference 
+In this round lots of technical questions were asked to check to in-depth knowledge of the C++ language.
+Some questions i remember are:
+ 
+After this round and a month wait, i was called for face to face discussion in GS Bangalore. All the below round were happened in GS Bangalore and in single day. For each round there were two interviewers.
+Round 4:  Face to Face
+Again lots of questions on C++ :
+Output:
+2 1 2
+1 0 1
+2 1 2
+Round 5 
+C++ questions :
+Round 6
+Design Question  : Design a mobile directory i.e. the list of contacts to save mobile number , email and other information. All operations which we can do in our mobile like searching by name , number etc.
+Algorithm Question : Given two strings s1, s2. output all the ways in which these two strings can be merged while keeping the order of character same as they were in s1, s2. Design a recursive algorithm.
+Example : s1 : ab , s2: cd
+Output :
+abcd
+acbd
+acdb
+cabd
+cadb
+cdab
+ 
+So guys, hope you will find it useful for your interview preparation. Best of luck!!!
+
+
+I appeared for the Goldman Sachs recruitment process for the position of Technical Analyst, Bangalore. I applied via employee referral.
+Round 1: Hackerrank written test
+Two questions were there in the round.
+1.) Spiral order traversal of the matrix
+2.) Subarray with 0 sum
+Round 2: Coderpad round
+This is a telephonic interview and a screen is shared for writing the full working code. And you need to write some of your test cases and clear the nes they have provided. Two questions were asked in this:
+1.) A car has to be given on rent. Different people come and ask for it for interval [s,e] and offer some price p. To whom shall the car be given in order to earn maximum.
+2.) I don’t remember the question exactly, but logic of the problem was BFS.
+After these two, I was called for onsite interviews. Their interview process is a day long procedure. I had 6 round of interview and all were technical.
+Round 3:
+Two interviewers came and they both were very friendly.
+First I was asked various behavioural question like why I want to change, describe myself, strength, weakness. They asked me to rate myself in the skills mentioned in my resume on a scale of 1-10.
+1.) First technical question was finding first non-repeating character in a string.
+2.) Then,internal implementation of list and map in C++. I was asked to do implementation of AVL trees as well. They were knowledgeable and had a good understanding of data structures.
+3.) How a hashmap is implemented internally in JAVA. Then its most famous contract question as well.
+I was then asked some puzzles, water jug problem, fit balls in the given box.
+Round 4:
+This round was a discussion of almost every data structure I have read.
+1.) Started with linked list, circular LL, DLL, overflow and underflow conditions, working, applications where they can be used.
+2.) Binary tree, BST, code for deletion in tree. The interviewer was more interested to know how I’m writing the recursive calls. He asked me to draw the recursive stack and show every activation record.
+3.) I was then asked to design cache. He gave me various scenarios like how will make the system fault tolerant if one machine goes down. We also discussed about push and pull affinity, he said running stream of records will come and you have some n machines. How will you store these records and then fetch them.
+Round 5:
+This round was less of technical but more on resume.
+1.) We discussed various projects and things I mentioned in it.
+2.) A technical ques, given a 2D matrix, I was asked to find an submatrix with maximum sum. Submatrix can be square and rectangular as well.
+3.) Some discussion on Software Testing, waterfall and spiral model etc. The person was from the Risk Management team and testing concepts were discussed in this interview.
+4.) Then he came to OS. Critical section problem, testAndSwap() instruction, peterson’s problem its drawback and why software solutions were needed for solving critical section problems.
+Round 6:
+This was again a coding round and I was expected to write the fully working code.
+1.) Rotate matrix by 90, 180 , 270.
+2.) Root to leaf path in a binary tree.
+3.) They asked me about the work in my current company. Then they shifted to why JAVA over C++. If I am creating any application from scratch, which language should I chose and why.
+Round 7:
+This round was majorly the discussion on Machine Learning and design problems.
+1.) I was given a scenario related to file system and was asked various question of how it’s different API’s can be designed. How to maintain the whole structure when a file was modified. At any given time, I have to output the files modified within last 5 days. The file system is a big one.
+2.) The second problem was again a scenario in which a company C collects data from Company A and B about some 100 customers which always remain fixed. Some records are provided to C by A and B and C has to validate these. How shall they provide the record, how should company C release its application. In what frequency, should validations be carried on the data collected, when should the data be collected. How can you make your system learn about the 100 customers, so that the cost of validation can be reduced. This was a very open-ended question.
+3.) Scenario again, the code in production branch is producing lots of error everytime the code is run. I was asked how machine learning can make this situation better. I firstly contradicted his question by saying, how the code has been committed to production branch when it has errors. Shouldn’t it be in the developer branch and integrated and committed in production later. The interviewer and me were laughing for next 5 mins because of how I contradicted him. He changed errors to warnings then, said, Developers many times ignore them, but can they be of any use? I introduced lot of machine learning here and we had discussion on various models.
+Round 8:
+Again technical round cum last Hiring Manager round.
+1.) A problem on string was given. I don’t remember exactly, but logic was LIS. Both recursion and DP code.
+2.) Problem on arrays. Solved using queues.
+3.) Design cricbuzz.
+4.) Design notification system. Here he mentioned you have the database and records are stored. You need to filter which the records as per the trending topics and deliver notifications. For context filtering, I talked about NLTK, n-grams, tagging, and then prioritizing the records filtered.
+With this the process ended and he started explaining me about the work of the team etc.
+Overall, it took around 7 hours for these 6 interviews.I hardly took 15 mins break in between.
+Next day, I received the call that my interviews went well and they’d like to proceed further with my candidature. I got the offer.
+I’d like to thanks GeeksForGeeks for their incredible website which helped me prepare a lot. Do go through previously asked interview questions an dpractise them.
+
+
+I got contacted by a recruiter agency.
+1st Round (HackerRank Test 1 Hour 30 Mins):
+1) https://www.geeksforgeeks.org/print-number-ascending-order-contains-1-2-3-digits/
+2) 2. Given a sequence of M and N with M representing increasing and N representing decreasing, output the smallest number that follows this pattern.
+Input    : MMMM
+Output   : 12345
+Input    : NNNN
+Output   : 54321
+Input    : MMNM
+Output   : 2314
+My hackerRank test was same as described here: https://www.geeksforgeeks.org/goldman-sachs-interview-experience-set-35-experienced/ 
+Solved both of them and got the call for next round. 
+2nd Round (Coderpad Test 1 Hour):
+1) There are two fractions example: F1 = 3/4 and F2 = 5/6. You need to compute their sum and return the result.
+2) One problem similar to described here: https://www.geeksforgeeks.org/solve-dynamic-programming-problem/
+The interviewer will be helping you in case you get stuck. But make sure you at least start approaching the problem. Even the brute force.
+Completed both of them in 1 hour and got the call for next round.
+3rd Round (F2F)
+Project-specific questions. Related to Java JDBC, Socket Programming and project at the current company.
+Got eliminated here.
+V
+
+

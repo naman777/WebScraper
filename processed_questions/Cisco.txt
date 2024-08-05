@@ -1,0 +1,61 @@
+Explained the work.
+
+
+B
+
+
+After online HackerRank test 
+1st round 
+OS concept like virtual memory, types of memory, diff  between cache memory and main memory
+Explain system call,
+printf( ) how it will work?
+C concepts – static variable VS Global variable, static global variable,  bit to hex , bit problems like set and swap bit of Integer , structure padding , volatile variable in depth , register variable
+implement stack using queue.
+
+
+How NAND work in SSD?
+
+
+How to link dynamic lib with driver test program ?
+
+
+Round 2: Networking questions, hub vs switch, significance of gateway, how to route packet from  one network to another, how would you build a packet when it goes from one network to another, bit manipulation
+
+Round 3: Resume projects, hell lot of questions
+
+Round 4: (Managerial) About the role, Why do you want to switch so early?, Mostly critical bug you have solved?, Why Cisco?
+
+
+Written Test:
+1) 15 Aptitude Questions
+2) 25 CS Fundamentals & Couple of output questions.
+
+
+Explained the work.
+
+
+B
+
+
+After online HackerRank test 
+1st round 
+OS concept like virtual memory, types of memory, diff  between cache memory and main memory
+Explain system call,
+printf( ) how it will work?
+C concepts – static variable VS Global variable, static global variable,  bit to hex , bit problems like set and swap bit of Integer , structure padding , volatile variable in depth , register variable
+implement stack using queue.
+
+
+How NAND work in SSD?
+
+
+How to link dynamic lib with driver test program ?
+
+
+Round 2: Networking questions, hub vs switch, significance of gateway, how to route packet from  one network to another, how would you build a packet when it goes from one network to another, bit manipulation
+
+Round 3: Resume projects, hell lot of questions
+
+Round 4: (Managerial) About the role, Why do you want to switch so early?, Mostly critical bug you have solved?, Why Cisco?
+
+

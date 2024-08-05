@@ -1,0 +1,64 @@
+Question: how it hold the voltage?
+how request will come from host how it will be process by host layer / protocol layer/ application layer of SCSI.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: how error handling will be done in Firmware of SSD ?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: N to N flow of SSD firmware
+How PCIe /SAS work?
+
+
+register / volatile,
+bit operation along with how your solution will work.
+bit set ?
+
+
+5.Difference between c and c++ programming
+6.what is multi threaded programming?
+
+
+how it hold the voltage?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: how error handling will be done in Firmware of SSD ?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: N to N flow of SSD firmware
+How PCIe /SAS work?
+
+
+register / volatile,
+bit operation along with how your solution will work.
+bit set ?
+
+
+5.Difference between c and c++ programming
+6.what is multi threaded programming?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

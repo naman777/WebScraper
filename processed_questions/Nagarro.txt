@@ -1,0 +1,18 @@
+Qs-
+
+
+How Vptrs work internally, how does compiler handle its functionality ?
+
+
+Runtime polymorphism, Constructors, Copy Constructors, why is object’s reference passed to the copy constructor instead of the object itself ?
+
+
+Qs-
+
+
+How Vptrs work internally, how does compiler handle its functionality ?
+
+
+Runtime polymorphism, Constructors, Copy Constructors, why is object’s reference passed to the copy constructor instead of the object itself ?
+
+

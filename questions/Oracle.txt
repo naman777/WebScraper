@@ -1,0 +1,182 @@
+Round 1: Unix Java SQL questions of basic knowledge. Previous projects :moderate
+
+1. Questions on Java : manipulation, string
+2. Hashing
+3. Unix commands
+4. Previous projects: whats the achievement, how much difficulty level is there
+5. Sql queries: 2nd highest salary person and commands.
+45 min
+Round 2:Oracle Products and in depth knowledge. : difficult
+
+40 min
+Round 3: HR and managerial round : easy
+
+30 min
+
+
+
+
+Oracle 2 years Experienced  Hyderabad  location. There were 3 tech round and 1 director round.
+Round 1 
+1: If there is sudden cut off in power and you have to save the clients important data from a web browser, so that it can be recovered , how would you do that?
+2: Difference between Object,Class,Reference with example.
+3: what is singleton class design your own.
+4: You have records of employee name and salary.You have to sort the records on the basis of employee salary,if same then by  employee name.
+Round 2 
+1: You have three types of details distance between two cities ,road condition between two cities and traffic details between two cities. Priority of traffic>distance>road condition.
+You will be given source and destination, write a code to find the best path.
+2: you have 2 methods isDirectory and isFile,code to count total number of files.
+    Then count size of top 10 files, then is it possible to find top 10 files without scanning all the     directories.
+Round 3
+1: Project Discussion.
+2: Convert sorted array to balanced binary search tree.
+3: Given array of characters shuffle it so that no similar character are beside to each other.
+4: 25 horses puzzle.
+Round 4
+1: why you are switching your current job?
+2: Why Oracle?
+3: State any two unique ideas on which we can build a mobile app.
+4: CTC discussion.
+
+
+
+I attended interview for Java developer for 3 years experience. 
+First round was written for 40 mint which consist of 30 question. Out of 30,  25 questions were from Java fundamentals and 5 simple aptitude. Do not remember questions exactly but all were simple and easy. 
+After that 2 face to face interviews
+1st round face to face
+1. They ask tell me about yourself
+2. Employee and department table design based on some condition like one employee can belong to more than one department then one employee can belong to one department only like this 5-6 question
+3. There is an array [1,2,5,4,8,3] and sum = 7. Find all the sub set array such that sum of elements is 7
+Example [1+2+4]=7, [2+5]=7, [4+3]=7
+4 There are two array array1 = [a, f, h, k, m, o, s, r …….. and so on], array2 = [h, k, m. o]. Check that array1 contain array2 or not 
+
+
+
+Round 1:
+	– Group anagrams from list of strings
+	– Right view of binary tree
+Round 2:
+	– Given Binary tree. Find whether its BST
+	– Singleton & Observer design patterns
+	– Sorted array to balanced BST
+	– Get frequency count of elements of sorted array
+	– Sort strings by length
+Round 3:
+	– Print LinkedList elements in reverse order
+	– Log file is given with some function start and ending statements. Determine whether its valid log file i.e. all statements properly logged or not ?
+	– XML file validation
+	– Managerial Questions
+Round 4:
+	– Questions on Threads, HashMap, etc
+	– find a number between 1 and 100, that generates longest series using following rules:
+		if n is odd, next n = 3n + 1
+		if n is even, next n = n/2
+		if n == 1, terminate
+Round 5:
+	– Managerial questions
+
+
+
+Oracle 3 years Java Experienced Kolkata location. I attended 2 rounds. 
+Round 1
+Round 2
+ 
+
+ 
+ 
+
+
+
+
+
+Round 1: Unix Java SQL questions of basic knowledge. Previous projects :moderate
+
+1. Questions on Java : manipulation, string
+2. Hashing
+3. Unix commands
+4. Previous projects: whats the achievement, how much difficulty level is there
+5. Sql queries: 2nd highest salary person and commands.
+45 min
+Round 2:Oracle Products and in depth knowledge. : difficult
+
+40 min
+Round 3: HR and managerial round : easy
+
+30 min
+
+
+
+
+Oracle 2 years Experienced  Hyderabad  location. There were 3 tech round and 1 director round.
+Round 1 
+1: If there is sudden cut off in power and you have to save the clients important data from a web browser, so that it can be recovered , how would you do that?
+2: Difference between Object,Class,Reference with example.
+3: what is singleton class design your own.
+4: You have records of employee name and salary.You have to sort the records on the basis of employee salary,if same then by  employee name.
+Round 2 
+1: You have three types of details distance between two cities ,road condition between two cities and traffic details between two cities. Priority of traffic>distance>road condition.
+You will be given source and destination, write a code to find the best path.
+2: you have 2 methods isDirectory and isFile,code to count total number of files.
+    Then count size of top 10 files, then is it possible to find top 10 files without scanning all the     directories.
+Round 3
+1: Project Discussion.
+2: Convert sorted array to balanced binary search tree.
+3: Given array of characters shuffle it so that no similar character are beside to each other.
+4: 25 horses puzzle.
+Round 4
+1: why you are switching your current job?
+2: Why Oracle?
+3: State any two unique ideas on which we can build a mobile app.
+4: CTC discussion.
+
+
+
+I attended interview for Java developer for 3 years experience. 
+First round was written for 40 mint which consist of 30 question. Out of 30,  25 questions were from Java fundamentals and 5 simple aptitude. Do not remember questions exactly but all were simple and easy. 
+After that 2 face to face interviews
+1st round face to face
+1. They ask tell me about yourself
+2. Employee and department table design based on some condition like one employee can belong to more than one department then one employee can belong to one department only like this 5-6 question
+3. There is an array [1,2,5,4,8,3] and sum = 7. Find all the sub set array such that sum of elements is 7
+Example [1+2+4]=7, [2+5]=7, [4+3]=7
+4 There are two array array1 = [a, f, h, k, m, o, s, r …….. and so on], array2 = [h, k, m. o]. Check that array1 contain array2 or not 
+
+
+
+Round 1:
+	– Group anagrams from list of strings
+	– Right view of binary tree
+Round 2:
+	– Given Binary tree. Find whether its BST
+	– Singleton & Observer design patterns
+	– Sorted array to balanced BST
+	– Get frequency count of elements of sorted array
+	– Sort strings by length
+Round 3:
+	– Print LinkedList elements in reverse order
+	– Log file is given with some function start and ending statements. Determine whether its valid log file i.e. all statements properly logged or not ?
+	– XML file validation
+	– Managerial Questions
+Round 4:
+	– Questions on Threads, HashMap, etc
+	– find a number between 1 and 100, that generates longest series using following rules:
+		if n is odd, next n = 3n + 1
+		if n is even, next n = n/2
+		if n == 1, terminate
+Round 5:
+	– Managerial questions
+
+
+
+Oracle 3 years Java Experienced Kolkata location. I attended 2 rounds. 
+Round 1
+Round 2
+ 
+
+ 
+ 
+
+
+
+
+

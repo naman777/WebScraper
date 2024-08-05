@@ -1,0 +1,62 @@
+How does a hash map work?
+
+
+What is the difference between a hash map and an array?
+
+
+Follow up: What if the graph is cyclic? 
+ACID properties of Database.
+
+
+[cat, rat, mat, apple, boy, bat] String pattern: ?at Output: 4 (because cat, rat, mat, bat matches the string pattern)
+
+
+What is the probability that your team (Team B) will win?
+
+
+What will be your trajectory so as to get food to both customers in minimum time.
+
+
+What would happen if in a certain situation, we were at an equal distance from both the destinations.
+
+
+How would you decide which route to take next.
+
+
+What are the technologies you’re working on currently.
+
+
+Why do I want to leave my present company?
+
+
+How does a hash map work?
+
+
+What is the difference between a hash map and an array?
+
+
+Follow up: What if the graph is cyclic? 
+ACID properties of Database.
+
+
+[cat, rat, mat, apple, boy, bat] String pattern: ?at Output: 4 (because cat, rat, mat, bat matches the string pattern)
+
+
+What is the probability that your team (Team B) will win?
+
+
+What will be your trajectory so as to get food to both customers in minimum time.
+
+
+What would happen if in a certain situation, we were at an equal distance from both the destinations.
+
+
+How would you decide which route to take next.
+
+
+What are the technologies you’re working on currently.
+
+
+Why do I want to leave my present company?
+
+

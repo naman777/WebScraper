@@ -1,0 +1,766 @@
+I had got a call through Naukri Portal . I got interview invite for a weekend drive. 
+Round 1 
+Hacker rank test :
+Q1 : Given relationship of child-parent for a tree for all nodes. Find the diameter of that tree.
+Q2 :  https://www.geeksforgeeks.org/maximum-difference-between-two-elements/
+3 more MCQs in test. 
+Round: 2
+Q1: Given a n-ary tree. Find the longest path (top to down) with consecutive integers in increasing order
+Q2: Design a RangeSet class where you can Add, Delete and search in a optimized way
+E.g. add 10-20
+Delete 13-27
+Add – 23-28
+Search (3)- output false
+Search (22) –  output false
+Search (24) – output true
+Round: 3 
+Q1: https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+Q2: Given a tree find the next right element towards any given element in input (Level order traversal)
+Q3: Count all possible distinct sums (top-down) in a binary tree.
+Round 4: 
+Q1: https://www.geeksforgeeks.org/nuts-bolts-problem-lock-key-problem/
+Q2: https://www.geeksforgeeks.org/dynamic-programming-set-27-max-sum-rectangle-in-a-2d-matrix/
+Q3: Given 2 trees, check whether Tree A contains Tree B. (Contains mean all nodes and orientation of their children should match)
+Round 5: 
+Q1: Given a string like below, it has words embedded for zero to nine, You need to calculate the sum as per the string 
+onehhhtwominusthreehhkkseveneightjnine
+should be equivalent to
+1+2-3+78+9
+output: 87
+twothreekkkminuspponeksevenoeightllninenine
+should be equivalent to
+23-1+7+8+99
+Output : 136
+onetwothreefour
+output: 1234
+Q2: Design a tiny URL service like bit.ly
+Q3: one puzzle :
+Given 1 Box with 2 latches
+A and B stay in different states.
+A has 2 keys of latch 1
+B has 2 keys of latch 2
+Now user A has to send a message in a box to User B.
+while sending the message A has to make sure that no one on the way reads the message. If A sends the Key along, anyone can open it and check .
+How would you make sure that this threat to read the message in between, is removed. 
+It was a good experience, although i got reject after a few days
+
+
+Here goes my experience.
+Skype Round:
+1) Level order traversal of a binary tree. Extend or modify the code to zig zag traversal.
+https://www.geeksforgeeks.org/level-order-tree-traversal/
+https://www.geeksforgeeks.org/level-order-traversal-in-spiral-form/
+Face to Face Round 1 : 
+1) Questions about my previous work.
+2) Sort an array of 0’s, 1’s, 2’s.
+https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
+Face to Face Round 2 :
+1) Print last n lines of a file
+https://www.geeksforgeeks.org/print-last-10-lines-of-a-given-file/
+2) Right and Top view of a binary tree
+https://www.geeksforgeeks.org/print-right-view-binary-tree-2/
+https://www.geeksforgeeks.org/print-nodes-top-view-binary-tree/
+Face to Face Round 3 ( Hiring Manger) :
+1) Questions about my previous company work and why would I want to shift.
+2) Given a matrix which is spirally sorted. Remove an element and insert another element without messing up with the sorted order. More importance was given to coding
+Face to Face Round 4 ( Bar Raiser ) :
+1) Given an array filled up with 1 to n^2 in randomized order. Fill it in a square matrix of size n.
+2) Give test cases for atoi function.
+A big Thanks to GeeksforGeeks for providing such a brilliant platform for interview preparation. Keep up the good work 🙂
+
+
+
+Total experience : 8 Years.
+Interviewed for : SDE-2
+Face to Face Round 1:
+Face to Face Round 2:
+Face to Face Round 3:
+Face to Face Round 4:
+A big Thanks to GeeksforGeeks for providing such a brilliant platform for interview preparation. Keep up the good work 🙂
+
+
+
+First of all I thank GeeksForGeeks for giving right direction in Making my dream true. 
+Got short listed from a consultancy and They have shared a link of Microsoft where I have to submit the online test.
+Online test has 2 questions need to be completed in 1hour
+Submitted psudo code and got short listed for interview.
+———————————————————————————————————————-  
+10-30 AM interview started.
+11 – AM
+2 PM
+4-30 PM
+5-30
+Offer discussion 🙂 …..  
+
+
+
+This is the main forum where I did all my preparation. Thanks a lot GeeksForGeeks! Here’s giving back.
+I had got a call from the Bing team in IDC. I have 2 years of job experience post a BTech in CSE. I had 5 interviews in all, as described below.
+1) The first one was a fly/ no fly round. At first, there was some discussion around my previous work experience, with the interviewer asking me some technical and design questions here and there. Then I was asked to write code to find the smallest subarray to sort that would sort an entire array. The answer is available at https://www.geeksforgeeks.org/minimum-length-unsorted-subarray-sorting-which-makes-the-complete-array-sorted/. I had to write optimized code for this.
+The second was to do an ER diagram for a furniture scenario. The important part here being that Material of a furniture can be a separate class, rather than a property in furniture items like bed, chair, table. So Material can have associated properties like IsFlammable, IsWaterResistant, etc. 
+2) I got just one question in this interview which I was asked to solve on the board. The question was to add a digit to a number that is represented by a linked list, where each node is a digit of the number. The constraint here was that the linked list couldn’t be modified, except the digits to be modified in answer and the number could be infinitely long. So you had to avoid the problem of memory overflow. So no recursion, no stack, no copy of linked list, no change to original linked list, as suggest the solutions on geeksforgeeks. To keep track of carry to be added to previous digit iteratively, you basically have to keep a track of the digit before the last consecutive 9 that precedes the last digit. For example in 9719938996, this would be the 4the digit from right, that is 8. So now in a single pass, you can figure out such a position of 9(if any) and also the last digit. Then the required digits can be changed easily.
+3) In this round, the interviewer opened a console app on his PC and asked me to code there. I believe he was actually taking note of the time I took to write the code and whether it compiled in the first time or not. I paid more attention to accuracy of code than to the time I took. The questions I was asked are:
+Check if a number Nis a power of another number X. Then we spoke of the case where X was 2. For this case, we discussed how this could be done by checking the bits.
+Check if two binary trees are identical. I also had to initialize and run it with a test case. There was a discussion on line wise optimization after completing the code.
+Rotate a matrix by a given distance. A similar answer where distance to rotate is 1 can be found at https://www.geeksforgeeks.org/rotate-matrix-elements/
+Then there was a design discussion on designing a library’s online portal. After I gave him a basic architecture, he asked how I would implement the search feature. I suggested doing that with the book’s name, author, ISBN, etc. He asked me how to do it based on a book’s content. I told him I’d store tags for each books that could be used while searching. He liked the idea, but prodded me about how I’d do a proper text search. I told him about using a hash table and blobs. Perhaps he was looking for tries, but since I was not much familiar with them, I avoided that. He seemed satisfied and ended the interview.
+4) He asked me to introduce myself, talk about my projects and of the greatest technical challenge that I had faced. Then asked me to write code on paper for the LinkedIn feature where we are shown what is the connection depth of two people. The solution was a version of shortest path algorithm for a graph. He asked me to optimise my answer for O(1) extra space (besides the space of the graph structure).
+The next scanario included a series of questions. I was to give the informal schema of Customer, Item, Order for an online retailer like Amazon. Apart from the foreign key relationships, he was interested in how I’d store the orders because each purchase order can have multiple items purchased. The answer was to have a relational table like ItemizedOrder which stored mappings of the order and item Ids. Then he asked me to write a query to get all customers who had not bought a certain item by a given date. Then he said that for any item like a book, the company will have to get their books from many book sellers who will have different schemas and ways of storing the books’ information. He asked me to design a system that will allow handling such variation. I gave him a portal or a web service as an end point where the different vendors could upload their data. Then my web service would have a rule engine which would map different schemas, assign default values wherever possible for missing values like Subtitle, ignore missing values of unimportant fields like NoOfPages, else return error messages for items that had insufficient mandatory data, like Price. This rule engine would then store the processed input in our DB in our schema.
+5) This was with a very senior guy, but was more of a formality. The interviewer told me I was selected in the first 10 minutes and then was just trying to analyze my work and preferences for a suitable team and set my expectations. He answered some questions I asked and ended the interview in half an hour.
+In general, I was asked 2 common questions every time- Describe your previous work experience and why do you want to join Bing. I did not get the approach to most questions instantly, but I spoke of my thoughts aloud. They all guided me when I got stuck and prompted me towards optimizations possible. Twice, I was also given examples of scenarios which my code did not cover. Since I knew I was interviewing for Bing, I asked the interviewers relevant questions after each round. Each interview was scheduled for 1 hour, though the third one got stretched to 1.5 hours and the last one was quite short. Except for the first interview, the outcome of the others is collective. So even if you don’t do very well in one, if you can manage the others decently, you will be hired. All the best!
+
+
+
+My resume was forwarded to Microsoft through a consultancy firm. I was called for a day long interview process at Microsoft IDC, Bangalore.
+
+Round 1 (1 hour+):
+Question 1: https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/
+I first gave the insertion sort algorithm, he told me to improve upon it. I was stuck for some time so he gave me another problem: https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/. I was able to solve this in a few minutes using the Min Heap method, so he then told me to think on similar lines for the original question he gave me. After around 20-30 minutes of brainstorming I was able to solve`it using the Heaps method.
+Question 2: https://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxm-matrix/
+I solved this question pretty quickly. He asked me if I had come across this question before; didn’t lie, told him I already knew this.
+This was followed by discussion on what happens in the Bing Team at Microsoft.
+Round 2 (1 hour+):
+Question 1: Given a large text file, find an efficient algorithm to find the least distance(measured in number of words) between any two given words.
+Solved this using hashing; he then extended the problem saying that this program would be executed a large number of times (to find distances between many pairs of words),  so I need to improve my algorithm such that the time complexity is reduced after the first iteration of problem solving. Solved this using hashing and then using binary search to find the nearest index of the second word to the index of the first word in the hash.
+Question 2: He first gave a background on how the autocorrect feature in phone keypads work, explaining that the probability of the autocorrected word would be greater than the typed word. He told me to find an algorithm to find the most probable word of length n that can occur given that there are m possible characters. The probability that a word can occur is give as: P(1st letter) * P(2nd letter given that 1st has been pressed already) * P(2nd letter) * P(3rd letter given that 2nd has been pressed already) …. and so on.. All values of individual terms in this equation is already given.
+Think of the problem as a mxn grid where each element in a column is connected to every  element in the next column by some weight. Solving this problem by bruteforce would O(m^n). By storing the solutions of subproblems the complexity would reduce to O(m*n) which is the solution the interviewer wanted.
+Round 3 (1 hr): Hiring manager round:Generic question but was a bit unexpected. Started off by asking about my current jobs and why I wanted to change, then the conversation went towards why I had chosen a non-CS course in my undergraduate, the conversation then took off on a completely different path about  what computers can do and what computer science cannot do until it reached all the way upto The Turing machine. To be honest I was most nervous after this round.
+
+
+
+1. Find square root of number without using sqrt function
+2. Given a directed graph. Construct another graph from given graph such that if path exists from vertices A to vertices B and from B to C, then path from A to C and from C to A also should exists.
+3. Write function which takes array of elements A and array of elements B and outputs (A-B)U(B-A).
+4. Implement hashmap on your own. Write good hashing function for string.
+Last round on some design questions.
+
+
+
+Round 1 (Telephonic)
+Round 2 (F2F)
+Round 3 (F2F)
+Round 4 (F2F)
+
+B
+
+
+Position: Software Engineer – 2(Big Data Team, Bangalore)
+I applied through referral. Got a call within a week.
+
+Round-1(Skype-Bangalore)(~45Mins)
+The interviewer directly asked me to explain about my current project. 5-6 questions from there.
+My project was based on cloud computing so, He asked me some basic questions about cloud computing. About
+three layers(IAAS, PAAS, SAAS), etc..
+The difference between CloudStack and OpenStack(CloudStack(CS), The product I am working on).
+OpenStack is a similar product. Scenarios where CS is used (how customers are benefited from CS).
+Then, He moved to Algorithm section. How will you differentiate the questions from google code jam and
+facebook hacker cup(As I participated in both competitions)
+He asked me to give him a problem. I told, To find the longest palindromic substring in a string of characters.
+Then, he asked me the solution, Gave Manachar’s algorithm. Asked the algorithm detailsInterviewerand time, space complexity.
+
+Round-2(F2F-Bangalore)(~1Hour 15Mins)
+The interviewer started with my Introduction. He then scanned my entire CV, all projects,
+even covered my school projects, etc..
+The difference between Java and C++. Advantages and disadvantages of each.
+Which language you are most comfortable with. Rate yourself out of 5.
+After that he asked, how the run time polymorphism works in C++. How C++ resolves it. I explained about
+Virtual stuffs and associated VPTR and VTABLE.
+Then, He asked details of my last project. Some here and there questions from the project.
+He moved to algorithm section.
+Q-1: Given MxN binary matrix, find the largest sub-square matrix with all 1’s.
+I came up with a DP solution. He asked me to explain the algo first then told me to write code on paper. I left some validation cases, so he asked to handle those, then asked me about time, space complexity and to write all test cases.
+Q-2: Find the row which contains most number of 1’s in a MxN binary matrix, Where in each row 0’s are always followed by 1’s. Gave him the binary search algorithm, but he asked me to optimize further. Then, I came up with the stepping linear time algorithm with O(M+N). (Same, asked to write code on paper then test cases). Time and space complexity.
+
+Round-3(F2F-Bangalore)(~1Hour)
+The interviewer started with my Introduction. It was kind of Design round.
+He asked me to design your own BitSet API. All the methods like flip, set, reset, countOnes, etc..
+What data structure will you use. He then, put a constraint like what if multiple threads access the
+methods. I gave solution to use mutex lock. He asked me the difference between semaphore and mutex, and
+how to handle deadlock situation. I told about maintaining locks in 2-phase. (Growing and shrinking
+phase). Then asked the implementation details. Wrote all codes on paper. Testcases and time, space
+complexities of each operation.
+
+Round-4(F2F-Bangalore)(~1Hour)
+Introduction. Why Microsoft, Why do you want to leave, Asked details of my last project.
+He then asked me to design LRU cache on white board. Asked to write code for searching a key
+on LRU. As usual, Time, space complexity and Testcases.
+Algo Question:
+Check if given binary tree is binary search tree? How to handle the multiple thread case?
+Some discussion on that. Wrote code on white board, testcases and asked time, space complexity.
+
+Round-5(F2F-Bangalore)(~45Mins)
+Introduction, Asked about the product. Asked to draw the architecture of the product. Some discussion of each component of the architecture. What you explored outside of your current work. I talked about docker container. Some discussion on that. Explained about their work in detail. What is expected from the position, etc…
+
+Round-6(Skype-Redmond)(~45Mins)
+It started with my Introduction. The interviewer asked the detail of my current project.
+What was the duration of the project, and how many members involved?
+How many programming languages used? How many programming languages do you know?
+Which one are you most comfortable with? Rate out of 5.
+He then asked me the difference between class and structure in C++. How to implement an interface in C++.
+etc..
+Algo Question:
+Given two linked lists sorted in ascending order, merge them into one linked list(Maintain Sorting). Do it in place. He asked me to write in a text editor, shared my screen. Asked me to listout all test cases, and time, space complexity.
+
+Round-7(Skype-Redmond)(~45Mins)
+Introduction. Asked me the project details. Some discussion on that.
+Algo Question:
+Sort 1 billion integers with limited memory. I told about sorting them chunk by chunk and then
+merging. He then asked me how to decide the chunk size. I explained with an example. Asked about time
+complexity. Then, Asked whether this will take the same amount of time if we have infinite memory. I
+told about the access time difference in primary memory and secondary memory. Asked details about
+secondary memory, About disk technology, sector, seek time, rotational delay, etc.. 
+
+Round-8(F2F-Bangalore)(~45Mins)
+Again started with my Introduction. He asked my project details. He was the engineering director of the team.
+Algo Question:
+Find median of an infinite stream of integers with limited memory. I came up with a solution where we have infinite memory. I started with insertion sort and then optimized to min-heap and max-heap  method. But he was more interested in limited memory algorithm. I tried hard, but couldn’t come up  with one. He told me to write code for my solution on white board. As usual asked to write test  cases, time and space complexity.
+
+
+
+Round 1:
+Round 2: 
+Round 3: 
+Round 4: 
+
+
+
+1st Round :- (1 hr)
+2nd Round :- (1hr)
+3rd Round :- (1.5hr )
+4th Round :-(1hr)
+5th Round :- Engineering Manager (45 min)
+6th Round :- Hiring Manager (1hr)
+Tips : Ask questions if you have any confusion .
+Thanks to GeeksForGeeks. Whole process took around 1 month .
+
+
+
+1st Round :
+1)https://www.geeksforgeeks.org/maximum-product-subarray/
+2)https://www.geeksforgeeks.org/sort-an-almost-sorted-array-where-only-two-elements-are-swapped/
+3) Delete all nodes whose value is greater than K
+2nd Round (1 hr 30 mins)
+1) Clone a Binary Tree
+2)  There is a rack of shelves having balls of red and blue in each row . Retrieve all identical rows.
+3)  There is a rack of shelves having balls of red and blue in each row . Retrieve all unique rows.
+4)  How u will remove duplicates in an stream of Integers
+5) What Data structure you will use to identify unique elements and discard duplicates.
+3rd Round (1 hr 30 Mins)
+1) Given an Infinite stream of strings as  AAAAABBBCCDDDEEE… How will you arrange characters so that  string become unique without duplicates . Return true if it is possible to arrange else return -1. Ex . AAABBCCDEF – O/p ABABCDCEF : Possible . AAAAAAAAAAAAAAAAAAAAAAB : Not possible
+4th round
+1) Given Co-ordinates of x and y in an input array Identify if square can be formed at any point of time via coordinates if so return true;
+2) Given a Pre-Order Traversal of BST convert it into BST.
+3) Identify Leaves of BST through Pre Order without constructing it.
+It gave me a Lot of Learning to think out of Box. Thanks GFG .
+
+
+
+This was for Bing team.
+First Round-(Skype Call)
+3 PS/DS questions. All of them were questions which involved application of standard problems.
+After that I was called to Hyderabad for a day long drive. 3 Interviews with managers, 1 with partner.
+First Round-
+Second Round-
+Third Round-
+Final Round-
+
+
+This was for Skype team. 2 Interviews with managers, 1 with partner.
+First Round (1.5 hour)
+Second Round (1 hour)
+Final Round (1.5 hour)
+
+
+Round 1:
+Round 2:
+Round 3:
+Round 4:
+Round 4:
+ 
+
+
+I applied for the position of Software Engineer at Microsoft IDC, Hyderabad, given 1.5 years of my experience. My rounds were of intermediate level I guess.
+Round 1: Hackerrank test
+There were 1 questions in this round.
+1.) First question was based on strings. Given a string of characters, there will be a roll function given to you. The roll function will specify the subarray [s, e] in the string and this subarray shall be rolled how many times. Example: if s =”abcd” and roll() specifies that subarray [0, 2] be rolled by 2 (roll 0th position 2 times), it’ll increment 0th position by 2, thus s[0] = c. Roll function can be called as many times, then there will be some queries to output the character at any particular position.
+Solution: I did this by keeping the count of the number of times any character is rolled. For maintaining count, I used the cumulative frequency type of method in which we increment the count at position ‘s’ by n, then we decrement count at position ‘e+1’ by n. This passed all the test cases.
+2.) https://www.geeksforgeeks.org/count-ways-express-number-sum-consecutive-numbers/
+After this written round, I was called for onsite interviews.
+ Round 1:
+This round was based on data structures. I was asked two questions in this round. With two technical questions, I was asked about 2 projects of my resume.
+1.) First question was reversing a linked list n groups of k.
+2.) Second one was the zig-zag traversal of binary tree in a bottom up manner. Ex: if level order traversal of tree is [1], [2, 3], [4, 5, 8], [6, 8, 9, 7]
+then required output was: [7, 9, 8, 6], [4, 5, 8], [3, 2], [1].
+She wanted me to optimize as much as I can. I firstly talked about the brute force approach, using recursion, then I told her about the 2 stacks approach. She wanted me to use only stack and do that. Also, being an experienced person, they expect you to write a very neat code with proper test case coverage. They may not see at that moment, but they do look at it after the interview.
+After every interview, I was being given feedback.
+Round 2:
+This round was focused towards DP.
+1.) First question in this round was Weighted Job Scheduling. I told him the DP approach, then he went on to how you found the states of DP. How do you generally approach the DP problem. I told about optimal substructure and overlapping. Then he asked me to write the recursive code for the given question. We then had a lot of discussion on its complexity.
+2.) Second was LIS.
+Overall this round was easy. He then moved on to some design problems and general concepts of OS and Networking. He asked me to design cache, taking care of scalability and reliability. I talked about how distributed systems can be helpful, horizontal and vertical splitting, sharding concepts, replicas etc.
+3.) This question was what happens when you type a url in the web browser. He went on to various routing policies like weighted routing etc.
+I had AWS CSA in my resume, so he went on to concepts like CDN and cloudfront distributions.
+I had blogs on which I contribute, the interviewer asked me to open any of them. I recently started blogging on cloud computing and opened that. He asked some 2-3 questions about that.
+This round was the longest, of around 1.5 hour or so. Very interactive I felt. Enjoyed the most in this round.
+Round 3:
+This round was majorly for the discussion of design problem.
+1.) The first question we discussed about how to design the malloc() API. How memory allocation is done. If you are given a big array of free bytes, and requests keep coming for some size, how will you allocate that. After allocation, how will you deallocate. Note that we de-llocate using free which takes only the pointer to delete the memory it is pointing to. We don’t give the size here, so, we need to maintain the size for each allocation request in our implementation.
+2.) The second question was designing strtok(). Then he asked me to check if there was anything wrong with strtok() library function. I couldn’t guess it. He then gave me a hint to think about multiple requests coming at same time. Basically, the API is not thread safe. I was in my code creating a vector for its implementation. Then, problem reduced to writing a code that will ensure only one vector gets created even when multiple processes try to call the function at the same time. I told him how we can do that using singleton design pattern. I then wrote its code and we discussed about lazy and early instantiation in that.
+Round 4:
+This was the last round with the Azure’s head and some behavioural questions were asked.
+Majorly in this my resume projects were discussed.
+The design problem we discussed was designing autocomplete API of the search engine, I gave the trie solution as per the data and scenario he gave me. I was asked to write its full working code. Then he came on to concepts and things to be taken care of while designing the search engine.
+Also, I was majorly asked the question, that why I am looking for a change.
+After some 10-15 minutes, I was informed that my interviews went well and I’ll be extended the offer. Today I have it 🙂
+My advice: When we are appearing for interviews having some experience, companies expect us to write full working code covering all test cases. There should difference in the way we, being experienced write the code and a fresher writing the same piece. Also, having knowledge of design problems is a must. They test us on scalability, fault tolerance, reliability, user experience, load handling etc. Keep an open mind and try to think in all prospects when a design question is asked.
+I’d like to thanks GeeksforGeeks for their incredible website, contributing on and learning from which has provided me immense knowledge and confidence.
+
+
+Round 1: k frequently words in a given file of huge data.
+Find index of distortion in a sorted but a little bit distorted array.
+Round 2:
+First non repeated character in character stream of huge data.
+Design of URL shorter service .
+Round 3:
+Projects
+Round 4: with Technical partner manager .
+– island problem in a mxn matrix of integers
+– image compression
+– Design a service which talks to three other google calanedar like serices and merges those calendars in a single view for a user .                                        
+
+
+
+
+Round 1:
+Validate an infix arithmetic expression string (braces and brackets are similar to parentheses): (1+2)*{[90*3]-[67+8-9]}
+Proposed Ans: Djikstra’s Shunting yard
+Interviewer’s Ans: Parser Tree
+Round 2:
+Given a shelf of books, categorise those books according to any particular property of a book e.g. Alphabetic increasing author’s name, category, date of publish etc. The value of the property of the book has to be fetched from an external service and the call is expensive.
+Constraints: O(1) space, the calls to get the priority of a book should be as minimized as possible.
+Proposed Ans: Quick sort with a priority map associated with the property of the book, a modified partitioning scheme where every element’s priority is fetched once, total of nlogn calls.
+Constraint variation: Minimum swaps.
+Proposed Ans:
+1. Selection sort with O(n^2) time and O(1) space. – n swaps
+2. Bucket sort with O(n) space and time. – 0 swaps
+Round 3:
+Given a very long string and a transformation map, replace all the occurrences of any needle strings with their resultant transformations e.g.
+ 
+
+ 
+ 
+
+
+
+Proposed Ans: Naive solution by processing character by character and replacing the suffix if it matches with any of the needles.                                        
+
+
+
+
+About Me: 6.5 Years experienced professional.
+[Online]
+Round 0: Hacker rank 90 min online test.
+[Onsite]
+Round 1: 
+Round 2:
+Round 3:
+Round 4:
+
+
+
+
+Round 1(Online Test): There were three questions on cocubes:
+First2 marks): https://www.geeksforgeeks.org/calculate-the-total-fine-to-be-collected/
+Second(3 marks): Find the smallest number which when appended to given number will make the resultant number a palindrome.
+Third(5 marks): https://www.geeksforgeeks.org/remove-bst-keys-outside-the-given-range/
+98 people were selected for the next round. All those who had done all 3 questions or (2 questions and a good cg) made it to the next round
+Round 2:(Group Fly) Since 98 was too large a number to accomodate in the room. They conducted this round in 3 sets . I was in the first set which included 42 students. A common question was written on the board and around 6-7 students were alloted a common mentor. The question was ” given a circular linked list and an integer k, you need to traverse the list till index k (first index is 1) and delete the node at the kth index. Do this repeatedly until only a single node is left and return this node.” We were asked to write  the solution on paper.What they focussed more on was writing clean code and considering all the  corner cases . Total 23 students made it to the next round out of 98.
+Round 3:(Technical Interview)  He asked about my branch and courses I had done. Then he said he would ask me questions on trees as I had said DSA as one of the courses. He gave me a Binary Search Tree and a number k and asked me to find the two nodes to get the sum k. He wanted proper written code for this considering all the test cases.Then he asked me to write the code if it was a Binary Tree instead. He helped me throughout the conversation and was satisfied by my answer although wanted a written code which i struggled a lot with.
+Then he gave me an array and a number k and asked me to find all combinations of numbers in array to get the sum, k. I gave a backtracking approach for this and again he asked me to write proper code for this too. After that he asked me to get all combinations of two numbers from the array to get the required sum. I gave a hashing approach and wrote the code for this. Then he asked me to do this without hashing . I gave a two pointers approach for this. He was repeatedly focussed on whether i considered the corner cases or not.
+Round 4(Technical Interview):  He said he had not prepared anything as such . He saw my resume and asked me about my projects, related to big data. I explained him everything I had done . The he asked me to design a big data system to see all the log files generated and figure out the error immediately by seeing the log file generation system. I struggled a lot. I told him my main work was Setting up big data system and i did not know so much of system design. Then he moved on to DSA and asked me to copy array data from one location to another given only the source and destination pointer. Then he gave me a question ” given stock prices, find the maximum profit that can be made by repeated buying and selling of stocks” . I explained him and he wanted proper code for the same. He gave me some time to write the code properly.
+Finally, 12 students were selected
+
+
+I had got a call through Naukri Portal . I got interview invite for a weekend drive. 
+Round 1 
+Hacker rank test :
+Q1 : Given relationship of child-parent for a tree for all nodes. Find the diameter of that tree.
+Q2 :  https://www.geeksforgeeks.org/maximum-difference-between-two-elements/
+3 more MCQs in test. 
+Round: 2
+Q1: Given a n-ary tree. Find the longest path (top to down) with consecutive integers in increasing order
+Q2: Design a RangeSet class where you can Add, Delete and search in a optimized way
+E.g. add 10-20
+Delete 13-27
+Add – 23-28
+Search (3)- output false
+Search (22) –  output false
+Search (24) – output true
+Round: 3 
+Q1: https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+Q2: Given a tree find the next right element towards any given element in input (Level order traversal)
+Q3: Count all possible distinct sums (top-down) in a binary tree.
+Round 4: 
+Q1: https://www.geeksforgeeks.org/nuts-bolts-problem-lock-key-problem/
+Q2: https://www.geeksforgeeks.org/dynamic-programming-set-27-max-sum-rectangle-in-a-2d-matrix/
+Q3: Given 2 trees, check whether Tree A contains Tree B. (Contains mean all nodes and orientation of their children should match)
+Round 5: 
+Q1: Given a string like below, it has words embedded for zero to nine, You need to calculate the sum as per the string 
+onehhhtwominusthreehhkkseveneightjnine
+should be equivalent to
+1+2-3+78+9
+output: 87
+twothreekkkminuspponeksevenoeightllninenine
+should be equivalent to
+23-1+7+8+99
+Output : 136
+onetwothreefour
+output: 1234
+Q2: Design a tiny URL service like bit.ly
+Q3: one puzzle :
+Given 1 Box with 2 latches
+A and B stay in different states.
+A has 2 keys of latch 1
+B has 2 keys of latch 2
+Now user A has to send a message in a box to User B.
+while sending the message A has to make sure that no one on the way reads the message. If A sends the Key along, anyone can open it and check .
+How would you make sure that this threat to read the message in between, is removed. 
+It was a good experience, although i got reject after a few days
+
+
+Here goes my experience.
+Skype Round:
+1) Level order traversal of a binary tree. Extend or modify the code to zig zag traversal.
+https://www.geeksforgeeks.org/level-order-tree-traversal/
+https://www.geeksforgeeks.org/level-order-traversal-in-spiral-form/
+Face to Face Round 1 : 
+1) Questions about my previous work.
+2) Sort an array of 0’s, 1’s, 2’s.
+https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
+Face to Face Round 2 :
+1) Print last n lines of a file
+https://www.geeksforgeeks.org/print-last-10-lines-of-a-given-file/
+2) Right and Top view of a binary tree
+https://www.geeksforgeeks.org/print-right-view-binary-tree-2/
+https://www.geeksforgeeks.org/print-nodes-top-view-binary-tree/
+Face to Face Round 3 ( Hiring Manger) :
+1) Questions about my previous company work and why would I want to shift.
+2) Given a matrix which is spirally sorted. Remove an element and insert another element without messing up with the sorted order. More importance was given to coding
+Face to Face Round 4 ( Bar Raiser ) :
+1) Given an array filled up with 1 to n^2 in randomized order. Fill it in a square matrix of size n.
+2) Give test cases for atoi function.
+A big Thanks to GeeksforGeeks for providing such a brilliant platform for interview preparation. Keep up the good work 🙂
+
+
+
+Total experience : 8 Years.
+Interviewed for : SDE-2
+Face to Face Round 1:
+Face to Face Round 2:
+Face to Face Round 3:
+Face to Face Round 4:
+A big Thanks to GeeksforGeeks for providing such a brilliant platform for interview preparation. Keep up the good work 🙂
+
+
+
+First of all I thank GeeksForGeeks for giving right direction in Making my dream true. 
+Got short listed from a consultancy and They have shared a link of Microsoft where I have to submit the online test.
+Online test has 2 questions need to be completed in 1hour
+Submitted psudo code and got short listed for interview.
+———————————————————————————————————————-  
+10-30 AM interview started.
+11 – AM
+2 PM
+4-30 PM
+5-30
+Offer discussion 🙂 …..  
+
+
+
+This is the main forum where I did all my preparation. Thanks a lot GeeksForGeeks! Here’s giving back.
+I had got a call from the Bing team in IDC. I have 2 years of job experience post a BTech in CSE. I had 5 interviews in all, as described below.
+1) The first one was a fly/ no fly round. At first, there was some discussion around my previous work experience, with the interviewer asking me some technical and design questions here and there. Then I was asked to write code to find the smallest subarray to sort that would sort an entire array. The answer is available at https://www.geeksforgeeks.org/minimum-length-unsorted-subarray-sorting-which-makes-the-complete-array-sorted/. I had to write optimized code for this.
+The second was to do an ER diagram for a furniture scenario. The important part here being that Material of a furniture can be a separate class, rather than a property in furniture items like bed, chair, table. So Material can have associated properties like IsFlammable, IsWaterResistant, etc. 
+2) I got just one question in this interview which I was asked to solve on the board. The question was to add a digit to a number that is represented by a linked list, where each node is a digit of the number. The constraint here was that the linked list couldn’t be modified, except the digits to be modified in answer and the number could be infinitely long. So you had to avoid the problem of memory overflow. So no recursion, no stack, no copy of linked list, no change to original linked list, as suggest the solutions on geeksforgeeks. To keep track of carry to be added to previous digit iteratively, you basically have to keep a track of the digit before the last consecutive 9 that precedes the last digit. For example in 9719938996, this would be the 4the digit from right, that is 8. So now in a single pass, you can figure out such a position of 9(if any) and also the last digit. Then the required digits can be changed easily.
+3) In this round, the interviewer opened a console app on his PC and asked me to code there. I believe he was actually taking note of the time I took to write the code and whether it compiled in the first time or not. I paid more attention to accuracy of code than to the time I took. The questions I was asked are:
+Check if a number Nis a power of another number X. Then we spoke of the case where X was 2. For this case, we discussed how this could be done by checking the bits.
+Check if two binary trees are identical. I also had to initialize and run it with a test case. There was a discussion on line wise optimization after completing the code.
+Rotate a matrix by a given distance. A similar answer where distance to rotate is 1 can be found at https://www.geeksforgeeks.org/rotate-matrix-elements/
+Then there was a design discussion on designing a library’s online portal. After I gave him a basic architecture, he asked how I would implement the search feature. I suggested doing that with the book’s name, author, ISBN, etc. He asked me how to do it based on a book’s content. I told him I’d store tags for each books that could be used while searching. He liked the idea, but prodded me about how I’d do a proper text search. I told him about using a hash table and blobs. Perhaps he was looking for tries, but since I was not much familiar with them, I avoided that. He seemed satisfied and ended the interview.
+4) He asked me to introduce myself, talk about my projects and of the greatest technical challenge that I had faced. Then asked me to write code on paper for the LinkedIn feature where we are shown what is the connection depth of two people. The solution was a version of shortest path algorithm for a graph. He asked me to optimise my answer for O(1) extra space (besides the space of the graph structure).
+The next scanario included a series of questions. I was to give the informal schema of Customer, Item, Order for an online retailer like Amazon. Apart from the foreign key relationships, he was interested in how I’d store the orders because each purchase order can have multiple items purchased. The answer was to have a relational table like ItemizedOrder which stored mappings of the order and item Ids. Then he asked me to write a query to get all customers who had not bought a certain item by a given date. Then he said that for any item like a book, the company will have to get their books from many book sellers who will have different schemas and ways of storing the books’ information. He asked me to design a system that will allow handling such variation. I gave him a portal or a web service as an end point where the different vendors could upload their data. Then my web service would have a rule engine which would map different schemas, assign default values wherever possible for missing values like Subtitle, ignore missing values of unimportant fields like NoOfPages, else return error messages for items that had insufficient mandatory data, like Price. This rule engine would then store the processed input in our DB in our schema.
+5) This was with a very senior guy, but was more of a formality. The interviewer told me I was selected in the first 10 minutes and then was just trying to analyze my work and preferences for a suitable team and set my expectations. He answered some questions I asked and ended the interview in half an hour.
+In general, I was asked 2 common questions every time- Describe your previous work experience and why do you want to join Bing. I did not get the approach to most questions instantly, but I spoke of my thoughts aloud. They all guided me when I got stuck and prompted me towards optimizations possible. Twice, I was also given examples of scenarios which my code did not cover. Since I knew I was interviewing for Bing, I asked the interviewers relevant questions after each round. Each interview was scheduled for 1 hour, though the third one got stretched to 1.5 hours and the last one was quite short. Except for the first interview, the outcome of the others is collective. So even if you don’t do very well in one, if you can manage the others decently, you will be hired. All the best!
+
+
+
+My resume was forwarded to Microsoft through a consultancy firm. I was called for a day long interview process at Microsoft IDC, Bangalore.
+
+Round 1 (1 hour+):
+Question 1: https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/
+I first gave the insertion sort algorithm, he told me to improve upon it. I was stuck for some time so he gave me another problem: https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/. I was able to solve this in a few minutes using the Min Heap method, so he then told me to think on similar lines for the original question he gave me. After around 20-30 minutes of brainstorming I was able to solve`it using the Heaps method.
+Question 2: https://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxm-matrix/
+I solved this question pretty quickly. He asked me if I had come across this question before; didn’t lie, told him I already knew this.
+This was followed by discussion on what happens in the Bing Team at Microsoft.
+Round 2 (1 hour+):
+Question 1: Given a large text file, find an efficient algorithm to find the least distance(measured in number of words) between any two given words.
+Solved this using hashing; he then extended the problem saying that this program would be executed a large number of times (to find distances between many pairs of words),  so I need to improve my algorithm such that the time complexity is reduced after the first iteration of problem solving. Solved this using hashing and then using binary search to find the nearest index of the second word to the index of the first word in the hash.
+Question 2: He first gave a background on how the autocorrect feature in phone keypads work, explaining that the probability of the autocorrected word would be greater than the typed word. He told me to find an algorithm to find the most probable word of length n that can occur given that there are m possible characters. The probability that a word can occur is give as: P(1st letter) * P(2nd letter given that 1st has been pressed already) * P(2nd letter) * P(3rd letter given that 2nd has been pressed already) …. and so on.. All values of individual terms in this equation is already given.
+Think of the problem as a mxn grid where each element in a column is connected to every  element in the next column by some weight. Solving this problem by bruteforce would O(m^n). By storing the solutions of subproblems the complexity would reduce to O(m*n) which is the solution the interviewer wanted.
+Round 3 (1 hr): Hiring manager round:Generic question but was a bit unexpected. Started off by asking about my current jobs and why I wanted to change, then the conversation went towards why I had chosen a non-CS course in my undergraduate, the conversation then took off on a completely different path about  what computers can do and what computer science cannot do until it reached all the way upto The Turing machine. To be honest I was most nervous after this round.
+
+
+
+1. Find square root of number without using sqrt function
+2. Given a directed graph. Construct another graph from given graph such that if path exists from vertices A to vertices B and from B to C, then path from A to C and from C to A also should exists.
+3. Write function which takes array of elements A and array of elements B and outputs (A-B)U(B-A).
+4. Implement hashmap on your own. Write good hashing function for string.
+Last round on some design questions.
+
+
+
+Round 1 (Telephonic)
+Round 2 (F2F)
+Round 3 (F2F)
+Round 4 (F2F)
+
+B
+
+
+Position: Software Engineer – 2(Big Data Team, Bangalore)
+I applied through referral. Got a call within a week.
+
+Round-1(Skype-Bangalore)(~45Mins)
+The interviewer directly asked me to explain about my current project. 5-6 questions from there.
+My project was based on cloud computing so, He asked me some basic questions about cloud computing. About
+three layers(IAAS, PAAS, SAAS), etc..
+The difference between CloudStack and OpenStack(CloudStack(CS), The product I am working on).
+OpenStack is a similar product. Scenarios where CS is used (how customers are benefited from CS).
+Then, He moved to Algorithm section. How will you differentiate the questions from google code jam and
+facebook hacker cup(As I participated in both competitions)
+He asked me to give him a problem. I told, To find the longest palindromic substring in a string of characters.
+Then, he asked me the solution, Gave Manachar’s algorithm. Asked the algorithm detailsInterviewerand time, space complexity.
+
+Round-2(F2F-Bangalore)(~1Hour 15Mins)
+The interviewer started with my Introduction. He then scanned my entire CV, all projects,
+even covered my school projects, etc..
+The difference between Java and C++. Advantages and disadvantages of each.
+Which language you are most comfortable with. Rate yourself out of 5.
+After that he asked, how the run time polymorphism works in C++. How C++ resolves it. I explained about
+Virtual stuffs and associated VPTR and VTABLE.
+Then, He asked details of my last project. Some here and there questions from the project.
+He moved to algorithm section.
+Q-1: Given MxN binary matrix, find the largest sub-square matrix with all 1’s.
+I came up with a DP solution. He asked me to explain the algo first then told me to write code on paper. I left some validation cases, so he asked to handle those, then asked me about time, space complexity and to write all test cases.
+Q-2: Find the row which contains most number of 1’s in a MxN binary matrix, Where in each row 0’s are always followed by 1’s. Gave him the binary search algorithm, but he asked me to optimize further. Then, I came up with the stepping linear time algorithm with O(M+N). (Same, asked to write code on paper then test cases). Time and space complexity.
+
+Round-3(F2F-Bangalore)(~1Hour)
+The interviewer started with my Introduction. It was kind of Design round.
+He asked me to design your own BitSet API. All the methods like flip, set, reset, countOnes, etc..
+What data structure will you use. He then, put a constraint like what if multiple threads access the
+methods. I gave solution to use mutex lock. He asked me the difference between semaphore and mutex, and
+how to handle deadlock situation. I told about maintaining locks in 2-phase. (Growing and shrinking
+phase). Then asked the implementation details. Wrote all codes on paper. Testcases and time, space
+complexities of each operation.
+
+Round-4(F2F-Bangalore)(~1Hour)
+Introduction. Why Microsoft, Why do you want to leave, Asked details of my last project.
+He then asked me to design LRU cache on white board. Asked to write code for searching a key
+on LRU. As usual, Time, space complexity and Testcases.
+Algo Question:
+Check if given binary tree is binary search tree? How to handle the multiple thread case?
+Some discussion on that. Wrote code on white board, testcases and asked time, space complexity.
+
+Round-5(F2F-Bangalore)(~45Mins)
+Introduction, Asked about the product. Asked to draw the architecture of the product. Some discussion of each component of the architecture. What you explored outside of your current work. I talked about docker container. Some discussion on that. Explained about their work in detail. What is expected from the position, etc…
+
+Round-6(Skype-Redmond)(~45Mins)
+It started with my Introduction. The interviewer asked the detail of my current project.
+What was the duration of the project, and how many members involved?
+How many programming languages used? How many programming languages do you know?
+Which one are you most comfortable with? Rate out of 5.
+He then asked me the difference between class and structure in C++. How to implement an interface in C++.
+etc..
+Algo Question:
+Given two linked lists sorted in ascending order, merge them into one linked list(Maintain Sorting). Do it in place. He asked me to write in a text editor, shared my screen. Asked me to listout all test cases, and time, space complexity.
+
+Round-7(Skype-Redmond)(~45Mins)
+Introduction. Asked me the project details. Some discussion on that.
+Algo Question:
+Sort 1 billion integers with limited memory. I told about sorting them chunk by chunk and then
+merging. He then asked me how to decide the chunk size. I explained with an example. Asked about time
+complexity. Then, Asked whether this will take the same amount of time if we have infinite memory. I
+told about the access time difference in primary memory and secondary memory. Asked details about
+secondary memory, About disk technology, sector, seek time, rotational delay, etc.. 
+
+Round-8(F2F-Bangalore)(~45Mins)
+Again started with my Introduction. He asked my project details. He was the engineering director of the team.
+Algo Question:
+Find median of an infinite stream of integers with limited memory. I came up with a solution where we have infinite memory. I started with insertion sort and then optimized to min-heap and max-heap  method. But he was more interested in limited memory algorithm. I tried hard, but couldn’t come up  with one. He told me to write code for my solution on white board. As usual asked to write test  cases, time and space complexity.
+
+
+
+Round 1:
+Round 2: 
+Round 3: 
+Round 4: 
+
+
+
+1st Round :- (1 hr)
+2nd Round :- (1hr)
+3rd Round :- (1.5hr )
+4th Round :-(1hr)
+5th Round :- Engineering Manager (45 min)
+6th Round :- Hiring Manager (1hr)
+Tips : Ask questions if you have any confusion .
+Thanks to GeeksForGeeks. Whole process took around 1 month .
+
+
+
+1st Round :
+1)https://www.geeksforgeeks.org/maximum-product-subarray/
+2)https://www.geeksforgeeks.org/sort-an-almost-sorted-array-where-only-two-elements-are-swapped/
+3) Delete all nodes whose value is greater than K
+2nd Round (1 hr 30 mins)
+1) Clone a Binary Tree
+2)  There is a rack of shelves having balls of red and blue in each row . Retrieve all identical rows.
+3)  There is a rack of shelves having balls of red and blue in each row . Retrieve all unique rows.
+4)  How u will remove duplicates in an stream of Integers
+5) What Data structure you will use to identify unique elements and discard duplicates.
+3rd Round (1 hr 30 Mins)
+1) Given an Infinite stream of strings as  AAAAABBBCCDDDEEE… How will you arrange characters so that  string become unique without duplicates . Return true if it is possible to arrange else return -1. Ex . AAABBCCDEF – O/p ABABCDCEF : Possible . AAAAAAAAAAAAAAAAAAAAAAB : Not possible
+4th round
+1) Given Co-ordinates of x and y in an input array Identify if square can be formed at any point of time via coordinates if so return true;
+2) Given a Pre-Order Traversal of BST convert it into BST.
+3) Identify Leaves of BST through Pre Order without constructing it.
+It gave me a Lot of Learning to think out of Box. Thanks GFG .
+
+
+
+This was for Bing team.
+First Round-(Skype Call)
+3 PS/DS questions. All of them were questions which involved application of standard problems.
+After that I was called to Hyderabad for a day long drive. 3 Interviews with managers, 1 with partner.
+First Round-
+Second Round-
+Third Round-
+Final Round-
+
+
+This was for Skype team. 2 Interviews with managers, 1 with partner.
+First Round (1.5 hour)
+Second Round (1 hour)
+Final Round (1.5 hour)
+
+
+Round 1:
+Round 2:
+Round 3:
+Round 4:
+Round 4:
+ 
+
+
+I applied for the position of Software Engineer at Microsoft IDC, Hyderabad, given 1.5 years of my experience. My rounds were of intermediate level I guess.
+Round 1: Hackerrank test
+There were 1 questions in this round.
+1.) First question was based on strings. Given a string of characters, there will be a roll function given to you. The roll function will specify the subarray [s, e] in the string and this subarray shall be rolled how many times. Example: if s =”abcd” and roll() specifies that subarray [0, 2] be rolled by 2 (roll 0th position 2 times), it’ll increment 0th position by 2, thus s[0] = c. Roll function can be called as many times, then there will be some queries to output the character at any particular position.
+Solution: I did this by keeping the count of the number of times any character is rolled. For maintaining count, I used the cumulative frequency type of method in which we increment the count at position ‘s’ by n, then we decrement count at position ‘e+1’ by n. This passed all the test cases.
+2.) https://www.geeksforgeeks.org/count-ways-express-number-sum-consecutive-numbers/
+After this written round, I was called for onsite interviews.
+ Round 1:
+This round was based on data structures. I was asked two questions in this round. With two technical questions, I was asked about 2 projects of my resume.
+1.) First question was reversing a linked list n groups of k.
+2.) Second one was the zig-zag traversal of binary tree in a bottom up manner. Ex: if level order traversal of tree is [1], [2, 3], [4, 5, 8], [6, 8, 9, 7]
+then required output was: [7, 9, 8, 6], [4, 5, 8], [3, 2], [1].
+She wanted me to optimize as much as I can. I firstly talked about the brute force approach, using recursion, then I told her about the 2 stacks approach. She wanted me to use only stack and do that. Also, being an experienced person, they expect you to write a very neat code with proper test case coverage. They may not see at that moment, but they do look at it after the interview.
+After every interview, I was being given feedback.
+Round 2:
+This round was focused towards DP.
+1.) First question in this round was Weighted Job Scheduling. I told him the DP approach, then he went on to how you found the states of DP. How do you generally approach the DP problem. I told about optimal substructure and overlapping. Then he asked me to write the recursive code for the given question. We then had a lot of discussion on its complexity.
+2.) Second was LIS.
+Overall this round was easy. He then moved on to some design problems and general concepts of OS and Networking. He asked me to design cache, taking care of scalability and reliability. I talked about how distributed systems can be helpful, horizontal and vertical splitting, sharding concepts, replicas etc.
+3.) This question was what happens when you type a url in the web browser. He went on to various routing policies like weighted routing etc.
+I had AWS CSA in my resume, so he went on to concepts like CDN and cloudfront distributions.
+I had blogs on which I contribute, the interviewer asked me to open any of them. I recently started blogging on cloud computing and opened that. He asked some 2-3 questions about that.
+This round was the longest, of around 1.5 hour or so. Very interactive I felt. Enjoyed the most in this round.
+Round 3:
+This round was majorly for the discussion of design problem.
+1.) The first question we discussed about how to design the malloc() API. How memory allocation is done. If you are given a big array of free bytes, and requests keep coming for some size, how will you allocate that. After allocation, how will you deallocate. Note that we de-llocate using free which takes only the pointer to delete the memory it is pointing to. We don’t give the size here, so, we need to maintain the size for each allocation request in our implementation.
+2.) The second question was designing strtok(). Then he asked me to check if there was anything wrong with strtok() library function. I couldn’t guess it. He then gave me a hint to think about multiple requests coming at same time. Basically, the API is not thread safe. I was in my code creating a vector for its implementation. Then, problem reduced to writing a code that will ensure only one vector gets created even when multiple processes try to call the function at the same time. I told him how we can do that using singleton design pattern. I then wrote its code and we discussed about lazy and early instantiation in that.
+Round 4:
+This was the last round with the Azure’s head and some behavioural questions were asked.
+Majorly in this my resume projects were discussed.
+The design problem we discussed was designing autocomplete API of the search engine, I gave the trie solution as per the data and scenario he gave me. I was asked to write its full working code. Then he came on to concepts and things to be taken care of while designing the search engine.
+Also, I was majorly asked the question, that why I am looking for a change.
+After some 10-15 minutes, I was informed that my interviews went well and I’ll be extended the offer. Today I have it 🙂
+My advice: When we are appearing for interviews having some experience, companies expect us to write full working code covering all test cases. There should difference in the way we, being experienced write the code and a fresher writing the same piece. Also, having knowledge of design problems is a must. They test us on scalability, fault tolerance, reliability, user experience, load handling etc. Keep an open mind and try to think in all prospects when a design question is asked.
+I’d like to thanks GeeksforGeeks for their incredible website, contributing on and learning from which has provided me immense knowledge and confidence.
+
+
+Round 1: k frequently words in a given file of huge data.
+Find index of distortion in a sorted but a little bit distorted array.
+Round 2:
+First non repeated character in character stream of huge data.
+Design of URL shorter service .
+Round 3:
+Projects
+Round 4: with Technical partner manager .
+– island problem in a mxn matrix of integers
+– image compression
+– Design a service which talks to three other google calanedar like serices and merges those calendars in a single view for a user .                                        
+
+
+
+
+Round 1:
+Validate an infix arithmetic expression string (braces and brackets are similar to parentheses): (1+2)*{[90*3]-[67+8-9]}
+Proposed Ans: Djikstra’s Shunting yard
+Interviewer’s Ans: Parser Tree
+Round 2:
+Given a shelf of books, categorise those books according to any particular property of a book e.g. Alphabetic increasing author’s name, category, date of publish etc. The value of the property of the book has to be fetched from an external service and the call is expensive.
+Constraints: O(1) space, the calls to get the priority of a book should be as minimized as possible.
+Proposed Ans: Quick sort with a priority map associated with the property of the book, a modified partitioning scheme where every element’s priority is fetched once, total of nlogn calls.
+Constraint variation: Minimum swaps.
+Proposed Ans:
+1. Selection sort with O(n^2) time and O(1) space. – n swaps
+2. Bucket sort with O(n) space and time. – 0 swaps
+Round 3:
+Given a very long string and a transformation map, replace all the occurrences of any needle strings with their resultant transformations e.g.
+ 
+
+ 
+ 
+
+
+
+Proposed Ans: Naive solution by processing character by character and replacing the suffix if it matches with any of the needles.                                        
+
+
+
+
+About Me: 6.5 Years experienced professional.
+[Online]
+Round 0: Hacker rank 90 min online test.
+[Onsite]
+Round 1: 
+Round 2:
+Round 3:
+Round 4:
+
+
+
+
+Round 1(Online Test): There were three questions on cocubes:
+First2 marks): https://www.geeksforgeeks.org/calculate-the-total-fine-to-be-collected/
+Second(3 marks): Find the smallest number which when appended to given number will make the resultant number a palindrome.
+Third(5 marks): https://www.geeksforgeeks.org/remove-bst-keys-outside-the-given-range/
+98 people were selected for the next round. All those who had done all 3 questions or (2 questions and a good cg) made it to the next round
+Round 2:(Group Fly) Since 98 was too large a number to accomodate in the room. They conducted this round in 3 sets . I was in the first set which included 42 students. A common question was written on the board and around 6-7 students were alloted a common mentor. The question was ” given a circular linked list and an integer k, you need to traverse the list till index k (first index is 1) and delete the node at the kth index. Do this repeatedly until only a single node is left and return this node.” We were asked to write  the solution on paper.What they focussed more on was writing clean code and considering all the  corner cases . Total 23 students made it to the next round out of 98.
+Round 3:(Technical Interview)  He asked about my branch and courses I had done. Then he said he would ask me questions on trees as I had said DSA as one of the courses. He gave me a Binary Search Tree and a number k and asked me to find the two nodes to get the sum k. He wanted proper written code for this considering all the test cases.Then he asked me to write the code if it was a Binary Tree instead. He helped me throughout the conversation and was satisfied by my answer although wanted a written code which i struggled a lot with.
+Then he gave me an array and a number k and asked me to find all combinations of numbers in array to get the sum, k. I gave a backtracking approach for this and again he asked me to write proper code for this too. After that he asked me to get all combinations of two numbers from the array to get the required sum. I gave a hashing approach and wrote the code for this. Then he asked me to do this without hashing . I gave a two pointers approach for this. He was repeatedly focussed on whether i considered the corner cases or not.
+Round 4(Technical Interview):  He said he had not prepared anything as such . He saw my resume and asked me about my projects, related to big data. I explained him everything I had done . The he asked me to design a big data system to see all the log files generated and figure out the error immediately by seeing the log file generation system. I struggled a lot. I told him my main work was Setting up big data system and i did not know so much of system design. Then he moved on to DSA and asked me to copy array data from one location to another given only the source and destination pointer. Then he gave me a question ” given stock prices, find the maximum profit that can be made by repeated buying and selling of stocks” . I explained him and he wanted proper code for the same. He gave me some time to write the code properly.
+Finally, 12 students were selected
+
+

@@ -1,0 +1,100 @@
+Question: 2. Rate yourself in DS and OOP and explain why?
+3.
+
+
+What the difference and similarity between Array and Linked List?
+4.
+
+
+Why we can do random access in Arrays?
+5.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What are the data structures you have used in your project till now?
+6.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is hash table and where we can use them?
+7.
+
+
+How the hash table data saved internally in memory?
+7.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is time complexity and space complexity in how we calculate them for a algorithm?
+
+
+Q 3.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 2. Rate yourself in DS and OOP and explain why?
+3.
+
+
+What the difference and similarity between Array and Linked List?
+4.
+
+
+Why we can do random access in Arrays?
+5.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What are the data structures you have used in your project till now?
+6.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is hash table and where we can use them?
+7.
+
+
+How the hash table data saved internally in memory?
+7.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is time complexity and space complexity in how we calculate them for a algorithm?
+
+
+Q 3.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

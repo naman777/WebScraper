@@ -1,0 +1,188 @@
+How hash map work internally explain on board.
+
+
+How you make it double ton(in even call of getInstance() first object should be return and odd call of getInstance() second instance should be return).
+
+
+How load factor works in HashMap.
+
+
+How will you store key value pair in sorted way based on values.
+
+
+How will you break TreeSet property (it should store Objects in non sorted order)
+
+
+Why are you using SOAP why not Restful.
+
+
+Why are you using SAX why not DOM.
+
+
+What is Agile.
+
+
+What is your role.
+
+
+Explained me about GS how they work in GS and all.
+
+
+Round 1:
+After asking for a brief intro, the interviewer started by asking Java questions which were: OOPs concepts of Java, what is runtime polymorphism, overloading/overriding, how many collections you have used in Java, how does Hashmap works, what is a contract between equals and hashcode?
+
+
+:P)
+Round 2:
+Here too, the interviewer started by asking java questions: What is the difference between string, string buffer and string builder, what does final keyword do, when can final variable value be changed, what is classpath in java?
+
+
+The question was like: How many total constituencies are there?
+
+
+Which all candidates are contesting?
+
+
+Which candidate represents which party?
+
+
+How many male/female candidates won and with how many votes?
+
+
+Question:
+
+
+So if I give you the opportunity to go first, which move you’ll start with to ensure victory?
+After this, some discussion happened on GS and its workings.
+
+
+Algorithms:
+1.
+
+
+How did you handle it and the conclusion?
+2.
+
+
+Algorithms:
+
+
+Algorithms:
+1.
+
+
+output all the ways in which these two strings can be merged while keeping the order of character same as they were in s1, s2.
+
+
+How a hashmap is implemented internally in JAVA.
+
+
+How will you store these records and then fetch them.
+
+
+How to maintain the whole structure when a file was modified.
+
+
+How shall they provide the record, how should company C release its application.
+
+
+How can you make your system learn about the 100 customers, so that the cost of validation can be reduced.
+
+
+He changed errors to warnings then, said, Developers many times ignore them, but can they be of any use?
+
+
+How hash map work internally explain on board.
+
+
+How you make it double ton(in even call of getInstance() first object should be return and odd call of getInstance() second instance should be return).
+
+
+How load factor works in HashMap.
+
+
+How will you store key value pair in sorted way based on values.
+
+
+How will you break TreeSet property (it should store Objects in non sorted order)
+
+
+Why are you using SOAP why not Restful.
+
+
+Why are you using SAX why not DOM.
+
+
+What is Agile.
+
+
+What is your role.
+
+
+Explained me about GS how they work in GS and all.
+
+
+Round 1:
+After asking for a brief intro, the interviewer started by asking Java questions which were: OOPs concepts of Java, what is runtime polymorphism, overloading/overriding, how many collections you have used in Java, how does Hashmap works, what is a contract between equals and hashcode?
+
+
+:P)
+Round 2:
+Here too, the interviewer started by asking java questions: What is the difference between string, string buffer and string builder, what does final keyword do, when can final variable value be changed, what is classpath in java?
+
+
+The question was like: How many total constituencies are there?
+
+
+Which all candidates are contesting?
+
+
+Which candidate represents which party?
+
+
+How many male/female candidates won and with how many votes?
+
+
+Question:
+
+
+So if I give you the opportunity to go first, which move you’ll start with to ensure victory?
+After this, some discussion happened on GS and its workings.
+
+
+Algorithms:
+1.
+
+
+How did you handle it and the conclusion?
+2.
+
+
+Algorithms:
+
+
+Algorithms:
+1.
+
+
+output all the ways in which these two strings can be merged while keeping the order of character same as they were in s1, s2.
+
+
+How a hashmap is implemented internally in JAVA.
+
+
+How will you store these records and then fetch them.
+
+
+How to maintain the whole structure when a file was modified.
+
+
+How shall they provide the record, how should company C release its application.
+
+
+How can you make your system learn about the 100 customers, so that the cost of validation can be reduced.
+
+
+He changed errors to warnings then, said, Developers many times ignore them, but can they be of any use?
+
+

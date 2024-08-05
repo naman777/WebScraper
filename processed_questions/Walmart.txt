@@ -1,0 +1,18 @@
+given a binary tree, print the preorder traversal in recursive and iterative way
+2.
+
+
+What is the minimum number of straight lines to connect all the dots on this grid?
+Round 3:
+1.
+
+
+given a binary tree, print the preorder traversal in recursive and iterative way
+2.
+
+
+What is the minimum number of straight lines to connect all the dots on this grid?
+Round 3:
+1.
+
+

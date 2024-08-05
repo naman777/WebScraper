@@ -1,0 +1,33 @@
+Question: Qs-
+
+
+How Vptrs work internally, how does compiler handle its functionality ?
+
+
+Runtime polymorphism, Constructors, Copy Constructors, why is object’s reference passed to the copy constructor instead of the object itself ?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Qs-
+
+
+How Vptrs work internally, how does compiler handle its functionality ?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Runtime polymorphism, Constructors, Copy Constructors, why is object’s reference passed to the copy constructor instead of the object itself ?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

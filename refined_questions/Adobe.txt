@@ -1,0 +1,60 @@
+Question: Where does b point to?
+Now this question was related to Big endian and little endian as in he wanted me to ask if the architechture is little endian or big endian.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is SIMD?
+Q4.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Why do we need copy constructor?
+Q2.
+
+
+Q3.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Where does b point to?
+Now this question was related to Big endian and little endian as in he wanted me to ask if the architechture is little endian or big endian.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is SIMD?
+Q4.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Why do we need copy constructor?
+Q2.
+
+
+Q3.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

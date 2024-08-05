@@ -1,0 +1,2736 @@
+Hi, I was recently interviewed for SDE1 position for Amazon and got selected. I have 1.5 year experience in java. Geeksforgeeks helped me lot. I am very thankful to Geeksforgeeks team. Following were interview questions-
+Two telephonic rounds followed by 5 F2F interviews.
+Round 1 (Telephonic):
+1. There is a dictionary already implemented. Write a method, which takes input String without space, to prints all subsets of the input string which is present in dictionary.
+Example: Dictionary – a*
+………….Input- aaabaa
+………….Output- a,a,a,aa,aa,aaa,a,a,aa
+2. There is a dictionary already implemented. Write a method , which takes input String without space, to replace the characters from the strings which are not present in dictionary with –
+Example: Dictionary – a*
+………….Input- aaabaa
+………….Output- aaa_aa
+Interviewer was cool. Did not code properly (lots of bugs were in code), but gave good approach for first question. For second question solution sent in a mail.
+Round 2 (Telephonic):
+1. Write a program to remove duplicates from array of prime numbers.
+2. Write a program to return nearest elements from a binary search tree for input element.
+This round was very good. Interviewer was very happy with my approach for both questions. Code did not have big bug.
+Round 1 (F2F- Problem Solving and coding):
+1. Tell me about yourself.
+2. Write a program to find top 10 elements on an array of integers.
+Don’t remember much. Questions were easy. This round was very good. Interviewer was happy with solution.
+3. Write a program to calculate a^b and store it in floating point representation.
+Round 2 (F2F- Computer Fundamental):
+1. Tell me about experience in past job.
+2. OOPS concepts- Polymorphism, Inheritance, Encapsulation, Abstraction.
+3. Aggregation and Composition.
+4. Design patterns which you have implemented.
+5. Write code to implement Singleton design pattern.
+6. Design a system to implement options in Pack of cards.
+7. Difference between Windows and Unix.
+8. Threads, Synchronization, Deadlock.
+9. Other subjects which you studied in your academics.
+10. Most challenging work you ever faced.
+11. Discussed about current project, role.
+This round was fair enough. I was not able to discuss questions on subjects which I studied in academics.
+Round 3 (F2F- Data Structures and Algorithms):
+1. Tell me about yourself.
+2. There is a 2d array. Write code to find the path with maximum sum. You can only traverse i+1 or j+1.if i is row number and j is column number.
+I solved it using dynamic programming
+3. In a binary tree find the least common ancestor for two nodes. (Write code)
+4. Similar to 3rd question. Write a program to find least common ancestor in binary search tree.
+This round was very good. Finished it only 40 mins.
+Round 4 (F2F- Managerial round):
+1. Tell me about yourself.
+2. Copy Linked list with orbit pointer.
+3. Write a code to find top hundred elements in a data set which cannot be loaded in RAM.
+4. Typical parenthesis checking problem.
+5. Most challenging work you ever faced.
+6. What will do if you get task which is ambiguous.
+7. At what extend you will be frustrated if you always get ambiguous problems.
+8. How many members in your team in current organization. What’s your role? Questions on current project.
+Interviewer was very cool and friendly.
+Round 5 (F2F- Bar raiser round):
+1. Tell me about yourself.
+2. Discussed about current project.
+3. Write a program to find number of inversions in an array.
+Example- Array 2, 5, 3, 1,10
+Inversions (2,1) , (5,1), (3,1), (5,3)
+Answer will be – 4
+Gave solution of complexity o(nlogn) . Interviewer gave me hint for that.
+Hint- Divide and conquer approach.
+He asked me to write code which doesn’t have any bug.
+This article is compiled by Neha Gupta. Many Many congratulations to Neha.
+
+
+
+Amazon SDE1 Off campus
+Written Round
+1. Given an array in which elements are first increasing and then decreasing. find the maximum element in the array.
+2. Given an array of unsorted elements, find the minimum difference between any 2 elements in the array.
+1st f2f
+Discussion about my projects (nearly 20 mins)
+1. Given an array of positive numbers, find the maximum sum of a subsequence with the constraint that no 2 numbers in the sequence should be adjacent in the array. (extended to negative numbers)
+2.Write a function to print the level order traversal of a binary tree in spiral form.
+2nd f2f
+Small discussion about my projects
+1.Write a function to find the next smallest palindrome number of the given number. for example: if given number is 12345, then the next smallest palindrome is 12421.
+2.Given 2 strings str1 and str2. What is the efficient way to navigate from str1 to str2? The constraints are i) a string can be changed to another string by changing only one character. ii) all the intermediate strings must be present in dictionary. If not possible, return “not possible to navigate from str1 to str2”. (pre-processing is allowed and enough memory is available). for example: str1 = feel and str2 = pelt, then the navigation is feel -> fell -> felt -> pelt (Hint: Graph)
+3rd f2f
+Discussion about my projects (nearly 20 mins)
+1. Given two numbers represented by two linked lists, write a function that returns sum list. The sum list is linked list representation of addition of two input numbers. It is not allowed to modify the lists. Also, not allowed to use explicit extra space.
+2. Given a matrix of characters and a string, find whether the string can be obtained from the matrix. From each character in the matrix, we can move up/down/right/left. for example, if the matrix[3][4] is
+and the string is follow, then the function should return true.
+4th f2f Hiring Manager
+Deep discussion about my current project (nearly 45 mins)
+(application architecture, challenges faced and a lot of technical discussion)
+1. Write a program to check whether the given binary tree is BST.
+5th f2f Bar Raiser
+Deep discussion about my current project (challenges faced, etc) nearly 20 mins
+Deep discussion on REST api authentications (Hash key vs Encryption & Decryption) nearly 20 mins
+1. Given an input string, write a function that returns the compressed string for the input string in INPLACE. (no extra memory) (length of compressed string < = length of input string) For example, if the input string is “aaabcdeeee”, then the function should return “a3b1c1d1e4?. GeeksforGeeks helped me a lot in improving my skills in DS and Algorithms.
+
+
+
+Hi, Recently i had interviews with Amazon.
+1st Round (Telephonic):
+1. Given an integer array and a constant number X, print all pair of number in the array whose product is equal to X.
+follow ups: how will you do in O(n)? how will you handle duplicate pairs?
+Code was required on collabedit.
+2. He asked do I know level order traversal of binary tree. He ask me to code then, he changed the question and asked about spiral order traversal of binary Tree and asked me to code it.
+2nd Round (Telephonic):
+1. In a BST two nodes were swapped. Given the pointer to root node find the two nodes and rectify the tree. He asked the approach then asked me to code the same in collabedit.
+2. Given an integer array, find and print three element in the array whose product is maximum. Code was required.
+3rd Round (face2face onsite)
+1. Given a sorted array of n integers, count and display number of triplets such that a[i] < a[j] < a[k] 0(n) time. Code was required.
+2. In a given string some of the characters are replaced by question mark, and you can replace question mark with any character. Given such a string find total number of palindrome that can created. String contains only [a-z] characters and question marks can also be only replaced by [a-z]. Example: Input String: String str=”a??a” Output: 26
+3. Given a binary tree all the leaf nodes in the form of a doubly linked list. Find the height of the tree. 
+4th Round (Hiring Manager Round):
+Detailed discussion about previous company work?
+Why I want to leave my previous employer?
+Why Amazon?
+What if I don’t like the work?
+What are challenges I have faced in my work, how I resolved it?
+Weakness and strength?
+What does router do, what is static routing? Given a routing table, how would you decrease the time taken by router to decide to which router packet must be forwarded?
+Details of algorithm that could be implemented and discussion time and space complexities.
+5Th Round (Face2Face Onsite):
+1. Given N sorted LinkList of different length, merge them into a single sorted link list. Pseudo code was required.
+2. Given a number d and size of array N. Print all combination of element in the array such that first element of array is d and next element in the array can be +1 or -1 the previous element in the array. Code was required.
+3. What is LRU and implementation of lru? Write pseudo code for the same.
+I would like to thanks GeeksforGeeks for providing us such a learning platform.
+
+
+
+
+Time and space complexity must for all questions
+Start from brute force and go to optimized solution.
+All edge cases are to be covered in code?
+Think out loud all the time (so that even when questions are easy they will catch your thinking with greater importance)
+
+
+
+I recently had interviews with Amazon.com, Bangalore.
+Here’s my interview experience
+Written round:
+1) Insert a number at its correct position in a sorted circular linked list.
+2) Convert a Binary Search Tree into a Binary tree where value of
+each node in the tree is equal to sum of all nodes greater than it.
+3) Clone a Binary Tree with random pointer.
+Face to Face Round 1 (Technical ~ 1 hour)
+1) Given an array indicating stock prices on each day for a n days. At any given day,you could:
+a) Buy only one stock.
+b) Sell any number of stock(s) from what you have bought.
+c) Do nothing.
+Find the maximum possible profit that you could achieve by doing transactions given the price array for n days.
+2) Given a m*n matrix with LEDs, having each cell representing the state of the LED as either ON(1)or OFF(0). Given a cell position, state of all the adjacent (in all 8 direction) cells sharing the same state as the given cell toggles and the effect cascades. Represent the final state of the matrix.
+3) Given a deck of n cards, in each iteration the top card is removed and pushed to the end and the second card is removed from the deck. For eg: In 1st iteration, 1st card will added to the end and 2nd card will be removed, again 3rd card will be added to the end and 4th card will be removed and so on. Find the last card which will be remained.
+Face to Face Round 2 (Technical ~ 1:30 hours)
+1) Given a boolean matrix with every row sorted, find the row with maximum number of 1s.
+2) Given a paragraph and two words A and B, find the minimum distance between a occurrence of A and B.
+3) Given two valid three letter dictionary words, find the minimum number of steps required to transform first word to second word. Following are the transformation rules –
+a) You can, in a single step, change a single letter in the word.
+b) Each transition should result in a valid word. Assume you have been provided a helper function boolean isValid (String word) which tells you if a word is valid or not.
+c) This must be done with minimum transitions.
+Example: Transform CAT to TOY. One of the several possible transformations is CAT -> CAR -> TAR -> TOR -> TOY
+4) Sort a linked list which is in alternating ascending and descending orders.
+For eg :
+5) Find the next greater element for each element of an unsorted array.
+Some Computer Science Fundamentals now :
+1) Explain what happens in the background when you enter “ls” command on unix shell.
+2) Difference between process and threads.
+3) What is semaphore and mutex. What is Readers-Writers problem? Explain solution with code.
+4) Difference between TCP and UDP.
+Few more questions which I don’t remember now.
+Face to Face Round 3 Fa(Hiring Manager ~ 1 hour)
+1) Tell me about yourself.
+2) Why do you want to change your current company? Why Amazon?
+3) Tell me about your current Projects. What is your role? Tell me architecture of this project.
+4) Scanned through my resume and asked about everything mentioned in it.
+5) Design question : Design an autocomplete library for a keyboard in a mobile device which does following tasks:
+a) Autosuggest words while typing from the inbuilt dictionary.
+b) Suggest words based on your previous inputs:
+For eg: If you frequently type “Thank you”, so if you type “Thank” then your library should suggest “you” as first result.
+I was asked to tell which data structure would I use and write classes and ethods for this library.
+Face to Face Round 4 (Bar raiser ~ 1:30 hours)
+This round was taken by two guys from different teams and both of them were bar raisers of their respective teams. I was asked to use the whiteboard in this round.
+1) Both of them gave a brief description about themselves.
+2) Tell me about yourself.
+3) Why do you want to change your current company? Why Amazon?
+4) Tell me about your current Projects. What is your role? Draw the architecture of this project.
+5) Then one of the interviewer gave a C code snippet and asked me what this piece of code does?
+What the problems that you see in this code?
+6) Connect all the siblings node in a binary tree.
+Follow up questions:
+a) Now connect all the non-siblings nodes as well (basically connect all nodes at the same
+level). ( cousins )
+b) Now write a recursive solution of the same.
+I took a long time in coming up with the recursive solution for this question, but eventually solved it.
+For each question I was asked write production level code.
+
+
+
+Interview 1: 
+Before the interview began we were asked to solve 6 questions
+In the first interview i was asked how i solved Q4) replace all spaces with ‘%20’ and Q6) nth node from the end of a linked list.
+and then we discussed in details about a project I did with my previous employer.
+and then He asked a few questions ->
+Q1) Dynamic Programming | Set 21 (Variations of LIS) – GeeksforGeeks -> 1. Building Bridges: Consider a 2-D map with a horizontal river passing through its center. There are n cities on the southern bank with x-coordinates a(1) … a(n) and n cities on the northern bank with x-coordinates b(1) … b(n). You want to connect as many north-south pairs of cities as possible with bridges such that no two bridges cross. When connecting cities, you can only connect city i on the northern bank to city i on the southern bank.
+Q2) Write a C program to print all permutations of a given string – GeeksforGeeks -> Print all permutations of a string
+Q3) Given the arrival and departure time of various trains in a station. Calculate the minimum number of platforms required such that no train has to wait for another train to vacate the platform.
+The question basically means calculate the maximum number of trains that would be present in the platform at any given time.
+Answer
+sort the arrival time and sort the departure time, keep a count initialized to 0. compare the first element of the arrival time with the first of departure, increase the value of count if the value at current Index at arrival is less than the value index at departure and increment the arrival index, and vice versa. Keep the maximum count that you see.
+
+Round 2
+Q1) given the x,y,z coordinates of a billion stars (basically the entire array can’t fit in the RAM) calculate the k closest.
+Answer -> use a max heap that contains the k minimum distances.
+Time-> n(log k)
+then the question was changed to -> now that we have several computers which can combine to fit the entire set of stars, how will you then solve it?
+Answer-> use selection algo (similar to step 1 of quick sort) to find the k closest stars in each of the computers. Time -> O(n) and then use the k in the those m computers to find the minimum k. One way is to sort all them individually. and then create a min heap to calculate k minimum.
+O(k^2 log k)
+Q2)  Symmetric Tree (Mirror Image of itself) – GeeksforGeeks -> How to check if the tree is the mirror of itself
+Then the question was extended to a n-ary tree.
+Answer -> Please read the above link before reading this answer– We create a the n ary tree like this->
+then we have the number of children of each node as nodeName->child.size();
+we use it to compare the first child of the node with the last child, 2nd with 2nd last and so on:
+
+Round 3
+Q1) Write a C code to evaluate an expression tree.
+Answer-> It has to be done in a post order traversal method, since the value of the left subtree is independent of the right subtree.
+Q2) Articulation Points (or Cut Vertices) in a Graph – GeeksforGeeks -> Check for Articulation points
+Q3) Given a stream of number, like 1,3,5,4,6,9 print 1,3-6,9
+Answer-> create a hash map that contains the value of the ending index of the previous sequence.
+key is the number and the value is the index where it occurs.
+when we get 4, we have to check for the index of 3 and 5. (One above and one below)
+the value at 3 is 1 and 4’s index is 3, so they can’t be paired.
+We then check for 5. 5’s index is 2 and 4’s is 3, since they are together, they can be paired.
+and then we check for 3 again, 3’s index is 1 and 4’s index is 2-3, so they can match
+We go on. I don’t think I answered the questions the way it was asked, but he seemed ok with the answer I gave.
+Next he modified more to include distributed systems in it. And asked me if there were several systems which received the input in round robin manner, how would I implement the above algorithms. I had no idea about this.
+After round 3, I was called by Amazon and told that my first two rounds were positive but round 3 wasn’t. Round 3 was the hiring manager round, and he wasn’t happy that I had little idea about RAID ( Standard RAID levels – Wikipedia, the free encyclopedia )
+So I had another hiring manager round.
+Round 4
+https://www.geeksforgeeks.org/find-a-pair-with-given-sum-in-bst/
+Find a pair with a given sum in a bst
+more questions on what happened in Round 3 and why I want to leave my current firm.
+Round 5 (Bar Raiser)
+Questions like
+1) tell me a time when you had a different opinion than the rest of the team.
+2) tell me a time when you were thinking that the problem is something else, but it turned out to be something else
+3) tell me a time when your opinion were discarded.
+4) tell me a time when you had to work on a very short notice.
+Coding questions-
+1) given that we can form packs of 6,9 and 20 pens. Given a number x, calculate if we can form combinations of packs to form those many pens. Eg 24 pens can be formed by having 2 packs of 9 pens and 1 of 6 and 23 pens can’t be formed.
+Answer
+Dynamic Programming with the recursive function
+DP[i]=DP[i-6]||DP[i-9]||DP[i-20];
+2) Design an escalator system. Which classes would you make, etc.
+After Round 5, they didn’t find me a cultural fit so they conducted a Round 6.
+Round 6
+Questions like- tell me something about yourself,
+a time when you helped someone
+A time when you shared a different opinion from your manager.
+
+
+
+3. Overlapping rectangles
+Face to Face Round 1 (Technical ~ 1 hour)
+1. Given a linked list, reverse alternate nodes>a-singly-linked-list/
+2. Valid Substring
+Face to Face Round 2 (Technical ~ 1 hour)
+1. Special Stack
+2. Bottom View of Binary Tree 
+3. Subset Sum Problem >partition-problem/
+
+Telephonic Round 3 (Hiring Manager ~ 45 minutes)
+1. Tell me about yourself.
+2. Why do you want to change your current company? Why Amazon?
+3. Find a pair with given target in BST
+
+Telephonic Round 4 (Bar raiser ~ 1.30 hour)
+1. He gave a brief description about him.
+2. Tell me about yourself.
+3. Why do you want to change your current company? Why Amazon?
+4. How Have You Gone Above and Beyond in Your Work?
+5.Tell me about your current Projects. What is your role?
+6. Some basic OS concepts
+
+
+
+I recently had interviews with Amazon. Here’s my interview experience
+Coding round on Hacker rank (1 hour):
+1. Find minimum number of coins that make a given value
+Given a value V, if we want to make change for V cents, and we have infinite supply of each of C = { C1, C2, .. , Cm} valued coins, what is the minimum number of coins to make the change?
+2. Suppose you have given two strings S1 and S2. Find out if S1 is substring of S2. If S1 is present in S2 return starting index of S1 in S2 and if not present return -1.
+3. Overlapping rectangles
+Face to Face Round 1 (Technical ~ 1 hour)
+
+1. LCA in a BST. 
+ 2. Swap two nodes in a singly linked list.
+ 3. Building bridges problem Dynamic Programming | Set 21 (Variations of LIS …       algorithm – Building bridges problem – how to apply longest …
+ 4. Implement a data structure with push() , pop() , find minimum element in O(1).      Design and Implement Special Stack Data Structure | Added …                      ( For each question they asked me to write the code and also tell all test cases.)
+Face to Face Round 2 (Technical ~ 45 mins)
+
+1. Find the number of islands.Find the number of islands – GeeksforGeeks
+ 2. Calculate how many paths exist from top left to bottom right corner of matrix with cost = k. Number of paths with exactly k coins – GeeksforGeeks               (For each question they asked me to write the code and also tell all test cases.)
+Face to Face Round 3 with Hiring Manager (Technical ~ 1hour)
+
+1. Tell me about yourself.
+ 2. Given 4 digits , find the sum of all the 4-digit numbers that can be formed using these 4 digits.SOLUTION: Find the sum of all four digit numbers that can …
+ 3. Merge two balanced BST’s.  (For each question , code and a dry run was expected)
+ 4. Tell me a situation when your manager disagreed with you.
+Telephonic Round 4  (Technical ~45 mins) ( held after some 3-4 days )
+This interview will is taken by some senior guy who doesn’t belong to the team you are hired for.
+ 1. He gave his brief introduction and then asked mine. 
+ 2. Why do you want to leave the current company
+ 3. Why Amazon?
+ 4. The most challenging project/thing ever done. Why it was challenging . How would u do the same project/thing again. i need to tell some improvements in previous approach/design/code.
+ 5. Tell me a situation when your manager disagreed with you / or had a different opinion
+ 6. Tell me a situation when there was a time constraint for project delivery and how you handled it.
+ 7. Find an element in a rotated sorted array. (The collabedit link was shared to me through the mail but it didn’t work during the interview . So the interviewer asked me to just explain the logic)
+Some suggestions:
+ 1. Practice Trees , Linked lists , DP , Arrays , Strings , Stacks , Queue , Hashing , Heaps , Backtracking and basic Graph questions from gfg. The questions are asked as it is.
+ 2. Don’t just look at the solutions , write the whole code on paper while practising.
+ 3. In the interview , start from the less optimized solutions and then move to more optimised solutions.
+ 4. Practice the latest 20-25 sets from the Amazon Interview sets in gfg
+ 5. Ask questions / take hints from the interviewers.They are co-operative.
+ 6. Prepare behavioural questions like why leaving , why amazon , situation against manager etc. Have answers to these questions ready .Practice speaking them to yourself before the interview, otherwise you might get nervous.
+A big thanks to gfg for making everything easy.
+All the best folks! Prepare well.
+
+
+
+Round 1:
+Q-1 Given an array os 0s and 1s, and another input m, I was supposed to tell the longest continuous streak of 1s after flipping m 0s to 1s. E.g., Array is {1,1,0,0,1,1,1,0,1,1} m = 1 (which means I can flip ‘m’ one 0 to 1)
+Answer: 6 (if we flip 0 at index 7, we get the longest continuous streak of 1s having length 6)
+Q-2 Given N ropes of lengths L1, L2, L3, L4, …, LN. I had to join every rope to get a final rope of length L1 + L2 + … + LN.
+However, I can join only two ropes at a time and the cost of joining the two ropes is L1 + L2. I was supposed to join ropes in such a way that the cost is minimum.
+Round 2:
+Q-3 Given a BST, I needed to serialize it and deserialize it. This essentially boiled down to generating the “traversal” string and getting the BST back from the traversal.
+Q-4 There are two linked lists. Both linked lists have a single-digit number in their nodes. I needed to
+treat this linked lists as a numbers and add them up and store the digits in a new linked list.
+E.g., head -> 5 -> 6 -> 7-> 9
+head -> 2-> 1 -> 1
+Resultant linked list: head-> 5 -> 8-> 9-> 0 (5679 + 211 = 5890)
+Round 3: Hiring Manager round
+Q-5 Project discussion in detail. Most challenging problem, how did you solve it, had any disagreement with manager, how did you fix it etc.
+Q-6 Given an array {2, 4, 6, 0, 1, 8, 1}, where each element represents the height of tower located at its index. I was supposed to tell how much maximum water can accumulate in this “valley” once it rains.
+Round 4:
+Q-7 Given the encoding rule:
+A -> 0
+B -> 1
+C -> 2
+…
+K -> 10
+…
+Z -> 25
+I was supposed to get the number of original strings possible given an encoded input.
+E.g., Given input 10, two possible original strings are possible BA and K, the answer is 2.
+Q-8 Given two trees, find out if the second tree is a “subtree” of the first one.
+Answer: No (Tree 2 is not a subtree of Tree A)
+Round 5: Engineering manager round
+Q-8 Engineering Manager round, all behavioral, why do you want to leave the company, one challenging problem, how did you overcome it, your biggest failure etc. etc.
+
+
+
+I recently had interviews with Amazon at Hyderabad for SDE 1. I had around 1 year and 9 months of experience.
+Telephonic Interview :
+It started with a brief introduction of mine and my work. Then he asked me a coding question
+1) Given a linked list eg : 1->2->3->4->5->6, make the following changes    1->6->2->5->3->4
+Easy but it was lengthy. Had to write production level code.
+After 2-3 hours, I got an invitation for in house interview at Amazon campus:
+Round 1 : Face 2 Face
+It started with a discussion about my previous work and projects. After the discussion he asked the following technical questions:
+1) Given a pre-order traversal, construct a binary search tree.
+Simple solution. Asked me to code it.
+2) Given an alien dictionary, find the order of the alphabets in the dictionary.
+Only the approach was required. I explained him the approach and he was satisfied.
+3) Connect n ropes with minimum cost
+I was asked to write production level code for the above problem.
+Round 2 : Face to Face
+Again the interview started with a discussion about my projects and then he asked a technical question.
+1) Given m sorted arrays with n elements, merge these arrays into one sorted array of size m*n
+I did hear about this question before but never really saw the optimized solution so I gave a O(m*m*n) solution. He asked me to optimize it, but I wasn’t able to do so, hence he asked me to code the O(m*m*n) solution. I took a lot of time to code it as I wanted to handle all the edge cases. Finally I coded it. He didn’t find any issues but he asked me to make it better. And then I suggested using heaps to get the minimum of all the m arrays.
+Lot of questions on why heap and why not BST. Asked me to prove it mathematically.
+But he was satisfied once I gave the solution using heaps.
+https://www.geeksforgeeks.org/merge-k-sorted-arrays/
+Round 3 Bar Raiser : Telephonic
+Discussion on my previous projects and asked some behavioral questions like why are you leaving your current company, conflicts with your manager etc
+Technical questions:
+1) Find the maximum element in an array which is first increasing and then decreasing
+2) Find the Pythagoras triplet in an array
+Gave an O(n3) solution then made it O(n2logn). He asked me to optimise it even further.
+Finally came up with O(n2) solution
+3) Given a very large binary number which cannot be stored in a variable, determine the remainder of the decimal equivalent of the binary number when divided by 3
+I had no clue about this question. He gave me a hint, with which I was able to solve it. But later, he asked me to find the remainder for any number k. Again he gave a hint and I was able to solve it.
+Basically when we append a digit to a binary number, the previous binary number gets doubled, hence the remainder also gets doubled. 
+By keeping track of the remainder of the previous binary number, the current remainder can be determined.
+Round 4 Hiring Manager: Face to Face
+Behavioral questions along with some questions about my previous projects.
+Then he gave me a technical question:
+1) Given a number say ‘1234’, return the number in words i.e One thousand two hundred and thirty four
+Was able to cover all the scenarios. He was satisfied with my approach
+Suggestions:
+Think loud and be confident. It’s okay if you don’t know the answer at first. They mostly see how you solve questions for which you don’t know the solution.
+Thanks geeksforgeeks. You guys are doing an awesome job.
+
+
+
+Round 1: It was a written round with three question.
+Q1) Find a peak element. 
+Q2) Top View of binary tree. 
+Q3) Maximum difference between node and its ancestor in Binary Tree. 
+Round 2 (F2F):
+Q1) Given an array of distinct integers, find if there are two pairs (a, b) and (c, d) such that a+b = c+d, and a, b, c and d are distinct elements. If there are multiple answers, then print any of them. Expected complexity :  O(n2
+Q2) Lowest Common Ancestor in a Binary Tree
+In both the questions, they needed a proper working code covering every edge cases.
+Round 3 (F2F):
+Q1) If I am designing a media player and I want to store songs and play them in random order
+a) What data structure will you use to store songs?
+b) How will you select the next song to play in a way which prevents the same song being played in consecutive turn.
+I spend some time and finally came up with the working solution.
+Q2) Clone a binary tree with random pointers. 
+(Hint: Use HashMap)
+ 
+Round 4 (Telephonic) :
+Q1) Tell me about yourself. Your current company, your role and responsibilities. Reason for leaving current company.
+Q2) Maximum triangle path Sum : Starting from the top of a pyramid of numbers like below, you can walk down going one step on the right or on the left, until you reach the bottom row:
+
+One of such walks is 55 -> 94 >- 30 -> 26. You can compute the total of the numbers you have seen in such walk, in this case it’s 205.
+Your problem is to find the maximum total among all possible paths from the top to the bottom row of the triangle. In the little example above it’s 321.
+Q3) Design your own Process Control Block(PCB).
+Q4) Give me an example of a project that didn’t work out well?
+Q5) What are some of the things that you and your supervisor have disagreed about?
+Round 5 (Telephonic) :
+Q1) Tell me about yourself. Your current company, your role and responsibilities.
+Q2) Asked about the challenges faced in your current company. Did you ever have a boss that you did not like or get along with?
+Q3) Check for balanced parentheses in an expression. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
+I was asked to write code as well on collabedit site.
+Q4) Move all zeroes to end of array. 
+ 
+
+
+
+Online Coding Round:
+1. Parenthesis Checker
+2. Maximum Rectangular Area in a Histogram 
+1st Round:
+1. Add two numbers represented by linked lists I gave recursion solution code. Then asked for optimized one.
+2nd Round:
+1. Detail overview of current project. roles and responsibilities.
+2. Implementation of Queue but with certain kind of constraints. Basically looking for knowledge of design patterns.
+3rd Round:
+1. Again went through resume and asked every point.
+2. Max sum path in two arrays 
+    List all possible test cases.
+3. Design a dashboard system. both HLD and LLD.
+4th Round:
+1.  Design a system to upload images and tag them, ability to search images with two or more tags particular tags.
+2. Most challenging work
+3. https://www.careercup.com/question?id=5638261762424832
+5th Round (Bar Raiser):
+1. Most challenging work
+2. Why Amazon?
+3. Why leaving current company?
+4. Evaluation of Postfix Expression 
+5. Design a online shipment tracking system.
+Note: In all they asked for production ready code. Please take care of all edge case.
+
+
+
+I had around 1 year and 9 months of experience.
+Telephonic Interview : 
+It started with a brief introduction of mine and my work. Then he asked me a coding question
+1) Given a linked list eg : 1->2->3->4->5->6, make the following changes    1->6->2->5->3->4
+Easy but it was lengthy. Had to write production level code.
+After 2-3 hours, I got an invitation for in house interview at Amazon campus:
+Round 1 : Face 2 Face 
+It started with a discussion about my previous work and projects. After the discussion he asked the following technical questions:
+1) Given a pre-order traversal, construct a binary search tree.
+Simple solution. Asked me to code it.
+2) Given an alien dictionary, find the order of the alphabets in the dictionary.
+Only the approach was required. I explained him the approach and he was satisfied. Here is the link to the code anyway:
+https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/
+3) Connect n ropes with minimum cost
+I was asked to write production level code for the above problem.
+Round 2 : Face to Face
+Again the interview started with a discussion about my projects and then he asked a technical question.
+1) Given m sorted arrays with n elements, merge these arrays into one sorted array of size m*n
+I did hear about this question before but never really saw the optimized solution so I gave a O(m*m*n) solution. He asked me to optimize it, but I wasn’t able to do so, hence he asked me to code the O(m*m*n) solution. I took a lot of time to code it as I wanted to handle all the edge cases. Finally I coded it. He didn’t find any issues but he asked me to make it better. And then I suggested using heaps to get the minimum of all the m arrays.
+Lot of questions on why heap and why not BST. Asked me to prove it mathematically.
+But he was satisfied once I gave the solution using heaps.
+Round 3 Bar Raiser : Telephonic
+Discussion on my previous projects and asked some behavioral questions like why are you leaving your current company, conflicts with your manager etc
+Technical questions:
+1) Find the maximum element in an array which is first increasing and then decreasing 
+2) Find the Pythagoras triplet in an array
+Gave an O(n3) solution then made it O(n2logn). He asked me to optimize it even further.
+Finally came up with O(n2) solution.
+3) Given a very large binary number which cannot be stored in a variable, determine the remainder of the decimal equivalent of the binary number when divided by 3
+I had no clue about this question. He gave me a hint, with which I was able to solve it. But later, he asked me to find the remainder for any number k. Again he gave a hint and I was able to solve it.
+Basically when we append a digit to a binary number, the previous binary number gets doubled, hence the remainder also gets doubled. 
+By keeping track of the remainder of the previous binary number, the current remainder can be determined.
+Round 4 Hiring Manager: Face to Face
+Behavioral questions along with some questions about my previous projects.
+Then he gave me a technical question:
+1) Given a number say ‘1234’, return the number in words i.e One thousand two hundred and thirty four
+Was able to cover all the scenarios. He was satisfied with my approach
+Suggestions:
+Think loud and be confident. It’s okay if you don’t know the answer at first. They mostly see how you solve questions for which you don’t know the solution.
+Thanks geeksforgeeks. You guys are doing an awesome job.
+
+
+
+1.       Given infinite sequence of number, how you will store it in a system. Find whether the given  sequence is palindrome or not. 
+Ans: He suggested to store all the number in a linked list and then find Palindrome or not
+2.       A) Find the path with given sum in a Binary tree from the root
+B) Find the path with given sum in a Binary tree from any node in the tree.
+3.       Print all possible balanced parenthesis.
+4.       Implementation of publisher and subscriber design pattern.
+5.       Find the given sum in unsorted array.
+
+
+
+I am 1.5 year experienced guy, currently working in one good Product Based company in Whitefield,Bangalore. I have spent 1.2 years in my present company and previously, I spent 6 months in TCS Pune.
+Recently, I got a chance to be interviewed by Amazon at Bangalore, through a referral (made friend from Facebook :p). I was preparing for Amazon from last 6-8 months from GeeksforGeeks.org. I must say, GeeksforGeeks is making life of people. I got an offer from Amazon by preparing from GeeksForGeeks.
+Questions :
+As I reached to 25th Floor of WTC, Brigade Gateway, we 25 people were asked to write code for these 3 questions on paper (OnSite Written Round) :
+1. Two numbers are represented by 2 linkedlists. Find the resultant linkedlist represented as sum of these given linkedlists.
+2. Given a number say 12345, find the immediate next number using the same digits, in this case 12354.
+3. 3 points of a triangle are given. Find if given forth point lies inside or outside of the triangle.
+F2F Round 1 :
+1. Given a Hotel and checkin/Checkout time of visitors, find the maximum numbers of rooms required. (different version of Trains/Platform question)
+2. Given sequentially placed boxes, each representing a number( which may be positive or negative), we need to select the numbers in order to have the maximum sum, having the constraint that if we seelct a given box, we cannot select adjacent box to it, but can select any other.
+Solution : let the boxes positions be the indexes of array and their values as array values. then if we select value at index 0, we cannot select value at index 1, but can select from index 2,3,, and so on.so we can apply Dynamic programming here.
+F2F round 2 (Hiring Manager Round):
+HR called me and gave me some tips before this Interview(I must say Amazon Interview people are really cool and make the candidate feel comfortable). He told me listen the question carefully and answer perfectly as this interview matter a lot.
+1. Asked about my experience and work in current company. (Discussion lasted for about 1 hour) as I explained in deep and he asked cross questions.
+2. Given 2 numbers, add them without using any arithmetic operator.
+Hint : Use Binary Operators (specifically ‘<<‘, ‘&’, ‘^’)
+Gave answers to this question and he was really impressed.
+(he was also very cool in nature)
+ 
+F2F Round 3 : 
+1. Discussion on my projects and work in current company.
+2. Given a general stack, design an advanced DS, such that getMin(),getMax() happens in o(1). Many cross questions on this. about optimizations and all.
+Then HR told me that all my interviews went well and they will call me for last round of Interview. 🙂
+
+Last F2F round (Bar Raiser):
+1. Given a file having many lines of text(words) and given a dictionary having an API function boolean isValid(String word), which will return true is a word passed to this function is valid word in dic.,and will return false if given passed argument is not a valid word in dic.
+Now read the file and check if each word as well as all possible words from its L to R and R to L combinations, are valid words in dic. or not.
+e.g. say first line in file is “My name is Gourav”, then in the word NAME, the possible valid words are NAME, AM(L to R), ME(L to R), MAN(R to L), AN(R to L).
+I implemented this simple questions in java code and used Hashmap to avoid processing of already processed words.
+2. Why Amazon ?
+3. Extraordinary work done in company which was out of scope of your designation.
+
+
+
+I had around 1 year and 9 months of experience. And applied for SDE1
+First Round (F2F):
+1. What are data structures in which you are most uncomfortable.
+2. What is your favorite sorting algorithm. Give a dry run.
+3. Heap sort, dry run, Complexity of building heap, prove it.
+4. Lowest Common Ancestor in a Binary Tree , extended for n-array tree.
+5. Sort an array of 0s, 1s and 2s ( in single scan)
+Second Round (F2F):
+1. Tell me about yourself.
+2. What is the most challenging project you have done, your contribution.
+3. Convert a given tree to its Sum Tree
+4. Longest K unique characters substring 
+Third Round (F2F):
+1. Tell me about yourself.
+2. Most challenging project, why it was challenging, your role in it.
+3. Implement a LRU cache, extended for LRU with ttl at each block.
+4. k largest(or smallest) elements in an array 
+5. Full working code of Dijastra Algorithm and a dry run.
+Fourth Round: Hiring Manager (Telephonic)
+1 Tell me about yourself, company role and responsibility and many behavioral questions.
+2. Detailed discussion about previous projects.
+3. If you have indefinite budget and indefinite time, what type of project would do ?
+4. Design a notification system.
+Fifth Round: Bar Raiser 
+1. Tell me about yourself.
+2. Find smallest positive missing number from an array of positive numbers.
+3. Disagreement with your immediate supervisor, how your relation got affected after that        disagreement.
+4. Your one area which needs to be improved.
+5. Your strongest strength.
+6. A work in your project which made you proud.
+
+
+
+Recently, I got a chance to be interviewed by Amazon at Bangalore campus, through referral. I had 8 months of experience in a product based company and 5 months of Internship. 
+1st Round Telephonic : There were two guys, started with a formal introduction. Question 1 : Given an array and a number say “Num1”. Find two numbers whose sum is equal to given number “Num1”. 
+I told him first Brute Force solution then he asked the time complexity which i told him O(n^2). Then he asked me to optimize the solution and I gave a O(nlogn) solution using sorting. And at last I told him O(n) solution using Hashing. 
+Question 2 : Given an array of stock prices . Determine the maximum profit one can get by buying and selling the stock(Similar to stack span problem). I told him brute force solution of O(n^2) then he asked me if you could give an optimized solution. I told him O(n) solution using stack but code got stuck on some of the test cases and he asked me to modify the code but i couldn’t as they were running out of time. They provided me a link to Colabedit(kind of google shared document) where i had to code.Production ready code was required. After 2 days I got call from Amazon saying that feedback was positive and they asked me to come for face to face interview at Amazon’s office. 
+F2F Round 1 : Started with a brief introduction. Q1: Given a M*N matrix. you have to start from Index(0,0) and reach to Index(M-1,N-1) with maximum sum , given the constraint that you can only move right or down i.e if you are at index (i,j), you can only move to index(i,j+1) or to index(i+1,j) I gave recursive solution for this and there were a lot of discussion on various test cases. He asked me to optimize the code. I gave him Dynamic programming approach . He asked that have you done it before and i said no then he asked me to code it. I had no idea of the code as i haven’t done it before. i struggled to write the correct code 2-3 times and at last i wrote the correct code. Then he said to me i am done with the interview, Do you have any question for me and i asked two question. 
+Production ready code was required. 
+F2F Round2 : Again Started with a brief introduction and some project discussion. Q1: A question similar to LCA(Least Common Ancestor) of Tree and I gave the answer immediately as I have understood the question and didn’t ask any further clarification. Q2: Given some resources in the form of the linked list you have to cancel out all the resources whose sum up to 0(Zero) and return the remaining list. I gave the solution immediately but couldn’t handle some of the corner test cases then he asked me to modify the code accordingly. Then he asked me to write all the test cases for it and i did. For eg; given the resources like this : case 1 : 6 -6 8 4 -12 9 8 -8 It should return 9 as all others get canceled. In the above example lists which gets canceled : 6 -6 8 4 -12 8 -8 o/p : 9 case 2 : 4 6 8 -9 10 -9 o/p : 4 6 case 3 : 4 6 -10 8 9 10 -19 10 -18 20 25 O/P : 20 25 
+F2F Round3 : Started with a formal introduction and BTW he was the same guy who took my telephonic interview. Q1) He asked me subset sum problem i.e; Given an array find the maximum sum contiguous subarray. I gave O(n) a solution for finding the maximum sum immediately after he asked the question as I knew the solution. Then he asked me to trace the code for some test cases and it passed. Then he asked me to find the starting and end index of the subarray and I modified the code and initially got wrong but after some modification, I got the code right. 
+Q2) Sum of numbers represented by two linked list. And I gave the answer immediately after he finished the question. But I gave the soln for adding two linked list numbers starting from the beginning but he told me to add the numbers as we do in normal addition. And I gave that solution by reversing the linked list and then adding the numbers and finally reversed the resultant list. After 2-3 days I got a call from Amazon that I have cleared the rounds and they asked me to come for Hiring Manager Round. One of the interviewers gave me feedback that he mugged the answer as I gave the answer immediately after the interviewer asked the question as I came to know later which was a major setback for me. So one of the advice would be to all of you that Even though you know the answer pretends that you don’t know. Ask some clarification question, As they also observe your problem-solving skills with coding. 
+Hiring Manager Round F2F : Started with some basic questions and then asked why do you want to leave your current company and then he asked code Of the Fibonacci series. I explained the Fibonacci series and then he asked me to code it. I wrote the code and traced some inputs. Then he had a meeting as I reached late there so he asked me to improve the code as he said there is some bug in the code and I did. After that, he asked me to write recursive code for it. Then he asked the time complexity of the code and I said Exponential. Then he asked me to prove it. I said sir I could do it using Master Theorem or using Mathematical Induction. But right now I remember none of them. Then he told me that you can do it without Master Theorem or MI. Then in my mind, it struck me as the Recursion Tree Method but at that time I didn’t have any idea of the recursion tree method as well. So I couldn’t tell him. This round wasn’t positive as I knew right after my interview. I got eliminated after this round. 
+ 
+ 
+All Practice Problems for Amazon ! 
+ 
+ 
+
+
+ 
+
+
+
+Online Round: 2 Programming questions for 2 Hours
+Input: amazon, rat,pat
+Output: 262966 amazon
+            728 pat
+            728 rat
+1st Round(F2F) 1hr:
+Ask everything about project working at current company. 
+2nd Round(F2F) 1hr:
+Asked everything about project and lots of cross questions on the same. Interviewer gave me lots of scenarios related to my project and ask to solve then.
+
+3rd Round(F2F) 1hr:
+4th Round(F2F) 2hr:
+All the interviewers were very helpful. In all rounds for every question they were looking for what kind of approach you are going to use and proper reasoning for the same. Not just coding , neat and efficient coding was required because for each question at the end you have to code and they expect you not to miss edge cases. 
+
+
+
+Hi, Recently I got a chance to attend the off campus interview with Amazon (SDE-1).Every code they asked to write on paper and full production level code was expected.
+Here is my experience:
+Round 1:
+Three questions. Were asked to write the code on paper:
+1. Next Greater Element in array
+2. convert sorted array to binary search tree
+3. Find the row with maximum no of 1s in 2-D sorted array
+Round 2:
+1. Next Greater element in BST
+2. Given a linked list. Each node contains a string. Find whether the string (after concatenating entire nodes string) is palindrome or not. Expectation : Time Complexity O(n) and Space Complexity O(1)
+3. One more question. Don’t remember
+Round 3:
+1. Given a pole of different heights and width. Water is continuously flowing from top. Calculate the total amount of water stored.
+2. Code for Josephus circle
+Round 4:
+1. Discussion of current role & projects
+2. Given a linked list 1->2->3->4->5->6. Make the following change:
+1->6->2->5->3->4
+3. OS concepts : mutex, deadlock, semaphore, Multithreading
+4. Implement Producer Consumer Problem. Extended the problem by adding mutliple producer and mutliple consumer. (Focus mainly on thread deadlocks, resource handling, efficiency)
+Round 5:
+1. Discussion on current role & project
+2. Discussion on IPC.
+3. Stream of integers is coming. How will you find the median? Discussion on complexity and choice of data structure.
+4. Variation on mirror of tree. Dont remember the exact question
+5. Reverse a list
+Round 6:
+1. Discussion on current role & project
+2. Finding subset of array with maximum sum
+3. Contact suggestion comes in phone on typing few letters. How will you implement it? Code to insert, search and delete contact.
+After 1 week, I got a call with offer. Thanks to GeeksforGeeks for helping me a lot for my preparations 🙂
+ 
+
+
+Telephonic 
+Production level code in any language was expected with unit test. Collabedit link was shared before interview  
+Face to Face Round 1  
+He explained the code-reviews, deployment, testing etc practices followed at Amazon. He gave a brief background/goals of the team for which i applied. 
+Round 2  
+Round 3  
+Round 4  
+ 
+ 
+
+
+I was interviewed in Delhi for SDE-I position in Kindle Frameworks Team at Amazon. I was working as a Project Lead in Samsung, Noida and had a total experience of 1 year 10 months in the Software Industry.
+Round 1 : Written
+Round 2 : Problem Solving (F2F)
+Round 3 : Design and Data Structures (F2F)
+The interviewer was highly impressed with my coding skills and shook hands with a sense of approval.
+Round 4 : Hiring Manager (F2F)
+The Hiring Manager introduced himself and told me that I’ve been doing really great till now. Then he grinned at me and said “ Lets hope you don’t mess it up in this round “ .
+(1) Which Sorting Algorithm is the fastest and why would you prefer it over others ?
+While telling the answer, I said in between “ If there would have been millions of numbers…… “ and he caught that specific word of mine “millions” and hence the next 2 questions found the way on their own.
+Then he stood up and shook my hands with a broad smile and said “ Well Done Man ! ” and left.
+Round 5 : Bar Raiser (F2F)
+All credit goes to  https://www.geeksforgeeks.org/ team for providing such an inspirational and a brilliant platform for coders. Keep it up guys, Way to go !
+Suggestion for other candidates interviewing at Amazon :
+ 
+ 
+
+
+
+Round 1
+Round 2
+Round 3
+
+Round 4
+
+
+
+Amazon Off Campus Interview Experience(SDE-1, Experienced)
+Round 1:
+1) Tell me about yourself.
+2) Trapping Rain Water : Giv­en n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+https://www.geeksforgeeks.org/trapping-rain-water/
+3)  Print left view of a binary tree.
+https://www.geeksforgeeks.org/print-left-view-binary-tree/
+	Discussion : I gave two approaches one with DFS and other with level order traversal.
+He asked to compare two approaches and implement the efficient one. 	DFS is the efficient one because in level order, you need to store all the nodes at each level, some of them may not be a part of the left view of BT.
+Round 2:
+1) Tell me about yourself.
+2)  Find sum of n elements after kth smallest element in BST. Tree is very large, you are             not allowed to traverse the tree.
+	 Discussion : Since the array traversal is not allowed so we need to do some            preprocessing over the tree, something like storing sum of all its predecessor nodes.	 For finding kth smallest element, use order statistics approach:
+ https://www.geeksforgeeks.org/find-k-th-smallest-element-in-bst-order-statistics-in-bst/
+3)  Given a sorted array which has been rotated n number of times. Find the value of n.
+	 It is similar to below post where you need to find only the pivot element. If you have the  Index of pivot element, you can get the number of times the array is rotated.
+	 https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+Round 3:
+1) Count ways to reach nth stair.
+https://www.geeksforgeeks.org/count-ways-reach-nth-stair/
+	It is similar to fibonacci series. Interviewer asked various ways to implement the same –            Recursion, 1-D array, with 3 variables and complexity of each.
+2)   Design recommendation engine.
+	It’s like auto suggestion. I gave the trie approach. The interviewer seemed fine with         this approach and asked me to write full code with time and space complexities.	Implementation of Tries:
+https://www.geeksforgeeks.org/trie-insert-and-search/
+Round 4 (Managerial Round – Over video call)
+Tell me about yourself.
+Current work
+Which project you liked working the most.
+Any case where you had conflict with your manager.
+Any idea/technology suggested by you to your team which then got implemented and worked out.
+Any case when you had to work out of your comfort zone.
+The most critical feedback received from your manager/team members.
+What do you do to enhance your technical knowledge apart from your project work.
+    And many more.
+
+Round 5(Final Round – Telephonic)
+Initially I was asked questions about the work I had done, the projects I did and some managerial questions.
+Then I was given a coding problem to solve. They use Collabedit tool in phone screen interviews where the same screen is shared by both interviewer and interviewee.
+	Ques : Print all the non-repeating words out of two given sentences.
+	Eg. Statement 1:   I have a blue pen.
+	      Statement 2:   I got a red pen.
+	      Output : have blue got red
+	Discussion : I suggested the hashing approach. The interviewer asked to implement the same.
+
+Points to take care:
+You must know how to calculate time and space complexities.
+In each round they ask you about the project you recently did/ the project you liked working most/ most challenging work etc –  so you should be prepared well for at least one project with in-depth details.
+Start with the naive approach for each question asked and then proceed with solutions with better space and time complexities.
+No need to waste time reading about Operating Systems, Networking, DBMS etc. They only care about the projects you did and your coding skills whether you cover all the edge cases while writing code, know time and space complexities, have better approaches for solving same problem and so on.
+
+
+
+Round 1:
+Discussion : I gave two approaches one with DFS and other with level order traversal.
+He asked to compare two approaches and implement the efficient one. DFS is the efficient one because in level order, you need to store all the nodes at each level, some of them may not be a part of the left view of BT.
+Round 2:
+Round 3:
+It is similar to fibonacci series. Interviewer asked various ways to implement the same -Recursion, 1-D array, with 3 variables and complexity of each.
+Round 4(Managerial Round – Over video call)
+Round 5(Final Round – Telephonic)
+Points to take care:
+
+
+
+I got a call from an consultant for recruitment drive in Delhi.
+First round (1 hour 30 minutes): online writtenIt was online written round on a platform called Stockroom.io.
+Expected time complexity is O(n). The only thing to pay attention was that ASCII characters starts from A.
+
+Second round(1 hour): Design round  This was most critical and important round.
+First HLD was required, use cases, flow diagram. then a low level design was required all necessary classes where will u use polymorphism, where inheritance, multithreading, synchronised approach if needed, socket connections. Other things that surfaced and he asked as interview goes : round robin load balancer, hash-map based load balancer, two layer caching, nosql db, design patterns, solid principles, ACID property, CAP theorem etc. Interviewer was a senior person and knew a lot. I was nervous in this round but answered well.
+Third round (1 hour): technical
+Fourth round (1 hour): technical He asked me what you like , I said array questions 🙂 He started laughing.
+      he asked me to write code for the same. made some variations like lazy propagation.
+Hr came and told me that we are done for the day one more interview is there which was on next day.
+Hr was very supportive she gave me some constructive feedback and told me to get prepared well and come next day as next day was
+with a Bar Raiser.
+Fifth round (1 hour): technical+ design + behavioural, Bar Raiser
+Few things to remember:
+
+
+
+1st
+2nd
+3rd
+No actual coding
+4th
+Bar raiser:
+Hiring manager 1
+Hiring manager 2 
+
+
+
+Requirement was that the candidates should have strong troubleshooting skills, strong knowledge of scripting in any language + Strong coding skills and problem solving skills.
+Round 1: Written test (Elimination Round)
+There were total 6 questions. 2 coding and 4 scripting questions.
+[5 marks]
+1234567890
+0987654321
+ABCDEFGH
+123456789X
+1234567890
+123456789X
+Write a script command to print the distinct records containing only alphanumeric characters.
+Expected Output : 123456789X
+[2 Marks]
+
+Round 2 : Technical/Problem Solving F2F Interview
+Then the interviewer asked me whether my code for the run length encoding asked in the written round will run for all the inputs. I was pretty sure that it would run. He gave me a case where my code was failing. He told me to modify my code. Also, I had used Hashing technique for this problem so he asked few questions on HashMap how it works.
+
+Round 2: Debugging and Troubleshooting/Scripting
+She modified the question and asked me if 3-4 customers complains the same that they are not able to login to their Amazon account, how will you troubleshoot the issue.
+Debugging – How will you debug the issue whatever you have troubleshooted.
+
+Round 4: Troubleshooting/Debugging/Problem Solving/ Managerial
+At last, HR called me and told that I am rejected. 🙁
+
+
+
+I applied off campus for Amazon Bangalore SDE-1. It started with two face to face rounds.
+Face-2-Face (Round 1) :
+Face-2-Face (Round 2):
+He started introducing himself and then asked me some behavioural questions.
+And then he asked me one dynamic programming question.
+A matrix is given and each cell has some value. You can enter from any cell of first row and make three different moves down, south-east and south-west i.e. from (i,j) to (i+1,j+1), (i+1,j-1),(i+1,j). You need to calculate maximum value when you reach last row.
+I gave recursive solution of complexity O(3^n) and then finally gave him dynamic programming solution in O(n^2). He was not done yet then he asked me to print the path as well. I did.
+Both interviews were good so I was waiting for results. After 2 days I got the call you have cleared both the rounds and they want to conduct two more rounds. Next step was two more face-2-face rounds.
+ Face-2-Face (Round 3):
+It was a bar raiser round very crucial for the whole process. Interviewer introduced himself and asked me behavioural questions like:
+I was currently working on Blockchain so he asked me about this technology cause its totally new and amazing tech so he was pretty impressed. He asked if I have any question for him. I asked several question related to his work and Amazon visions.
+
+Face-2-Face (Round 4): Hiring manager round
+This round was behavioural round and cultural fit. He asked so many questions related to projects and current work.
+Then he asked me explain current company project and project architecture, my role in team etc. Guys prepare well for behavioural questions, they look for culture fit.
+Coding question:
+Print the vertical sum of a binary tree.
+Result : I got the call after 3 days and hr said congratulations, you are placed and It was like dream came true.
+Thanks to my parents, Upendra Bhaiya and Prajakta for all the support. I want to thank geeksforgeeks team, it’s an ideal platform for preparing coding interviews.
+
+
+
+A big big thanks to geeks for geeks for constructing this platform where candidates find suitable question sets. 
+1. 1st Round (Coding round on hacker rank) :
+    Two questions. Each of 100 marks. Total time given was 2 hours.
+    Question 1: Unit Area of largest region of 1’s 
+    Question 2: Largest Sum Contiguous Subarray
+2. 2nd Round (Tech) : 
+    Two questions. Here the basic knowledge of data structures and algorithm is tested to determine whether candidate is eligible for onsite interview rounds or not.
+    Question 1: Find zeroes to be flipped so that number of consecutive 1’s is maximized
+    Question 2: A program to check if a binary tree is BST or not
+3. 3rd Round (Tech):
+    Two questions. Knowledge of algorithms and data structure was tested. Along with it, production level code had to be written on paper and it was to be made sure that no edge cases remain uncovered.
+    Question 1: Print nodes at k distance from root
+    Question 2: Print all nodes at distance k from a given node
+4. 4th Round (Tech):
+    Same checks as present in 3rd round. Since i did not perform well in the 2nd question of 3rd round, more stress on my coding part was given in this round. They were thoroughly checking my code and pointing all the edge cases if any.
+    Question 1: Clone a linked list with next and random pointer 
+    Question 2: http://stackoverflow.com/questions/6179635/what-is-a-good-data-structure-for-storing-and-searching-2d-spatial-coordinates-i
+5. 5th Round (Hiring Manager – Tech & Non Tech):
+    Checks were same as above rounds. Along with those, whether the candidate was a good fit at amazon was checked. 
+    Question 1: Given a stream of integers, at any point of time, fetch the count of integers which are smaller than a given number.  
+    Question 2: HR Questions
+     – give an instance where your manager and you disagreed.
+     – give an instance where you outperformed yourself.
+     – expiain your project and your role in it.
+     – explain the most difficult project you’ve faced.
+6. 6th Round (Bar raiser Tech and Non Tech) : 
+     This guy will thoroughly check everything starting from code, algorithm, data structure, behavior etc. It is necessary of every candidate to crack this round. 
+    Question 1:
+    Given the below pattern, write a recursive code for all values of n. 
+    Question 2:
+    Explain internals of hash map’s put method and write code for it.
+    Question 3: HR Questions
+     – give an instance where your manager and you disagreed.
+     – give an instance where you outperformed yourself.
+     – expiain your project and your role in it.
+     – explain the most difficult project you’ve faced.
+Practices : 
+1. Practice code with pen and paper.
+2. Cover all edge cases.
+3. Take time to code but make sure once done, the code is impeccable.
+4. Do practice HR questions seriously.
+5. Try to cover as many geeks for geeks amazon interview sets as possible. As you can see my interview questions were mostly covered by articles already present. 
+
+
+
+Round 1:
+Round 2:
+Round 3:
+Round 4:
+Round 5:
+
+
+
+Round -1 (Written Round) Pen and Paper
+
+Round -2 F2F
+
+Round-3 F2F
+Round-4 F2F Design round
+write a program
+Round-5 Design and Coding 
+
+
+
+Recently I have gone through interview with Amazon Chennai for Amazon FIRE TV team. Here is my positive experience.
+Round 1(written):
+1. Run Length Encoding 
+2. Find k-th smallest element in BST (Order Statistics in BST)
+3. Substrings with similar first and last characters 
+Round 2:
+1. Level order traversal in spiral form 
+2. It’s a two player game. Both the players are equally intelligent to win the game. Give n no. of stones. A player can choose either 1 stone or k stones or l stone (1<k<l). Suppose player 'A' starts game then challenge was to identify the player who will win the game. Player who picks the last 1 stone or last k stone or last l stones win the game.
+Round 3:
+1. Inversion of array 
+2. Print matrix in diagonal pattern 
+3. Minimum Cost Path 
+Round 4 (Bar Raiser)
+1. Detailed discussion on current company project.
+2. Maximum Path Sum in a Binary Tree
+Round 5 (Hiring Manager)
+1. Design ATM machine.
+2. Design a queue using only one stack.
+3. Discussion on process & threads, Inter process communication, Lots of discussion on scheduling algorithm, their implementations, data structures used to implement scheduling algorithms, scheduling algorithms in real time distributed systems & implementation.
+4. Lots of behavioral questions like why amazon, why you are leaving current company.
+Finally got positive response from amazon with decent package.
+Thanks GFG for this wonderful site.
+
+
+
+Below is the summary of interview round conducted by amazon. Although i am not able to remember correctly since its almost 2 months.
+Written Test 
+F2F (Technical)
+F2F (Hiring manager)
+F2F (Technical)
+Telephonic (SDM)
+Telephonic (Bar raiser)
+
+
+
+Telephonic Round: 
+FACE TO FACE
+Round 1:
+Round 2:
+Round 3 (Hiring Manager):
+Round 4 (Hiring Manager):
+Bar Raiser Round:
+
+
+
+I went through some interview rounds for SDE-2 in amazon. Below is the format.
+Round1:
+Round2:
+Round3:
+Round4:
+
+
+
+I went for face to face interview and faced following questions.
+
+
+
+I recently got an interview call from Amazon (Chennai) for the Kindle team. Here is my experience:-
+Round 1 – It was written round (Pen & Paper) consisting of three questions –
+1. Run length encoding of a string.  Ex – Input – aaaabbcd  , Output – a4b2c1d1
+2. Given a linked list consisting of characters. Determine if it is a palindrome or not?  O (1) space complexity.
+3. Connect nodes at same level.  Check if Linked List is Palindrome
+Out of 30 people, they shortlisted 6 of them for further rounds. I was one of them.
+Round 2 (F2F) – It was purely based on programming standards:
+1. Given a binary tree with two nodes, find the lowest common ancestor of them.
+2. Adding to first ques, he further asked; find the minimum distance between any two nodes.
+3. There is a conference room. N people are joining the conference. You have the start time and end time of each of them visiting it. You are asked to determine the maximum number of people that can be inside the room. 
+Answer will be – 3
+It went well. I was able to answer all of them. They asked me write production level code for each of them. Take care of all the end cases. Three out of six were able to make it.
+Round 3 (F2F) – This round was grilling and was again on programming standards:
+1. Print the top view of binary tree.
+2. Find the maximum sum of any rectangle in a square matrix of n x n.
+https://www.geeksforgeeks.org/dynamic-programming-set-27-max-sum-rectangle-in-a-2d-matrix/.
+They provide you necessary hints whenever needed or if they feel you are not able to find a solution or thinking in a very wrong direction.
+After this, they call me to Chennai for further two rounds of process.
+
+Round 4 (Hiring Manager) – In this round, they focused on my experience and previous company’s work.
+       All behavioral type of questions like:
+1. How do you measure your success in the whole year?
+2. Mention some of the negative and positive feedbacks from you manager.
+3. Why you want to leave the firm so early? Why Amazon.
+4. Questions on my projects and achievements in current company.
+Hints: Just do not blame you current company as answer to any question. A clever way to deal this round is make them realize you are quite good for amazon.
+P.S. Some research on Amazon before the interview would be great. 
+Round 5 (Bar Raiser) – This was my final round. It was mixture of behavioral and coding.
+Behavioral question were almost same what I mentioned above.
+Discussions on my Final year project and what new I can add to it if I am given a chance to improvise it.
+Some coding questions:
+1. Given two strings, find the uncommon characters in them using single hash map.
+2. Given data of millions of people, (name, age, M/F etc.) Develop an API that will have age range as input and yield the count of people under this range as output.
+Thanks Geeksforgeeks for all the references. You people are doing great!
+Key points:
+1. Just write clean and crisp code, whenever asked to code considering the end cases.
+2. Maintain continuous discussions with interviewer. He/She will help you whenever needed.
+
+
+
+I went through some interview rounds for SDE-2 in amazon. Below is the format.
+Round1: It was a test on HackerEarth with two programming questions
+Round 2:
+Write production ready code. Consider scenario for duplicates too.
+
+Round 3:
+
+
+
+Attended two interview rounds for SDE II position. Rejected after second round.
+Round 1 : Q1 – Design spelling checker web service.
+Round 2 : Q1 – Design cricket scoreboard.
+
+
+Some time back I went through an interview for Amazon.com for SDE-1 role, and here is my experience to help other aspirants :
+Written – Pen & Paper Rounds
+Had to write production level code in any programming language of my choice, covering all the edge cases, and clearly mentioning the complexity of my code.
+Solution: GeeksforGeeks Link
+Solved it using Binary search tree
+
+Face to Face Rounds?
+Interviewers were very very helpful, and were focused on approach, they will ask basic brute force solution first, then an optimum solution, after that they may increase the complexity of problem a little bit, and if you are able to explain your approach satisfactorily, then will ask you to write production level code in any programming language of your choice, covering all edge cases using pen and paper : 
+Advice to fellow members preparing for something like Amazon : 
+I hope this information will be helpful to all of you, wish you all the very very best.
+
+
+
+Phone interview
+Onsite interview
+
+
+Round 1 (45 Mins)
+Brief description of the current project: Architecture, Technologies, Workflow etc.
+Round 2 (50 Mins)
+Solution: GeeksforGeeks Link
+He asked questions like most challenging task you did in your past experience, I explained him about middlewares I implemented earlier for tracking the exceptions in code.
+
+Round 3 (written)
+    I was called in Amazon office after few days (very nice office)
+I believe this round was just for warmup.
+Round 4 (45 Mins)
+Brief description of current project: this time he was more focused on technologies and tools. He asked every technology I mentioned in deep.
+Queries would be like: GET name, so output would be Pratik. (something like that)
+
+
+Round 5 (Manager)
+I could not make it but it was very good experience, All interviewers were so friendly and helpful.
+
+
+
+
+Round 1
+Round 2
+Round 3
+Only these rounds happened on 1st day. Later I was called to complete the other 2 rounds
+Round 4
+Round 5
+
+
+Telephonic Round :
+
+Round 1 :
+
+Round 2 :
+
+Round 3 :
+
+Round 4 :
+I would like to thanks GeeksForGeeks, for helping me in interviews. 
+
+
+I recently interviewed at Amazon for the SDE-2 position.
+Round – 1
+This round was taken by the hiring manager
+1. did you ever have a conflict with your manager and how did you resolve it
+2. did you ever have a conflict with a peer or junior and how did you resolve it
+3. Did you ever have to deliver on a tight deadline and how did you stick to it.
+4. design Uber
+Round – 2
+This was one of the coding round
+1. https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/
+2. print zig-zag level order traversal
+Round – 3
+this was again taken by a different dev-manager
+1. what is the toughest project (technically) you have worked, how much did you contribute to it and given a chance to rewrite it what all would you change
+2. given an existing problem solved by his team and told me to write down the possible ways to solve it.
+3. how did you train/groom the juniors in the team
+4. how do you do a code review
+5. how else did you contribute to the team other than the regular feature implementation.
+round – 4
+this was again a coding round
+1. LCS of 2 strings
+2. https://www.geeksforgeeks.org/dynamic-programming-set-5-edit-distance/
+Round – 5
+this was a HLD and LLD round
+1. design a furniture selling site
+was asked to design the HLD of the services involved and give their scaling constraints
+2. was asked to write down the classes and then the corresponding DB schema
+Round – 6
+this was the bar raiser round
+1. quick intro and reasoning for all the job switches
+2. take up 1 project and explain it in depth. Explain the design decisions, constraints, throughput, test coverage etc. Given more time what all features would you add to it.
+3. give an instance where you had to push back your manager/lead keeping the long term benefit of the product in mind.
+4. a variation of the merging k sorted arrays ( here instead of arrays it was files, large files which would not fit in the memory).
+5. write down the code(classes) for the same.
+
+
+Telephonic Round:
+Face to Face Interview: Round 1:
+Round 2:
+Round 3:
+Round 4:
+Round 5:
+ 
+
+
+Round 1 : Telephonic
+Round 2 : Hiring Manager ( F2F )
+Round 3 : DS Algo Round
+Round 4 : DS Algo Round
+Detailed discussion on project
+Round 5 : System Design Round
+
+
+Recently I was interviewed for Amazon SDE II for Amazon Pay Team. Below are the Questions : 
+Round 1 : (Written : Pen & Paper) (3 Questions)
+
+Round 2 : DS and Algo (F2F) (3 Questions)
+Result : I was eliminated due to some basic mistakes I did (in Q3), which I just realized after leaving the Interview room. It was a nice experience.
+I would also like to share few more Questions those were asked to other candidates over there : 
+The Interviewers were very friendly and helpful. They will help you whenever you get stuck (with Hints), but they will also check how much grab you have on basics.
+Thank You!!!… Hope this will help the aspiring candidates.
+
+
+
+
+Round 1
+Round 2:
+Round 3:
+Round 4:
+Round 5
+ Offered !
+
+
+Written :
+Round 1 :
+Round 2 :
+Round 3 :
+Round 4 :
+Round 5 :
+
+
+Round 1:
+Round 2:
+O(1) space solution was expected.
+Round 3:
+Round 4:
+Round 5: 
+Round 6(Hiring Manager):
+1.  Behavioral questions : conflicts, challenges, innovation
+2. Project Discussions. Please make sure you know everything about your project.
+3. Reverse a stack using recursion.
+Round 7(Bar raiser)
+ 1.  Behavioral questions : conflicts, challenges, innovation
+2. Project Discussions.
+3. Next Greater element.
+ https://www.geeksforgeeks.org/next-greater-element/ 
+
+
+
+
+I applied through recruiter, i was having 4 year exp while appearing for this interview, overall it was quite lengthy process.
+I shared my resume to recruiter and later was scheduled a telephonic discussion
+Telephonic Round 1:
+Brief Intro from both the side then he asked the technical question,
+Then there was gap of almost 3 weeks with no clue on feedback then suddenly recruiter contacted me stating the positive feedback from telephonic discussion and invite for In House interview at Amazon Gurgaon office since i was in NCR region.
+Round 2:
+This was completely technical round, i was asked to three technical question, not much tough
+Round 3:
+This was kind of mix of technical and some behavioral questions
+Initially interview asked some of the questions from resume then jumped to the technical questions,
+Round 4:
+This round was completely design round (LLD and HLD)
+Design Debugger then in between he moved to design Meeting scheduler
+In last 10 minute he asked me to give HLD of Clock Room
+Round 5:
+This was taken by some senior developer,
+He asked few question related to previous work, its challenges then moved to technical question
+Then again some behavioral question,
+This type of questions.
+These all rounds happen on the same day, then i was asked to leave for the day and wait till next week for getting the feedback and next steps if any.
+After 1 week, i got mail stating that, we would like to proceed further and scheduled my bar raiser round.
+Round 6 (BR):
+It was telephonic discussion,
+Interviewer judged me on Amazon leadership principles,
+And i believe i just slips on one of the principle but overall he was satisfied with my responses.
+And he asked me to explain HLD for Automatic Parking System.
+This interview stretched for long since there was some network connectivity issue with my cell network,
+In last he asked me to explain just the approach of solving a technical problem,
+Exact question i don’t remember but it was related to merging k sorted array.
+Round 7 (HM):
+Nearly next week this interview was scheduled since Hiring mangers were not available due to their busy schedule,
+Majority of the time this interview was around behavioral questions and Amazon leadership principles.
+In last he asked me to design Game Studio like amoeba game zone.
+                                         
+
+
+
+
+Round 1: Telephonic round.
+Round 2:
+On site Interview:
+Round 3:
+Round 3:
+ 
+
+
+Round 0: Online Coding Test (90 Min – 4 Coding Questions)
+GeeksforGeeks Link
+
+After 1 month recruiter called for f2f rounds. There were 4 rounds on the same day.
+Round 1: Hiring Manager Round (Behaviour + Design)(1.5 Hrs)
+Intro, Project & Lot of Behaviour Questions
+Lot of other behaviour questions. Finally gave a design problem to solve.
+Design:
+Do integration for Splitwise app with Amazon Pay (or Paytm)
+1) where a person can pay to another person and money directly gets deposited into other person’s bank account.
+2) A person can also send reminder to another person for owning money.
+Round 2: Design Round (1.5 Hrs)
+Round 3: Coding Round (1.5 Hrs)
+GeeksforGeeks Link
+
+Round 4: Coding Round (1.5 Hrs)
+First write the data structure to solve this problem, then efficient algorithm, then complete working code on paper.
+
+ 
+Overall it was a positive experience, recruiter kept me informed about the progress and about next rounds. First four rounds went well but I wasn’t able to solve 5th round problem, and was eliminated after then.
+Thanks a lot to geeks for geeks for having such a great amount of collection to practice on.
+ 
+Advise:
+ 
+
+
+It was a recruitment drive at Pune, for Kindle team (Chennai).
+Round 1 (Screening):
+Two common questions were given to all. We’re supposed to discuss the approach to the problem with the interviewer first and then implement it after the interviewer is convinced with your approach.
+Round 2 (Problem Solving):
+Round 3 (Problem Solving):
+Round 4 (Design):
+Round 5 (Bar raiser):
+Few questions to evaluate me on Amazon’s leadership principles.  I can’t remember them all 🙁
+And one algorithmic problem at the end. Diameter of a binary tree
+Round 6 (Hiring manager):
+Note:  In problem solving rounds, you’re supposed to write a working code in any language of your choice, handling all the corner cases.
+Finally got an offer after 3 days!! 🙂 All the best!! (y)                                        
+
+
+A
+
+
+I was interviewed for customer returns team for Hyderabad campus. I had 1 year and 9 month experience at the time of getting interviewed. Less experience was something which was worrying me a lot. They generally ask for 3-5 years of experience, but come down to 2 years if you are good.
+1. What is so special about typescript that both Angular and React included it in the recent versions. Tsc compiler, final output, difference between java, JS and TS were discussed. Any live project use case where TS helped more than JS (I come from a pure JS background that’s why this question was asked)
+2. Design a vending machine with following functionalities
+Both HLD and LLD were expected.
+Round 2 to 6 were done in Amazon Hyderabad campus. All interviews were back to back. It started from 11 AM to 5:30 PM with just half an hour lunch break. Before I could even step out after completing one round, other interviewers would already be waiting outside. Interviewers were very helping, but only if your are thinking in the right direction. HR also was very supportive. He was coming and motivating me after every round. Some advices here
+ 
+
+
+Round 1: Telephonic Round 
+ 
+Round 2: Face to Face interview 
+Round 3: Face to Face interview 
+It was not a coding question only. He expected me to write a Heap interface and using that implement min heap or max heap. And also write the heapify code
+
+
+Round 1:
+Round 2:
+Round 3:
+Design round:
+Round 4: 
+Managerial round, lot of project and Amazon’s leadership principle related questions.
+Round 5:
+Bar Raiser: Lot of behavioral and leadership principle questions, then asked a design question, design a load balancer’s algorithm so that it redirects the traffic between three services s1, s2, s3 by 50%, 30% and 20%. further clause added to handle various clients calling to specific services.
+ 
+Tips for the interview:  Good hands on towards problem solving and algorithm, HLD and LLD,   prepare well for Amazon’s leadership principles.
+ 
+ 
+
+
+I was interviewed for SDE2 role at Amazon, Bangalore. I had 3 years of experience at the time of getting interviewed.
+Round 1 : Coding Test ———————————————————————————————————–
+– Explain design patterns used so far.
+– How is code review done.
+– How is design review done.
+– Write a program to search a number in a sorted array having 1 maxima.
+– Write a program to check parenthesis are matching.
+Round 2 : Technical Round ——————————————————————————————————-
+– What type of cache do you use in your projects/SYstem.
+– Design a LRU cache having methods
+  – get(K Key)
+  – put(K key, V Value)
+  – remove(K Key)
+They wanted a Library such as Redis which takes generic input.(Using generics)
+Round 3 : Hiring Manager Round ————————————————————————————————–
+– A brief introduction
+– Almost 15 minute discussion about what App Store in Amazon does
+– Explained my project in detail.
+– A very detailed description of technical challenge faced (it includes HLD, LLD and the solution offered)
+– Design google’s Autocomplete feature.
+– Which areas of yours would you like to improve upon? (Both technical and non-technical)
+– Write a program for finding K largest elements in an array.
+Round 4 : Technical Round ——————————————————————————————————-
+– In a linked list find Kth elements from end in a single traversal.
+– Given a 2-D matrix of 0s and 1s, find the number of groups of adjacent 1s given that diagonal 1s are not included.
+  This was the famous Islands problem using connected components in Graph.
+Round 5 : Design Round ———————————————————————————————————-
+– Design BookMyShow. All the microservices which are involved their APIs and HLL design was expected.
+  How will you resolved the concurrency issue when 2 customers try to book same seat.
+Round 6 : Bar Raiser Round
+– A brief introduction
+– Complete design of my project HLD, LLD, UI, DB etc.
+– Responsibilities in the current company
+– Why do you want to change your company
+– Any task/project which was designed and implemented in less time but had a great impact on the production/Business Side.
+– Have you been appreciated for your task more than your expectations.
+– Time when you did not agree with your manager.
+– have you lead anyone ? how do you review code ?
+– how do you review design?
+– What are you weaknesses ?
+– Any project which you feel proud for?
+Overall the process was very smooth and HR was very supportive.
+After a few days I got a call saying I was selected 🙂
+
+
+This interview was for the SDE-2 position for logistic management department of amazon. I had applied for this job on naukari.com.
+Round 1:
+
+There was an online codding test on Hackerearth. Two questions were asked. I don’t remember them now.
+Round 2:
+After two weeks they scheduled a telephonic round.
+Question 1: Given a matrix of ‘0’ and ‘1’, find the largest Iceland (i.e area of  ‘1’s)
+Question 2. Design a data structure with constant time for insert, delete, search and getRandom.
+I had given solutions for the both.
+Round 3 :
+This was onsite interview at Hyderabad.
+First he asked about my past projects and challenges faced. He then asked if I had designed anything on top of current a system.
+Next a technical question was given;
+Given an array of integers  and a window size ‘k’, find first negative number for each possible window in the array.
+I first gave him a two queue approach(was not optimal), he told to code it on paper. After I wrote the code, he asked to optimize it further. Finally after few iterations, I gave him an optimal two pointer approach.
+My suggestion here is; do not hurry to present your solution to interviewer,   first try to come-up with best optimal solution. For SDE-2 positions they expect optimal solution at the very first place from you.
+Round 4 :
+This was all project and HLD related round.
+There were two interviewers. The first introduced themselves and told about what their group does at amazon.
+He then asked about my role at previous company and past projects I did in brief. Then asked if I have done something like adding new functionality or suggested some improvement for the project that was not asked by customer or manager.
+He then asked me to draw HLD for meeting calendar system. Then there was discussion on various issues on it like scalability, what database should be used; SQL-NoSQL, concurrency etc.
+ 
+All the best guys!
+
+
+Amazon visited our campus(DAIICT) to recruit interns and FTEs. I’m sharing my internship interview experience.
+There were 2 rounds in all – 1 Online Round followed by 1 F2F Interview.
+Online Round(90 min ):
+There were 24 questions based on Logical Reasoning, 7 questions based on Debugging and 2 questions of coding.
+The 2 coding questions were:
+Out of around 250 students, 53 were shortlisted for Round 2.
+->Doing MCQ (Logical Reasoning) was important. Few students who solved both the coding question but didn’t attempt the MCQs were not selected while some who could solve 80% of 1 question(8/10 test cases) and few MCQs were selected.
+Round 2: FTF Interview (Around 90 mins):
+The interviewer asked me some HR questions like Why Amazon? , Introduce myself 
+Reverse every k node. 
+Then he asked me a question on the graph. I told him that I have not prepared for it, but I had a course called design and analysis in my semester 3 so I will try to recall that and try to answer your question. 1) given n cities and every city is connected via m roads. There is no cycle in the graph. Each road between city x and city y has some traffic denoted by weight of the edge. Each city has one stadium. Now suppose in one city, a cricket match is conducted and all other cities’ people come to that city to watch a match. Total traffic denoted by the sum of edges of all city. The task is to find maximum traffic coming to that city at any point in time.
+
+Suppose the match is in the city coloured with black. So traffic coming to that is from 3 sides.  one from the group of three cities and traffic will be (9+5+4+2 = 20), second will be from (15 + 6= 21) and third will be(1+4=5). so ans will be max of these and thus ans = 21.
+When he gave me this question I don’t know the answer but I tried a lot. I gave him around 3 approaches and discussed with the interviewer but he said that my approach is wrong. But then I tried and never give up. Then he gave me the hint to do bfs and then dfs from neighbouring. I got a hint and answered the question and wrote code. Then, he asked me if I had any questions for him.
+Out of the 53 selected for the interviews, 13 were finally selected for the internship.
+Verdict: Selected.
+Tips :
+During my preparation geeks for geeks, indeed, was a great help. Almost all the questions asked in the interview were from geeks. A big thank you to other geeks as well for sharing their interview experiences as going through past experiences was the perfect way to end my preparations.
+
+
+Hi, I was recently interviewed for SDE1 position for Amazon and got selected. I have 1.5 year experience in java. Geeksforgeeks helped me lot. I am very thankful to Geeksforgeeks team. Following were interview questions-
+Two telephonic rounds followed by 5 F2F interviews.
+Round 1 (Telephonic):
+1. There is a dictionary already implemented. Write a method, which takes input String without space, to prints all subsets of the input string which is present in dictionary.
+Example: Dictionary – a*
+………….Input- aaabaa
+………….Output- a,a,a,aa,aa,aaa,a,a,aa
+2. There is a dictionary already implemented. Write a method , which takes input String without space, to replace the characters from the strings which are not present in dictionary with –
+Example: Dictionary – a*
+………….Input- aaabaa
+………….Output- aaa_aa
+Interviewer was cool. Did not code properly (lots of bugs were in code), but gave good approach for first question. For second question solution sent in a mail.
+Round 2 (Telephonic):
+1. Write a program to remove duplicates from array of prime numbers.
+2. Write a program to return nearest elements from a binary search tree for input element.
+This round was very good. Interviewer was very happy with my approach for both questions. Code did not have big bug.
+Round 1 (F2F- Problem Solving and coding):
+1. Tell me about yourself.
+2. Write a program to find top 10 elements on an array of integers.
+Don’t remember much. Questions were easy. This round was very good. Interviewer was happy with solution.
+3. Write a program to calculate a^b and store it in floating point representation.
+Round 2 (F2F- Computer Fundamental):
+1. Tell me about experience in past job.
+2. OOPS concepts- Polymorphism, Inheritance, Encapsulation, Abstraction.
+3. Aggregation and Composition.
+4. Design patterns which you have implemented.
+5. Write code to implement Singleton design pattern.
+6. Design a system to implement options in Pack of cards.
+7. Difference between Windows and Unix.
+8. Threads, Synchronization, Deadlock.
+9. Other subjects which you studied in your academics.
+10. Most challenging work you ever faced.
+11. Discussed about current project, role.
+This round was fair enough. I was not able to discuss questions on subjects which I studied in academics.
+Round 3 (F2F- Data Structures and Algorithms):
+1. Tell me about yourself.
+2. There is a 2d array. Write code to find the path with maximum sum. You can only traverse i+1 or j+1.if i is row number and j is column number.
+I solved it using dynamic programming
+3. In a binary tree find the least common ancestor for two nodes. (Write code)
+4. Similar to 3rd question. Write a program to find least common ancestor in binary search tree.
+This round was very good. Finished it only 40 mins.
+Round 4 (F2F- Managerial round):
+1. Tell me about yourself.
+2. Copy Linked list with orbit pointer.
+3. Write a code to find top hundred elements in a data set which cannot be loaded in RAM.
+4. Typical parenthesis checking problem.
+5. Most challenging work you ever faced.
+6. What will do if you get task which is ambiguous.
+7. At what extend you will be frustrated if you always get ambiguous problems.
+8. How many members in your team in current organization. What’s your role? Questions on current project.
+Interviewer was very cool and friendly.
+Round 5 (F2F- Bar raiser round):
+1. Tell me about yourself.
+2. Discussed about current project.
+3. Write a program to find number of inversions in an array.
+Example- Array 2, 5, 3, 1,10
+Inversions (2,1) , (5,1), (3,1), (5,3)
+Answer will be – 4
+Gave solution of complexity o(nlogn) . Interviewer gave me hint for that.
+Hint- Divide and conquer approach.
+He asked me to write code which doesn’t have any bug.
+This article is compiled by Neha Gupta. Many Many congratulations to Neha.
+
+
+
+Amazon SDE1 Off campus
+Written Round
+1. Given an array in which elements are first increasing and then decreasing. find the maximum element in the array.
+2. Given an array of unsorted elements, find the minimum difference between any 2 elements in the array.
+1st f2f
+Discussion about my projects (nearly 20 mins)
+1. Given an array of positive numbers, find the maximum sum of a subsequence with the constraint that no 2 numbers in the sequence should be adjacent in the array. (extended to negative numbers)
+2.Write a function to print the level order traversal of a binary tree in spiral form.
+2nd f2f
+Small discussion about my projects
+1.Write a function to find the next smallest palindrome number of the given number. for example: if given number is 12345, then the next smallest palindrome is 12421.
+2.Given 2 strings str1 and str2. What is the efficient way to navigate from str1 to str2? The constraints are i) a string can be changed to another string by changing only one character. ii) all the intermediate strings must be present in dictionary. If not possible, return “not possible to navigate from str1 to str2”. (pre-processing is allowed and enough memory is available). for example: str1 = feel and str2 = pelt, then the navigation is feel -> fell -> felt -> pelt (Hint: Graph)
+3rd f2f
+Discussion about my projects (nearly 20 mins)
+1. Given two numbers represented by two linked lists, write a function that returns sum list. The sum list is linked list representation of addition of two input numbers. It is not allowed to modify the lists. Also, not allowed to use explicit extra space.
+2. Given a matrix of characters and a string, find whether the string can be obtained from the matrix. From each character in the matrix, we can move up/down/right/left. for example, if the matrix[3][4] is
+and the string is follow, then the function should return true.
+4th f2f Hiring Manager
+Deep discussion about my current project (nearly 45 mins)
+(application architecture, challenges faced and a lot of technical discussion)
+1. Write a program to check whether the given binary tree is BST.
+5th f2f Bar Raiser
+Deep discussion about my current project (challenges faced, etc) nearly 20 mins
+Deep discussion on REST api authentications (Hash key vs Encryption & Decryption) nearly 20 mins
+1. Given an input string, write a function that returns the compressed string for the input string in INPLACE. (no extra memory) (length of compressed string < = length of input string) For example, if the input string is “aaabcdeeee”, then the function should return “a3b1c1d1e4?. GeeksforGeeks helped me a lot in improving my skills in DS and Algorithms.
+
+
+
+Hi, Recently i had interviews with Amazon.
+1st Round (Telephonic):
+1. Given an integer array and a constant number X, print all pair of number in the array whose product is equal to X.
+follow ups: how will you do in O(n)? how will you handle duplicate pairs?
+Code was required on collabedit.
+2. He asked do I know level order traversal of binary tree. He ask me to code then, he changed the question and asked about spiral order traversal of binary Tree and asked me to code it.
+2nd Round (Telephonic):
+1. In a BST two nodes were swapped. Given the pointer to root node find the two nodes and rectify the tree. He asked the approach then asked me to code the same in collabedit.
+2. Given an integer array, find and print three element in the array whose product is maximum. Code was required.
+3rd Round (face2face onsite)
+1. Given a sorted array of n integers, count and display number of triplets such that a[i] < a[j] < a[k] 0(n) time. Code was required.
+2. In a given string some of the characters are replaced by question mark, and you can replace question mark with any character. Given such a string find total number of palindrome that can created. String contains only [a-z] characters and question marks can also be only replaced by [a-z]. Example: Input String: String str=”a??a” Output: 26
+3. Given a binary tree all the leaf nodes in the form of a doubly linked list. Find the height of the tree. 
+4th Round (Hiring Manager Round):
+Detailed discussion about previous company work?
+Why I want to leave my previous employer?
+Why Amazon?
+What if I don’t like the work?
+What are challenges I have faced in my work, how I resolved it?
+Weakness and strength?
+What does router do, what is static routing? Given a routing table, how would you decrease the time taken by router to decide to which router packet must be forwarded?
+Details of algorithm that could be implemented and discussion time and space complexities.
+5Th Round (Face2Face Onsite):
+1. Given N sorted LinkList of different length, merge them into a single sorted link list. Pseudo code was required.
+2. Given a number d and size of array N. Print all combination of element in the array such that first element of array is d and next element in the array can be +1 or -1 the previous element in the array. Code was required.
+3. What is LRU and implementation of lru? Write pseudo code for the same.
+I would like to thanks GeeksforGeeks for providing us such a learning platform.
+
+
+
+
+Time and space complexity must for all questions
+Start from brute force and go to optimized solution.
+All edge cases are to be covered in code?
+Think out loud all the time (so that even when questions are easy they will catch your thinking with greater importance)
+
+
+
+I recently had interviews with Amazon.com, Bangalore.
+Here’s my interview experience
+Written round:
+1) Insert a number at its correct position in a sorted circular linked list.
+2) Convert a Binary Search Tree into a Binary tree where value of
+each node in the tree is equal to sum of all nodes greater than it.
+3) Clone a Binary Tree with random pointer.
+Face to Face Round 1 (Technical ~ 1 hour)
+1) Given an array indicating stock prices on each day for a n days. At any given day,you could:
+a) Buy only one stock.
+b) Sell any number of stock(s) from what you have bought.
+c) Do nothing.
+Find the maximum possible profit that you could achieve by doing transactions given the price array for n days.
+2) Given a m*n matrix with LEDs, having each cell representing the state of the LED as either ON(1)or OFF(0). Given a cell position, state of all the adjacent (in all 8 direction) cells sharing the same state as the given cell toggles and the effect cascades. Represent the final state of the matrix.
+3) Given a deck of n cards, in each iteration the top card is removed and pushed to the end and the second card is removed from the deck. For eg: In 1st iteration, 1st card will added to the end and 2nd card will be removed, again 3rd card will be added to the end and 4th card will be removed and so on. Find the last card which will be remained.
+Face to Face Round 2 (Technical ~ 1:30 hours)
+1) Given a boolean matrix with every row sorted, find the row with maximum number of 1s.
+2) Given a paragraph and two words A and B, find the minimum distance between a occurrence of A and B.
+3) Given two valid three letter dictionary words, find the minimum number of steps required to transform first word to second word. Following are the transformation rules –
+a) You can, in a single step, change a single letter in the word.
+b) Each transition should result in a valid word. Assume you have been provided a helper function boolean isValid (String word) which tells you if a word is valid or not.
+c) This must be done with minimum transitions.
+Example: Transform CAT to TOY. One of the several possible transformations is CAT -> CAR -> TAR -> TOR -> TOY
+4) Sort a linked list which is in alternating ascending and descending orders.
+For eg :
+5) Find the next greater element for each element of an unsorted array.
+Some Computer Science Fundamentals now :
+1) Explain what happens in the background when you enter “ls” command on unix shell.
+2) Difference between process and threads.
+3) What is semaphore and mutex. What is Readers-Writers problem? Explain solution with code.
+4) Difference between TCP and UDP.
+Few more questions which I don’t remember now.
+Face to Face Round 3 Fa(Hiring Manager ~ 1 hour)
+1) Tell me about yourself.
+2) Why do you want to change your current company? Why Amazon?
+3) Tell me about your current Projects. What is your role? Tell me architecture of this project.
+4) Scanned through my resume and asked about everything mentioned in it.
+5) Design question : Design an autocomplete library for a keyboard in a mobile device which does following tasks:
+a) Autosuggest words while typing from the inbuilt dictionary.
+b) Suggest words based on your previous inputs:
+For eg: If you frequently type “Thank you”, so if you type “Thank” then your library should suggest “you” as first result.
+I was asked to tell which data structure would I use and write classes and ethods for this library.
+Face to Face Round 4 (Bar raiser ~ 1:30 hours)
+This round was taken by two guys from different teams and both of them were bar raisers of their respective teams. I was asked to use the whiteboard in this round.
+1) Both of them gave a brief description about themselves.
+2) Tell me about yourself.
+3) Why do you want to change your current company? Why Amazon?
+4) Tell me about your current Projects. What is your role? Draw the architecture of this project.
+5) Then one of the interviewer gave a C code snippet and asked me what this piece of code does?
+What the problems that you see in this code?
+6) Connect all the siblings node in a binary tree.
+Follow up questions:
+a) Now connect all the non-siblings nodes as well (basically connect all nodes at the same
+level). ( cousins )
+b) Now write a recursive solution of the same.
+I took a long time in coming up with the recursive solution for this question, but eventually solved it.
+For each question I was asked write production level code.
+
+
+
+Interview 1: 
+Before the interview began we were asked to solve 6 questions
+In the first interview i was asked how i solved Q4) replace all spaces with ‘%20’ and Q6) nth node from the end of a linked list.
+and then we discussed in details about a project I did with my previous employer.
+and then He asked a few questions ->
+Q1) Dynamic Programming | Set 21 (Variations of LIS) – GeeksforGeeks -> 1. Building Bridges: Consider a 2-D map with a horizontal river passing through its center. There are n cities on the southern bank with x-coordinates a(1) … a(n) and n cities on the northern bank with x-coordinates b(1) … b(n). You want to connect as many north-south pairs of cities as possible with bridges such that no two bridges cross. When connecting cities, you can only connect city i on the northern bank to city i on the southern bank.
+Q2) Write a C program to print all permutations of a given string – GeeksforGeeks -> Print all permutations of a string
+Q3) Given the arrival and departure time of various trains in a station. Calculate the minimum number of platforms required such that no train has to wait for another train to vacate the platform.
+The question basically means calculate the maximum number of trains that would be present in the platform at any given time.
+Answer
+sort the arrival time and sort the departure time, keep a count initialized to 0. compare the first element of the arrival time with the first of departure, increase the value of count if the value at current Index at arrival is less than the value index at departure and increment the arrival index, and vice versa. Keep the maximum count that you see.
+
+Round 2
+Q1) given the x,y,z coordinates of a billion stars (basically the entire array can’t fit in the RAM) calculate the k closest.
+Answer -> use a max heap that contains the k minimum distances.
+Time-> n(log k)
+then the question was changed to -> now that we have several computers which can combine to fit the entire set of stars, how will you then solve it?
+Answer-> use selection algo (similar to step 1 of quick sort) to find the k closest stars in each of the computers. Time -> O(n) and then use the k in the those m computers to find the minimum k. One way is to sort all them individually. and then create a min heap to calculate k minimum.
+O(k^2 log k)
+Q2)  Symmetric Tree (Mirror Image of itself) – GeeksforGeeks -> How to check if the tree is the mirror of itself
+Then the question was extended to a n-ary tree.
+Answer -> Please read the above link before reading this answer– We create a the n ary tree like this->
+then we have the number of children of each node as nodeName->child.size();
+we use it to compare the first child of the node with the last child, 2nd with 2nd last and so on:
+
+Round 3
+Q1) Write a C code to evaluate an expression tree.
+Answer-> It has to be done in a post order traversal method, since the value of the left subtree is independent of the right subtree.
+Q2) Articulation Points (or Cut Vertices) in a Graph – GeeksforGeeks -> Check for Articulation points
+Q3) Given a stream of number, like 1,3,5,4,6,9 print 1,3-6,9
+Answer-> create a hash map that contains the value of the ending index of the previous sequence.
+key is the number and the value is the index where it occurs.
+when we get 4, we have to check for the index of 3 and 5. (One above and one below)
+the value at 3 is 1 and 4’s index is 3, so they can’t be paired.
+We then check for 5. 5’s index is 2 and 4’s is 3, since they are together, they can be paired.
+and then we check for 3 again, 3’s index is 1 and 4’s index is 2-3, so they can match
+We go on. I don’t think I answered the questions the way it was asked, but he seemed ok with the answer I gave.
+Next he modified more to include distributed systems in it. And asked me if there were several systems which received the input in round robin manner, how would I implement the above algorithms. I had no idea about this.
+After round 3, I was called by Amazon and told that my first two rounds were positive but round 3 wasn’t. Round 3 was the hiring manager round, and he wasn’t happy that I had little idea about RAID ( Standard RAID levels – Wikipedia, the free encyclopedia )
+So I had another hiring manager round.
+Round 4
+https://www.geeksforgeeks.org/find-a-pair-with-given-sum-in-bst/
+Find a pair with a given sum in a bst
+more questions on what happened in Round 3 and why I want to leave my current firm.
+Round 5 (Bar Raiser)
+Questions like
+1) tell me a time when you had a different opinion than the rest of the team.
+2) tell me a time when you were thinking that the problem is something else, but it turned out to be something else
+3) tell me a time when your opinion were discarded.
+4) tell me a time when you had to work on a very short notice.
+Coding questions-
+1) given that we can form packs of 6,9 and 20 pens. Given a number x, calculate if we can form combinations of packs to form those many pens. Eg 24 pens can be formed by having 2 packs of 9 pens and 1 of 6 and 23 pens can’t be formed.
+Answer
+Dynamic Programming with the recursive function
+DP[i]=DP[i-6]||DP[i-9]||DP[i-20];
+2) Design an escalator system. Which classes would you make, etc.
+After Round 5, they didn’t find me a cultural fit so they conducted a Round 6.
+Round 6
+Questions like- tell me something about yourself,
+a time when you helped someone
+A time when you shared a different opinion from your manager.
+
+
+
+3. Overlapping rectangles
+Face to Face Round 1 (Technical ~ 1 hour)
+1. Given a linked list, reverse alternate nodes>a-singly-linked-list/
+2. Valid Substring
+Face to Face Round 2 (Technical ~ 1 hour)
+1. Special Stack
+2. Bottom View of Binary Tree 
+3. Subset Sum Problem >partition-problem/
+
+Telephonic Round 3 (Hiring Manager ~ 45 minutes)
+1. Tell me about yourself.
+2. Why do you want to change your current company? Why Amazon?
+3. Find a pair with given target in BST
+
+Telephonic Round 4 (Bar raiser ~ 1.30 hour)
+1. He gave a brief description about him.
+2. Tell me about yourself.
+3. Why do you want to change your current company? Why Amazon?
+4. How Have You Gone Above and Beyond in Your Work?
+5.Tell me about your current Projects. What is your role?
+6. Some basic OS concepts
+
+
+
+I recently had interviews with Amazon. Here’s my interview experience
+Coding round on Hacker rank (1 hour):
+1. Find minimum number of coins that make a given value
+Given a value V, if we want to make change for V cents, and we have infinite supply of each of C = { C1, C2, .. , Cm} valued coins, what is the minimum number of coins to make the change?
+2. Suppose you have given two strings S1 and S2. Find out if S1 is substring of S2. If S1 is present in S2 return starting index of S1 in S2 and if not present return -1.
+3. Overlapping rectangles
+Face to Face Round 1 (Technical ~ 1 hour)
+
+1. LCA in a BST. 
+ 2. Swap two nodes in a singly linked list.
+ 3. Building bridges problem Dynamic Programming | Set 21 (Variations of LIS …       algorithm – Building bridges problem – how to apply longest …
+ 4. Implement a data structure with push() , pop() , find minimum element in O(1).      Design and Implement Special Stack Data Structure | Added …                      ( For each question they asked me to write the code and also tell all test cases.)
+Face to Face Round 2 (Technical ~ 45 mins)
+
+1. Find the number of islands.Find the number of islands – GeeksforGeeks
+ 2. Calculate how many paths exist from top left to bottom right corner of matrix with cost = k. Number of paths with exactly k coins – GeeksforGeeks               (For each question they asked me to write the code and also tell all test cases.)
+Face to Face Round 3 with Hiring Manager (Technical ~ 1hour)
+
+1. Tell me about yourself.
+ 2. Given 4 digits , find the sum of all the 4-digit numbers that can be formed using these 4 digits.SOLUTION: Find the sum of all four digit numbers that can …
+ 3. Merge two balanced BST’s.  (For each question , code and a dry run was expected)
+ 4. Tell me a situation when your manager disagreed with you.
+Telephonic Round 4  (Technical ~45 mins) ( held after some 3-4 days )
+This interview will is taken by some senior guy who doesn’t belong to the team you are hired for.
+ 1. He gave his brief introduction and then asked mine. 
+ 2. Why do you want to leave the current company
+ 3. Why Amazon?
+ 4. The most challenging project/thing ever done. Why it was challenging . How would u do the same project/thing again. i need to tell some improvements in previous approach/design/code.
+ 5. Tell me a situation when your manager disagreed with you / or had a different opinion
+ 6. Tell me a situation when there was a time constraint for project delivery and how you handled it.
+ 7. Find an element in a rotated sorted array. (The collabedit link was shared to me through the mail but it didn’t work during the interview . So the interviewer asked me to just explain the logic)
+Some suggestions:
+ 1. Practice Trees , Linked lists , DP , Arrays , Strings , Stacks , Queue , Hashing , Heaps , Backtracking and basic Graph questions from gfg. The questions are asked as it is.
+ 2. Don’t just look at the solutions , write the whole code on paper while practising.
+ 3. In the interview , start from the less optimized solutions and then move to more optimised solutions.
+ 4. Practice the latest 20-25 sets from the Amazon Interview sets in gfg
+ 5. Ask questions / take hints from the interviewers.They are co-operative.
+ 6. Prepare behavioural questions like why leaving , why amazon , situation against manager etc. Have answers to these questions ready .Practice speaking them to yourself before the interview, otherwise you might get nervous.
+A big thanks to gfg for making everything easy.
+All the best folks! Prepare well.
+
+
+
+Round 1:
+Q-1 Given an array os 0s and 1s, and another input m, I was supposed to tell the longest continuous streak of 1s after flipping m 0s to 1s. E.g., Array is {1,1,0,0,1,1,1,0,1,1} m = 1 (which means I can flip ‘m’ one 0 to 1)
+Answer: 6 (if we flip 0 at index 7, we get the longest continuous streak of 1s having length 6)
+Q-2 Given N ropes of lengths L1, L2, L3, L4, …, LN. I had to join every rope to get a final rope of length L1 + L2 + … + LN.
+However, I can join only two ropes at a time and the cost of joining the two ropes is L1 + L2. I was supposed to join ropes in such a way that the cost is minimum.
+Round 2:
+Q-3 Given a BST, I needed to serialize it and deserialize it. This essentially boiled down to generating the “traversal” string and getting the BST back from the traversal.
+Q-4 There are two linked lists. Both linked lists have a single-digit number in their nodes. I needed to
+treat this linked lists as a numbers and add them up and store the digits in a new linked list.
+E.g., head -> 5 -> 6 -> 7-> 9
+head -> 2-> 1 -> 1
+Resultant linked list: head-> 5 -> 8-> 9-> 0 (5679 + 211 = 5890)
+Round 3: Hiring Manager round
+Q-5 Project discussion in detail. Most challenging problem, how did you solve it, had any disagreement with manager, how did you fix it etc.
+Q-6 Given an array {2, 4, 6, 0, 1, 8, 1}, where each element represents the height of tower located at its index. I was supposed to tell how much maximum water can accumulate in this “valley” once it rains.
+Round 4:
+Q-7 Given the encoding rule:
+A -> 0
+B -> 1
+C -> 2
+…
+K -> 10
+…
+Z -> 25
+I was supposed to get the number of original strings possible given an encoded input.
+E.g., Given input 10, two possible original strings are possible BA and K, the answer is 2.
+Q-8 Given two trees, find out if the second tree is a “subtree” of the first one.
+Answer: No (Tree 2 is not a subtree of Tree A)
+Round 5: Engineering manager round
+Q-8 Engineering Manager round, all behavioral, why do you want to leave the company, one challenging problem, how did you overcome it, your biggest failure etc. etc.
+
+
+
+I recently had interviews with Amazon at Hyderabad for SDE 1. I had around 1 year and 9 months of experience.
+Telephonic Interview :
+It started with a brief introduction of mine and my work. Then he asked me a coding question
+1) Given a linked list eg : 1->2->3->4->5->6, make the following changes    1->6->2->5->3->4
+Easy but it was lengthy. Had to write production level code.
+After 2-3 hours, I got an invitation for in house interview at Amazon campus:
+Round 1 : Face 2 Face
+It started with a discussion about my previous work and projects. After the discussion he asked the following technical questions:
+1) Given a pre-order traversal, construct a binary search tree.
+Simple solution. Asked me to code it.
+2) Given an alien dictionary, find the order of the alphabets in the dictionary.
+Only the approach was required. I explained him the approach and he was satisfied.
+3) Connect n ropes with minimum cost
+I was asked to write production level code for the above problem.
+Round 2 : Face to Face
+Again the interview started with a discussion about my projects and then he asked a technical question.
+1) Given m sorted arrays with n elements, merge these arrays into one sorted array of size m*n
+I did hear about this question before but never really saw the optimized solution so I gave a O(m*m*n) solution. He asked me to optimize it, but I wasn’t able to do so, hence he asked me to code the O(m*m*n) solution. I took a lot of time to code it as I wanted to handle all the edge cases. Finally I coded it. He didn’t find any issues but he asked me to make it better. And then I suggested using heaps to get the minimum of all the m arrays.
+Lot of questions on why heap and why not BST. Asked me to prove it mathematically.
+But he was satisfied once I gave the solution using heaps.
+https://www.geeksforgeeks.org/merge-k-sorted-arrays/
+Round 3 Bar Raiser : Telephonic
+Discussion on my previous projects and asked some behavioral questions like why are you leaving your current company, conflicts with your manager etc
+Technical questions:
+1) Find the maximum element in an array which is first increasing and then decreasing
+2) Find the Pythagoras triplet in an array
+Gave an O(n3) solution then made it O(n2logn). He asked me to optimise it even further.
+Finally came up with O(n2) solution
+3) Given a very large binary number which cannot be stored in a variable, determine the remainder of the decimal equivalent of the binary number when divided by 3
+I had no clue about this question. He gave me a hint, with which I was able to solve it. But later, he asked me to find the remainder for any number k. Again he gave a hint and I was able to solve it.
+Basically when we append a digit to a binary number, the previous binary number gets doubled, hence the remainder also gets doubled. 
+By keeping track of the remainder of the previous binary number, the current remainder can be determined.
+Round 4 Hiring Manager: Face to Face
+Behavioral questions along with some questions about my previous projects.
+Then he gave me a technical question:
+1) Given a number say ‘1234’, return the number in words i.e One thousand two hundred and thirty four
+Was able to cover all the scenarios. He was satisfied with my approach
+Suggestions:
+Think loud and be confident. It’s okay if you don’t know the answer at first. They mostly see how you solve questions for which you don’t know the solution.
+Thanks geeksforgeeks. You guys are doing an awesome job.
+
+
+
+Round 1: It was a written round with three question.
+Q1) Find a peak element. 
+Q2) Top View of binary tree. 
+Q3) Maximum difference between node and its ancestor in Binary Tree. 
+Round 2 (F2F):
+Q1) Given an array of distinct integers, find if there are two pairs (a, b) and (c, d) such that a+b = c+d, and a, b, c and d are distinct elements. If there are multiple answers, then print any of them. Expected complexity :  O(n2
+Q2) Lowest Common Ancestor in a Binary Tree
+In both the questions, they needed a proper working code covering every edge cases.
+Round 3 (F2F):
+Q1) If I am designing a media player and I want to store songs and play them in random order
+a) What data structure will you use to store songs?
+b) How will you select the next song to play in a way which prevents the same song being played in consecutive turn.
+I spend some time and finally came up with the working solution.
+Q2) Clone a binary tree with random pointers. 
+(Hint: Use HashMap)
+ 
+Round 4 (Telephonic) :
+Q1) Tell me about yourself. Your current company, your role and responsibilities. Reason for leaving current company.
+Q2) Maximum triangle path Sum : Starting from the top of a pyramid of numbers like below, you can walk down going one step on the right or on the left, until you reach the bottom row:
+
+One of such walks is 55 -> 94 >- 30 -> 26. You can compute the total of the numbers you have seen in such walk, in this case it’s 205.
+Your problem is to find the maximum total among all possible paths from the top to the bottom row of the triangle. In the little example above it’s 321.
+Q3) Design your own Process Control Block(PCB).
+Q4) Give me an example of a project that didn’t work out well?
+Q5) What are some of the things that you and your supervisor have disagreed about?
+Round 5 (Telephonic) :
+Q1) Tell me about yourself. Your current company, your role and responsibilities.
+Q2) Asked about the challenges faced in your current company. Did you ever have a boss that you did not like or get along with?
+Q3) Check for balanced parentheses in an expression. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
+I was asked to write code as well on collabedit site.
+Q4) Move all zeroes to end of array. 
+ 
+
+
+
+Online Coding Round:
+1. Parenthesis Checker
+2. Maximum Rectangular Area in a Histogram 
+1st Round:
+1. Add two numbers represented by linked lists I gave recursion solution code. Then asked for optimized one.
+2nd Round:
+1. Detail overview of current project. roles and responsibilities.
+2. Implementation of Queue but with certain kind of constraints. Basically looking for knowledge of design patterns.
+3rd Round:
+1. Again went through resume and asked every point.
+2. Max sum path in two arrays 
+    List all possible test cases.
+3. Design a dashboard system. both HLD and LLD.
+4th Round:
+1.  Design a system to upload images and tag them, ability to search images with two or more tags particular tags.
+2. Most challenging work
+3. https://www.careercup.com/question?id=5638261762424832
+5th Round (Bar Raiser):
+1. Most challenging work
+2. Why Amazon?
+3. Why leaving current company?
+4. Evaluation of Postfix Expression 
+5. Design a online shipment tracking system.
+Note: In all they asked for production ready code. Please take care of all edge case.
+
+
+
+I had around 1 year and 9 months of experience.
+Telephonic Interview : 
+It started with a brief introduction of mine and my work. Then he asked me a coding question
+1) Given a linked list eg : 1->2->3->4->5->6, make the following changes    1->6->2->5->3->4
+Easy but it was lengthy. Had to write production level code.
+After 2-3 hours, I got an invitation for in house interview at Amazon campus:
+Round 1 : Face 2 Face 
+It started with a discussion about my previous work and projects. After the discussion he asked the following technical questions:
+1) Given a pre-order traversal, construct a binary search tree.
+Simple solution. Asked me to code it.
+2) Given an alien dictionary, find the order of the alphabets in the dictionary.
+Only the approach was required. I explained him the approach and he was satisfied. Here is the link to the code anyway:
+https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/
+3) Connect n ropes with minimum cost
+I was asked to write production level code for the above problem.
+Round 2 : Face to Face
+Again the interview started with a discussion about my projects and then he asked a technical question.
+1) Given m sorted arrays with n elements, merge these arrays into one sorted array of size m*n
+I did hear about this question before but never really saw the optimized solution so I gave a O(m*m*n) solution. He asked me to optimize it, but I wasn’t able to do so, hence he asked me to code the O(m*m*n) solution. I took a lot of time to code it as I wanted to handle all the edge cases. Finally I coded it. He didn’t find any issues but he asked me to make it better. And then I suggested using heaps to get the minimum of all the m arrays.
+Lot of questions on why heap and why not BST. Asked me to prove it mathematically.
+But he was satisfied once I gave the solution using heaps.
+Round 3 Bar Raiser : Telephonic
+Discussion on my previous projects and asked some behavioral questions like why are you leaving your current company, conflicts with your manager etc
+Technical questions:
+1) Find the maximum element in an array which is first increasing and then decreasing 
+2) Find the Pythagoras triplet in an array
+Gave an O(n3) solution then made it O(n2logn). He asked me to optimize it even further.
+Finally came up with O(n2) solution.
+3) Given a very large binary number which cannot be stored in a variable, determine the remainder of the decimal equivalent of the binary number when divided by 3
+I had no clue about this question. He gave me a hint, with which I was able to solve it. But later, he asked me to find the remainder for any number k. Again he gave a hint and I was able to solve it.
+Basically when we append a digit to a binary number, the previous binary number gets doubled, hence the remainder also gets doubled. 
+By keeping track of the remainder of the previous binary number, the current remainder can be determined.
+Round 4 Hiring Manager: Face to Face
+Behavioral questions along with some questions about my previous projects.
+Then he gave me a technical question:
+1) Given a number say ‘1234’, return the number in words i.e One thousand two hundred and thirty four
+Was able to cover all the scenarios. He was satisfied with my approach
+Suggestions:
+Think loud and be confident. It’s okay if you don’t know the answer at first. They mostly see how you solve questions for which you don’t know the solution.
+Thanks geeksforgeeks. You guys are doing an awesome job.
+
+
+
+1.       Given infinite sequence of number, how you will store it in a system. Find whether the given  sequence is palindrome or not. 
+Ans: He suggested to store all the number in a linked list and then find Palindrome or not
+2.       A) Find the path with given sum in a Binary tree from the root
+B) Find the path with given sum in a Binary tree from any node in the tree.
+3.       Print all possible balanced parenthesis.
+4.       Implementation of publisher and subscriber design pattern.
+5.       Find the given sum in unsorted array.
+
+
+
+I am 1.5 year experienced guy, currently working in one good Product Based company in Whitefield,Bangalore. I have spent 1.2 years in my present company and previously, I spent 6 months in TCS Pune.
+Recently, I got a chance to be interviewed by Amazon at Bangalore, through a referral (made friend from Facebook :p). I was preparing for Amazon from last 6-8 months from GeeksforGeeks.org. I must say, GeeksforGeeks is making life of people. I got an offer from Amazon by preparing from GeeksForGeeks.
+Questions :
+As I reached to 25th Floor of WTC, Brigade Gateway, we 25 people were asked to write code for these 3 questions on paper (OnSite Written Round) :
+1. Two numbers are represented by 2 linkedlists. Find the resultant linkedlist represented as sum of these given linkedlists.
+2. Given a number say 12345, find the immediate next number using the same digits, in this case 12354.
+3. 3 points of a triangle are given. Find if given forth point lies inside or outside of the triangle.
+F2F Round 1 :
+1. Given a Hotel and checkin/Checkout time of visitors, find the maximum numbers of rooms required. (different version of Trains/Platform question)
+2. Given sequentially placed boxes, each representing a number( which may be positive or negative), we need to select the numbers in order to have the maximum sum, having the constraint that if we seelct a given box, we cannot select adjacent box to it, but can select any other.
+Solution : let the boxes positions be the indexes of array and their values as array values. then if we select value at index 0, we cannot select value at index 1, but can select from index 2,3,, and so on.so we can apply Dynamic programming here.
+F2F round 2 (Hiring Manager Round):
+HR called me and gave me some tips before this Interview(I must say Amazon Interview people are really cool and make the candidate feel comfortable). He told me listen the question carefully and answer perfectly as this interview matter a lot.
+1. Asked about my experience and work in current company. (Discussion lasted for about 1 hour) as I explained in deep and he asked cross questions.
+2. Given 2 numbers, add them without using any arithmetic operator.
+Hint : Use Binary Operators (specifically ‘<<‘, ‘&’, ‘^’)
+Gave answers to this question and he was really impressed.
+(he was also very cool in nature)
+ 
+F2F Round 3 : 
+1. Discussion on my projects and work in current company.
+2. Given a general stack, design an advanced DS, such that getMin(),getMax() happens in o(1). Many cross questions on this. about optimizations and all.
+Then HR told me that all my interviews went well and they will call me for last round of Interview. 🙂
+
+Last F2F round (Bar Raiser):
+1. Given a file having many lines of text(words) and given a dictionary having an API function boolean isValid(String word), which will return true is a word passed to this function is valid word in dic.,and will return false if given passed argument is not a valid word in dic.
+Now read the file and check if each word as well as all possible words from its L to R and R to L combinations, are valid words in dic. or not.
+e.g. say first line in file is “My name is Gourav”, then in the word NAME, the possible valid words are NAME, AM(L to R), ME(L to R), MAN(R to L), AN(R to L).
+I implemented this simple questions in java code and used Hashmap to avoid processing of already processed words.
+2. Why Amazon ?
+3. Extraordinary work done in company which was out of scope of your designation.
+
+
+
+I had around 1 year and 9 months of experience. And applied for SDE1
+First Round (F2F):
+1. What are data structures in which you are most uncomfortable.
+2. What is your favorite sorting algorithm. Give a dry run.
+3. Heap sort, dry run, Complexity of building heap, prove it.
+4. Lowest Common Ancestor in a Binary Tree , extended for n-array tree.
+5. Sort an array of 0s, 1s and 2s ( in single scan)
+Second Round (F2F):
+1. Tell me about yourself.
+2. What is the most challenging project you have done, your contribution.
+3. Convert a given tree to its Sum Tree
+4. Longest K unique characters substring 
+Third Round (F2F):
+1. Tell me about yourself.
+2. Most challenging project, why it was challenging, your role in it.
+3. Implement a LRU cache, extended for LRU with ttl at each block.
+4. k largest(or smallest) elements in an array 
+5. Full working code of Dijastra Algorithm and a dry run.
+Fourth Round: Hiring Manager (Telephonic)
+1 Tell me about yourself, company role and responsibility and many behavioral questions.
+2. Detailed discussion about previous projects.
+3. If you have indefinite budget and indefinite time, what type of project would do ?
+4. Design a notification system.
+Fifth Round: Bar Raiser 
+1. Tell me about yourself.
+2. Find smallest positive missing number from an array of positive numbers.
+3. Disagreement with your immediate supervisor, how your relation got affected after that        disagreement.
+4. Your one area which needs to be improved.
+5. Your strongest strength.
+6. A work in your project which made you proud.
+
+
+
+Recently, I got a chance to be interviewed by Amazon at Bangalore campus, through referral. I had 8 months of experience in a product based company and 5 months of Internship. 
+1st Round Telephonic : There were two guys, started with a formal introduction. Question 1 : Given an array and a number say “Num1”. Find two numbers whose sum is equal to given number “Num1”. 
+I told him first Brute Force solution then he asked the time complexity which i told him O(n^2). Then he asked me to optimize the solution and I gave a O(nlogn) solution using sorting. And at last I told him O(n) solution using Hashing. 
+Question 2 : Given an array of stock prices . Determine the maximum profit one can get by buying and selling the stock(Similar to stack span problem). I told him brute force solution of O(n^2) then he asked me if you could give an optimized solution. I told him O(n) solution using stack but code got stuck on some of the test cases and he asked me to modify the code but i couldn’t as they were running out of time. They provided me a link to Colabedit(kind of google shared document) where i had to code.Production ready code was required. After 2 days I got call from Amazon saying that feedback was positive and they asked me to come for face to face interview at Amazon’s office. 
+F2F Round 1 : Started with a brief introduction. Q1: Given a M*N matrix. you have to start from Index(0,0) and reach to Index(M-1,N-1) with maximum sum , given the constraint that you can only move right or down i.e if you are at index (i,j), you can only move to index(i,j+1) or to index(i+1,j) I gave recursive solution for this and there were a lot of discussion on various test cases. He asked me to optimize the code. I gave him Dynamic programming approach . He asked that have you done it before and i said no then he asked me to code it. I had no idea of the code as i haven’t done it before. i struggled to write the correct code 2-3 times and at last i wrote the correct code. Then he said to me i am done with the interview, Do you have any question for me and i asked two question. 
+Production ready code was required. 
+F2F Round2 : Again Started with a brief introduction and some project discussion. Q1: A question similar to LCA(Least Common Ancestor) of Tree and I gave the answer immediately as I have understood the question and didn’t ask any further clarification. Q2: Given some resources in the form of the linked list you have to cancel out all the resources whose sum up to 0(Zero) and return the remaining list. I gave the solution immediately but couldn’t handle some of the corner test cases then he asked me to modify the code accordingly. Then he asked me to write all the test cases for it and i did. For eg; given the resources like this : case 1 : 6 -6 8 4 -12 9 8 -8 It should return 9 as all others get canceled. In the above example lists which gets canceled : 6 -6 8 4 -12 8 -8 o/p : 9 case 2 : 4 6 8 -9 10 -9 o/p : 4 6 case 3 : 4 6 -10 8 9 10 -19 10 -18 20 25 O/P : 20 25 
+F2F Round3 : Started with a formal introduction and BTW he was the same guy who took my telephonic interview. Q1) He asked me subset sum problem i.e; Given an array find the maximum sum contiguous subarray. I gave O(n) a solution for finding the maximum sum immediately after he asked the question as I knew the solution. Then he asked me to trace the code for some test cases and it passed. Then he asked me to find the starting and end index of the subarray and I modified the code and initially got wrong but after some modification, I got the code right. 
+Q2) Sum of numbers represented by two linked list. And I gave the answer immediately after he finished the question. But I gave the soln for adding two linked list numbers starting from the beginning but he told me to add the numbers as we do in normal addition. And I gave that solution by reversing the linked list and then adding the numbers and finally reversed the resultant list. After 2-3 days I got a call from Amazon that I have cleared the rounds and they asked me to come for Hiring Manager Round. One of the interviewers gave me feedback that he mugged the answer as I gave the answer immediately after the interviewer asked the question as I came to know later which was a major setback for me. So one of the advice would be to all of you that Even though you know the answer pretends that you don’t know. Ask some clarification question, As they also observe your problem-solving skills with coding. 
+Hiring Manager Round F2F : Started with some basic questions and then asked why do you want to leave your current company and then he asked code Of the Fibonacci series. I explained the Fibonacci series and then he asked me to code it. I wrote the code and traced some inputs. Then he had a meeting as I reached late there so he asked me to improve the code as he said there is some bug in the code and I did. After that, he asked me to write recursive code for it. Then he asked the time complexity of the code and I said Exponential. Then he asked me to prove it. I said sir I could do it using Master Theorem or using Mathematical Induction. But right now I remember none of them. Then he told me that you can do it without Master Theorem or MI. Then in my mind, it struck me as the Recursion Tree Method but at that time I didn’t have any idea of the recursion tree method as well. So I couldn’t tell him. This round wasn’t positive as I knew right after my interview. I got eliminated after this round. 
+ 
+ 
+All Practice Problems for Amazon ! 
+ 
+ 
+
+
+ 
+
+
+
+Online Round: 2 Programming questions for 2 Hours
+Input: amazon, rat,pat
+Output: 262966 amazon
+            728 pat
+            728 rat
+1st Round(F2F) 1hr:
+Ask everything about project working at current company. 
+2nd Round(F2F) 1hr:
+Asked everything about project and lots of cross questions on the same. Interviewer gave me lots of scenarios related to my project and ask to solve then.
+
+3rd Round(F2F) 1hr:
+4th Round(F2F) 2hr:
+All the interviewers were very helpful. In all rounds for every question they were looking for what kind of approach you are going to use and proper reasoning for the same. Not just coding , neat and efficient coding was required because for each question at the end you have to code and they expect you not to miss edge cases. 
+
+
+
+Hi, Recently I got a chance to attend the off campus interview with Amazon (SDE-1).Every code they asked to write on paper and full production level code was expected.
+Here is my experience:
+Round 1:
+Three questions. Were asked to write the code on paper:
+1. Next Greater Element in array
+2. convert sorted array to binary search tree
+3. Find the row with maximum no of 1s in 2-D sorted array
+Round 2:
+1. Next Greater element in BST
+2. Given a linked list. Each node contains a string. Find whether the string (after concatenating entire nodes string) is palindrome or not. Expectation : Time Complexity O(n) and Space Complexity O(1)
+3. One more question. Don’t remember
+Round 3:
+1. Given a pole of different heights and width. Water is continuously flowing from top. Calculate the total amount of water stored.
+2. Code for Josephus circle
+Round 4:
+1. Discussion of current role & projects
+2. Given a linked list 1->2->3->4->5->6. Make the following change:
+1->6->2->5->3->4
+3. OS concepts : mutex, deadlock, semaphore, Multithreading
+4. Implement Producer Consumer Problem. Extended the problem by adding mutliple producer and mutliple consumer. (Focus mainly on thread deadlocks, resource handling, efficiency)
+Round 5:
+1. Discussion on current role & project
+2. Discussion on IPC.
+3. Stream of integers is coming. How will you find the median? Discussion on complexity and choice of data structure.
+4. Variation on mirror of tree. Dont remember the exact question
+5. Reverse a list
+Round 6:
+1. Discussion on current role & project
+2. Finding subset of array with maximum sum
+3. Contact suggestion comes in phone on typing few letters. How will you implement it? Code to insert, search and delete contact.
+After 1 week, I got a call with offer. Thanks to GeeksforGeeks for helping me a lot for my preparations 🙂
+ 
+
+
+Telephonic 
+Production level code in any language was expected with unit test. Collabedit link was shared before interview  
+Face to Face Round 1  
+He explained the code-reviews, deployment, testing etc practices followed at Amazon. He gave a brief background/goals of the team for which i applied. 
+Round 2  
+Round 3  
+Round 4  
+ 
+ 
+
+
+I was interviewed in Delhi for SDE-I position in Kindle Frameworks Team at Amazon. I was working as a Project Lead in Samsung, Noida and had a total experience of 1 year 10 months in the Software Industry.
+Round 1 : Written
+Round 2 : Problem Solving (F2F)
+Round 3 : Design and Data Structures (F2F)
+The interviewer was highly impressed with my coding skills and shook hands with a sense of approval.
+Round 4 : Hiring Manager (F2F)
+The Hiring Manager introduced himself and told me that I’ve been doing really great till now. Then he grinned at me and said “ Lets hope you don’t mess it up in this round “ .
+(1) Which Sorting Algorithm is the fastest and why would you prefer it over others ?
+While telling the answer, I said in between “ If there would have been millions of numbers…… “ and he caught that specific word of mine “millions” and hence the next 2 questions found the way on their own.
+Then he stood up and shook my hands with a broad smile and said “ Well Done Man ! ” and left.
+Round 5 : Bar Raiser (F2F)
+All credit goes to  https://www.geeksforgeeks.org/ team for providing such an inspirational and a brilliant platform for coders. Keep it up guys, Way to go !
+Suggestion for other candidates interviewing at Amazon :
+ 
+ 
+
+
+
+Round 1
+Round 2
+Round 3
+
+Round 4
+
+
+
+Amazon Off Campus Interview Experience(SDE-1, Experienced)
+Round 1:
+1) Tell me about yourself.
+2) Trapping Rain Water : Giv­en n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+https://www.geeksforgeeks.org/trapping-rain-water/
+3)  Print left view of a binary tree.
+https://www.geeksforgeeks.org/print-left-view-binary-tree/
+	Discussion : I gave two approaches one with DFS and other with level order traversal.
+He asked to compare two approaches and implement the efficient one. 	DFS is the efficient one because in level order, you need to store all the nodes at each level, some of them may not be a part of the left view of BT.
+Round 2:
+1) Tell me about yourself.
+2)  Find sum of n elements after kth smallest element in BST. Tree is very large, you are             not allowed to traverse the tree.
+	 Discussion : Since the array traversal is not allowed so we need to do some            preprocessing over the tree, something like storing sum of all its predecessor nodes.	 For finding kth smallest element, use order statistics approach:
+ https://www.geeksforgeeks.org/find-k-th-smallest-element-in-bst-order-statistics-in-bst/
+3)  Given a sorted array which has been rotated n number of times. Find the value of n.
+	 It is similar to below post where you need to find only the pivot element. If you have the  Index of pivot element, you can get the number of times the array is rotated.
+	 https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+Round 3:
+1) Count ways to reach nth stair.
+https://www.geeksforgeeks.org/count-ways-reach-nth-stair/
+	It is similar to fibonacci series. Interviewer asked various ways to implement the same –            Recursion, 1-D array, with 3 variables and complexity of each.
+2)   Design recommendation engine.
+	It’s like auto suggestion. I gave the trie approach. The interviewer seemed fine with         this approach and asked me to write full code with time and space complexities.	Implementation of Tries:
+https://www.geeksforgeeks.org/trie-insert-and-search/
+Round 4 (Managerial Round – Over video call)
+Tell me about yourself.
+Current work
+Which project you liked working the most.
+Any case where you had conflict with your manager.
+Any idea/technology suggested by you to your team which then got implemented and worked out.
+Any case when you had to work out of your comfort zone.
+The most critical feedback received from your manager/team members.
+What do you do to enhance your technical knowledge apart from your project work.
+    And many more.
+
+Round 5(Final Round – Telephonic)
+Initially I was asked questions about the work I had done, the projects I did and some managerial questions.
+Then I was given a coding problem to solve. They use Collabedit tool in phone screen interviews where the same screen is shared by both interviewer and interviewee.
+	Ques : Print all the non-repeating words out of two given sentences.
+	Eg. Statement 1:   I have a blue pen.
+	      Statement 2:   I got a red pen.
+	      Output : have blue got red
+	Discussion : I suggested the hashing approach. The interviewer asked to implement the same.
+
+Points to take care:
+You must know how to calculate time and space complexities.
+In each round they ask you about the project you recently did/ the project you liked working most/ most challenging work etc –  so you should be prepared well for at least one project with in-depth details.
+Start with the naive approach for each question asked and then proceed with solutions with better space and time complexities.
+No need to waste time reading about Operating Systems, Networking, DBMS etc. They only care about the projects you did and your coding skills whether you cover all the edge cases while writing code, know time and space complexities, have better approaches for solving same problem and so on.
+
+
+
+Round 1:
+Discussion : I gave two approaches one with DFS and other with level order traversal.
+He asked to compare two approaches and implement the efficient one. DFS is the efficient one because in level order, you need to store all the nodes at each level, some of them may not be a part of the left view of BT.
+Round 2:
+Round 3:
+It is similar to fibonacci series. Interviewer asked various ways to implement the same -Recursion, 1-D array, with 3 variables and complexity of each.
+Round 4(Managerial Round – Over video call)
+Round 5(Final Round – Telephonic)
+Points to take care:
+
+
+
+I got a call from an consultant for recruitment drive in Delhi.
+First round (1 hour 30 minutes): online writtenIt was online written round on a platform called Stockroom.io.
+Expected time complexity is O(n). The only thing to pay attention was that ASCII characters starts from A.
+
+Second round(1 hour): Design round  This was most critical and important round.
+First HLD was required, use cases, flow diagram. then a low level design was required all necessary classes where will u use polymorphism, where inheritance, multithreading, synchronised approach if needed, socket connections. Other things that surfaced and he asked as interview goes : round robin load balancer, hash-map based load balancer, two layer caching, nosql db, design patterns, solid principles, ACID property, CAP theorem etc. Interviewer was a senior person and knew a lot. I was nervous in this round but answered well.
+Third round (1 hour): technical
+Fourth round (1 hour): technical He asked me what you like , I said array questions 🙂 He started laughing.
+      he asked me to write code for the same. made some variations like lazy propagation.
+Hr came and told me that we are done for the day one more interview is there which was on next day.
+Hr was very supportive she gave me some constructive feedback and told me to get prepared well and come next day as next day was
+with a Bar Raiser.
+Fifth round (1 hour): technical+ design + behavioural, Bar Raiser
+Few things to remember:
+
+
+
+1st
+2nd
+3rd
+No actual coding
+4th
+Bar raiser:
+Hiring manager 1
+Hiring manager 2 
+
+
+
+Requirement was that the candidates should have strong troubleshooting skills, strong knowledge of scripting in any language + Strong coding skills and problem solving skills.
+Round 1: Written test (Elimination Round)
+There were total 6 questions. 2 coding and 4 scripting questions.
+[5 marks]
+1234567890
+0987654321
+ABCDEFGH
+123456789X
+1234567890
+123456789X
+Write a script command to print the distinct records containing only alphanumeric characters.
+Expected Output : 123456789X
+[2 Marks]
+
+Round 2 : Technical/Problem Solving F2F Interview
+Then the interviewer asked me whether my code for the run length encoding asked in the written round will run for all the inputs. I was pretty sure that it would run. He gave me a case where my code was failing. He told me to modify my code. Also, I had used Hashing technique for this problem so he asked few questions on HashMap how it works.
+
+Round 2: Debugging and Troubleshooting/Scripting
+She modified the question and asked me if 3-4 customers complains the same that they are not able to login to their Amazon account, how will you troubleshoot the issue.
+Debugging – How will you debug the issue whatever you have troubleshooted.
+
+Round 4: Troubleshooting/Debugging/Problem Solving/ Managerial
+At last, HR called me and told that I am rejected. 🙁
+
+
+
+I applied off campus for Amazon Bangalore SDE-1. It started with two face to face rounds.
+Face-2-Face (Round 1) :
+Face-2-Face (Round 2):
+He started introducing himself and then asked me some behavioural questions.
+And then he asked me one dynamic programming question.
+A matrix is given and each cell has some value. You can enter from any cell of first row and make three different moves down, south-east and south-west i.e. from (i,j) to (i+1,j+1), (i+1,j-1),(i+1,j). You need to calculate maximum value when you reach last row.
+I gave recursive solution of complexity O(3^n) and then finally gave him dynamic programming solution in O(n^2). He was not done yet then he asked me to print the path as well. I did.
+Both interviews were good so I was waiting for results. After 2 days I got the call you have cleared both the rounds and they want to conduct two more rounds. Next step was two more face-2-face rounds.
+ Face-2-Face (Round 3):
+It was a bar raiser round very crucial for the whole process. Interviewer introduced himself and asked me behavioural questions like:
+I was currently working on Blockchain so he asked me about this technology cause its totally new and amazing tech so he was pretty impressed. He asked if I have any question for him. I asked several question related to his work and Amazon visions.
+
+Face-2-Face (Round 4): Hiring manager round
+This round was behavioural round and cultural fit. He asked so many questions related to projects and current work.
+Then he asked me explain current company project and project architecture, my role in team etc. Guys prepare well for behavioural questions, they look for culture fit.
+Coding question:
+Print the vertical sum of a binary tree.
+Result : I got the call after 3 days and hr said congratulations, you are placed and It was like dream came true.
+Thanks to my parents, Upendra Bhaiya and Prajakta for all the support. I want to thank geeksforgeeks team, it’s an ideal platform for preparing coding interviews.
+
+
+
+A big big thanks to geeks for geeks for constructing this platform where candidates find suitable question sets. 
+1. 1st Round (Coding round on hacker rank) :
+    Two questions. Each of 100 marks. Total time given was 2 hours.
+    Question 1: Unit Area of largest region of 1’s 
+    Question 2: Largest Sum Contiguous Subarray
+2. 2nd Round (Tech) : 
+    Two questions. Here the basic knowledge of data structures and algorithm is tested to determine whether candidate is eligible for onsite interview rounds or not.
+    Question 1: Find zeroes to be flipped so that number of consecutive 1’s is maximized
+    Question 2: A program to check if a binary tree is BST or not
+3. 3rd Round (Tech):
+    Two questions. Knowledge of algorithms and data structure was tested. Along with it, production level code had to be written on paper and it was to be made sure that no edge cases remain uncovered.
+    Question 1: Print nodes at k distance from root
+    Question 2: Print all nodes at distance k from a given node
+4. 4th Round (Tech):
+    Same checks as present in 3rd round. Since i did not perform well in the 2nd question of 3rd round, more stress on my coding part was given in this round. They were thoroughly checking my code and pointing all the edge cases if any.
+    Question 1: Clone a linked list with next and random pointer 
+    Question 2: http://stackoverflow.com/questions/6179635/what-is-a-good-data-structure-for-storing-and-searching-2d-spatial-coordinates-i
+5. 5th Round (Hiring Manager – Tech & Non Tech):
+    Checks were same as above rounds. Along with those, whether the candidate was a good fit at amazon was checked. 
+    Question 1: Given a stream of integers, at any point of time, fetch the count of integers which are smaller than a given number.  
+    Question 2: HR Questions
+     – give an instance where your manager and you disagreed.
+     – give an instance where you outperformed yourself.
+     – expiain your project and your role in it.
+     – explain the most difficult project you’ve faced.
+6. 6th Round (Bar raiser Tech and Non Tech) : 
+     This guy will thoroughly check everything starting from code, algorithm, data structure, behavior etc. It is necessary of every candidate to crack this round. 
+    Question 1:
+    Given the below pattern, write a recursive code for all values of n. 
+    Question 2:
+    Explain internals of hash map’s put method and write code for it.
+    Question 3: HR Questions
+     – give an instance where your manager and you disagreed.
+     – give an instance where you outperformed yourself.
+     – expiain your project and your role in it.
+     – explain the most difficult project you’ve faced.
+Practices : 
+1. Practice code with pen and paper.
+2. Cover all edge cases.
+3. Take time to code but make sure once done, the code is impeccable.
+4. Do practice HR questions seriously.
+5. Try to cover as many geeks for geeks amazon interview sets as possible. As you can see my interview questions were mostly covered by articles already present. 
+
+
+
+Round 1:
+Round 2:
+Round 3:
+Round 4:
+Round 5:
+
+
+
+Round -1 (Written Round) Pen and Paper
+
+Round -2 F2F
+
+Round-3 F2F
+Round-4 F2F Design round
+write a program
+Round-5 Design and Coding 
+
+
+
+Recently I have gone through interview with Amazon Chennai for Amazon FIRE TV team. Here is my positive experience.
+Round 1(written):
+1. Run Length Encoding 
+2. Find k-th smallest element in BST (Order Statistics in BST)
+3. Substrings with similar first and last characters 
+Round 2:
+1. Level order traversal in spiral form 
+2. It’s a two player game. Both the players are equally intelligent to win the game. Give n no. of stones. A player can choose either 1 stone or k stones or l stone (1<k<l). Suppose player 'A' starts game then challenge was to identify the player who will win the game. Player who picks the last 1 stone or last k stone or last l stones win the game.
+Round 3:
+1. Inversion of array 
+2. Print matrix in diagonal pattern 
+3. Minimum Cost Path 
+Round 4 (Bar Raiser)
+1. Detailed discussion on current company project.
+2. Maximum Path Sum in a Binary Tree
+Round 5 (Hiring Manager)
+1. Design ATM machine.
+2. Design a queue using only one stack.
+3. Discussion on process & threads, Inter process communication, Lots of discussion on scheduling algorithm, their implementations, data structures used to implement scheduling algorithms, scheduling algorithms in real time distributed systems & implementation.
+4. Lots of behavioral questions like why amazon, why you are leaving current company.
+Finally got positive response from amazon with decent package.
+Thanks GFG for this wonderful site.
+
+
+
+Below is the summary of interview round conducted by amazon. Although i am not able to remember correctly since its almost 2 months.
+Written Test 
+F2F (Technical)
+F2F (Hiring manager)
+F2F (Technical)
+Telephonic (SDM)
+Telephonic (Bar raiser)
+
+
+
+Telephonic Round: 
+FACE TO FACE
+Round 1:
+Round 2:
+Round 3 (Hiring Manager):
+Round 4 (Hiring Manager):
+Bar Raiser Round:
+
+
+
+I went through some interview rounds for SDE-2 in amazon. Below is the format.
+Round1:
+Round2:
+Round3:
+Round4:
+
+
+
+I went for face to face interview and faced following questions.
+
+
+
+I recently got an interview call from Amazon (Chennai) for the Kindle team. Here is my experience:-
+Round 1 – It was written round (Pen & Paper) consisting of three questions –
+1. Run length encoding of a string.  Ex – Input – aaaabbcd  , Output – a4b2c1d1
+2. Given a linked list consisting of characters. Determine if it is a palindrome or not?  O (1) space complexity.
+3. Connect nodes at same level.  Check if Linked List is Palindrome
+Out of 30 people, they shortlisted 6 of them for further rounds. I was one of them.
+Round 2 (F2F) – It was purely based on programming standards:
+1. Given a binary tree with two nodes, find the lowest common ancestor of them.
+2. Adding to first ques, he further asked; find the minimum distance between any two nodes.
+3. There is a conference room. N people are joining the conference. You have the start time and end time of each of them visiting it. You are asked to determine the maximum number of people that can be inside the room. 
+Answer will be – 3
+It went well. I was able to answer all of them. They asked me write production level code for each of them. Take care of all the end cases. Three out of six were able to make it.
+Round 3 (F2F) – This round was grilling and was again on programming standards:
+1. Print the top view of binary tree.
+2. Find the maximum sum of any rectangle in a square matrix of n x n.
+https://www.geeksforgeeks.org/dynamic-programming-set-27-max-sum-rectangle-in-a-2d-matrix/.
+They provide you necessary hints whenever needed or if they feel you are not able to find a solution or thinking in a very wrong direction.
+After this, they call me to Chennai for further two rounds of process.
+
+Round 4 (Hiring Manager) – In this round, they focused on my experience and previous company’s work.
+       All behavioral type of questions like:
+1. How do you measure your success in the whole year?
+2. Mention some of the negative and positive feedbacks from you manager.
+3. Why you want to leave the firm so early? Why Amazon.
+4. Questions on my projects and achievements in current company.
+Hints: Just do not blame you current company as answer to any question. A clever way to deal this round is make them realize you are quite good for amazon.
+P.S. Some research on Amazon before the interview would be great. 
+Round 5 (Bar Raiser) – This was my final round. It was mixture of behavioral and coding.
+Behavioral question were almost same what I mentioned above.
+Discussions on my Final year project and what new I can add to it if I am given a chance to improvise it.
+Some coding questions:
+1. Given two strings, find the uncommon characters in them using single hash map.
+2. Given data of millions of people, (name, age, M/F etc.) Develop an API that will have age range as input and yield the count of people under this range as output.
+Thanks Geeksforgeeks for all the references. You people are doing great!
+Key points:
+1. Just write clean and crisp code, whenever asked to code considering the end cases.
+2. Maintain continuous discussions with interviewer. He/She will help you whenever needed.
+
+
+
+I went through some interview rounds for SDE-2 in amazon. Below is the format.
+Round1: It was a test on HackerEarth with two programming questions
+Round 2:
+Write production ready code. Consider scenario for duplicates too.
+
+Round 3:
+
+
+
+Attended two interview rounds for SDE II position. Rejected after second round.
+Round 1 : Q1 – Design spelling checker web service.
+Round 2 : Q1 – Design cricket scoreboard.
+
+
+Some time back I went through an interview for Amazon.com for SDE-1 role, and here is my experience to help other aspirants :
+Written – Pen & Paper Rounds
+Had to write production level code in any programming language of my choice, covering all the edge cases, and clearly mentioning the complexity of my code.
+Solution: GeeksforGeeks Link
+Solved it using Binary search tree
+
+Face to Face Rounds?
+Interviewers were very very helpful, and were focused on approach, they will ask basic brute force solution first, then an optimum solution, after that they may increase the complexity of problem a little bit, and if you are able to explain your approach satisfactorily, then will ask you to write production level code in any programming language of your choice, covering all edge cases using pen and paper : 
+Advice to fellow members preparing for something like Amazon : 
+I hope this information will be helpful to all of you, wish you all the very very best.
+
+
+
+Phone interview
+Onsite interview
+
+
+Round 1 (45 Mins)
+Brief description of the current project: Architecture, Technologies, Workflow etc.
+Round 2 (50 Mins)
+Solution: GeeksforGeeks Link
+He asked questions like most challenging task you did in your past experience, I explained him about middlewares I implemented earlier for tracking the exceptions in code.
+
+Round 3 (written)
+    I was called in Amazon office after few days (very nice office)
+I believe this round was just for warmup.
+Round 4 (45 Mins)
+Brief description of current project: this time he was more focused on technologies and tools. He asked every technology I mentioned in deep.
+Queries would be like: GET name, so output would be Pratik. (something like that)
+
+
+Round 5 (Manager)
+I could not make it but it was very good experience, All interviewers were so friendly and helpful.
+
+
+
+
+Round 1
+Round 2
+Round 3
+Only these rounds happened on 1st day. Later I was called to complete the other 2 rounds
+Round 4
+Round 5
+
+
+Telephonic Round :
+
+Round 1 :
+
+Round 2 :
+
+Round 3 :
+
+Round 4 :
+I would like to thanks GeeksForGeeks, for helping me in interviews. 
+
+
+I recently interviewed at Amazon for the SDE-2 position.
+Round – 1
+This round was taken by the hiring manager
+1. did you ever have a conflict with your manager and how did you resolve it
+2. did you ever have a conflict with a peer or junior and how did you resolve it
+3. Did you ever have to deliver on a tight deadline and how did you stick to it.
+4. design Uber
+Round – 2
+This was one of the coding round
+1. https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/
+2. print zig-zag level order traversal
+Round – 3
+this was again taken by a different dev-manager
+1. what is the toughest project (technically) you have worked, how much did you contribute to it and given a chance to rewrite it what all would you change
+2. given an existing problem solved by his team and told me to write down the possible ways to solve it.
+3. how did you train/groom the juniors in the team
+4. how do you do a code review
+5. how else did you contribute to the team other than the regular feature implementation.
+round – 4
+this was again a coding round
+1. LCS of 2 strings
+2. https://www.geeksforgeeks.org/dynamic-programming-set-5-edit-distance/
+Round – 5
+this was a HLD and LLD round
+1. design a furniture selling site
+was asked to design the HLD of the services involved and give their scaling constraints
+2. was asked to write down the classes and then the corresponding DB schema
+Round – 6
+this was the bar raiser round
+1. quick intro and reasoning for all the job switches
+2. take up 1 project and explain it in depth. Explain the design decisions, constraints, throughput, test coverage etc. Given more time what all features would you add to it.
+3. give an instance where you had to push back your manager/lead keeping the long term benefit of the product in mind.
+4. a variation of the merging k sorted arrays ( here instead of arrays it was files, large files which would not fit in the memory).
+5. write down the code(classes) for the same.
+
+
+Telephonic Round:
+Face to Face Interview: Round 1:
+Round 2:
+Round 3:
+Round 4:
+Round 5:
+ 
+
+
+Round 1 : Telephonic
+Round 2 : Hiring Manager ( F2F )
+Round 3 : DS Algo Round
+Round 4 : DS Algo Round
+Detailed discussion on project
+Round 5 : System Design Round
+
+
+Recently I was interviewed for Amazon SDE II for Amazon Pay Team. Below are the Questions : 
+Round 1 : (Written : Pen & Paper) (3 Questions)
+
+Round 2 : DS and Algo (F2F) (3 Questions)
+Result : I was eliminated due to some basic mistakes I did (in Q3), which I just realized after leaving the Interview room. It was a nice experience.
+I would also like to share few more Questions those were asked to other candidates over there : 
+The Interviewers were very friendly and helpful. They will help you whenever you get stuck (with Hints), but they will also check how much grab you have on basics.
+Thank You!!!… Hope this will help the aspiring candidates.
+
+
+
+
+Round 1
+Round 2:
+Round 3:
+Round 4:
+Round 5
+ Offered !
+
+
+Written :
+Round 1 :
+Round 2 :
+Round 3 :
+Round 4 :
+Round 5 :
+
+
+Round 1:
+Round 2:
+O(1) space solution was expected.
+Round 3:
+Round 4:
+Round 5: 
+Round 6(Hiring Manager):
+1.  Behavioral questions : conflicts, challenges, innovation
+2. Project Discussions. Please make sure you know everything about your project.
+3. Reverse a stack using recursion.
+Round 7(Bar raiser)
+ 1.  Behavioral questions : conflicts, challenges, innovation
+2. Project Discussions.
+3. Next Greater element.
+ https://www.geeksforgeeks.org/next-greater-element/ 
+
+
+
+
+I applied through recruiter, i was having 4 year exp while appearing for this interview, overall it was quite lengthy process.
+I shared my resume to recruiter and later was scheduled a telephonic discussion
+Telephonic Round 1:
+Brief Intro from both the side then he asked the technical question,
+Then there was gap of almost 3 weeks with no clue on feedback then suddenly recruiter contacted me stating the positive feedback from telephonic discussion and invite for In House interview at Amazon Gurgaon office since i was in NCR region.
+Round 2:
+This was completely technical round, i was asked to three technical question, not much tough
+Round 3:
+This was kind of mix of technical and some behavioral questions
+Initially interview asked some of the questions from resume then jumped to the technical questions,
+Round 4:
+This round was completely design round (LLD and HLD)
+Design Debugger then in between he moved to design Meeting scheduler
+In last 10 minute he asked me to give HLD of Clock Room
+Round 5:
+This was taken by some senior developer,
+He asked few question related to previous work, its challenges then moved to technical question
+Then again some behavioral question,
+This type of questions.
+These all rounds happen on the same day, then i was asked to leave for the day and wait till next week for getting the feedback and next steps if any.
+After 1 week, i got mail stating that, we would like to proceed further and scheduled my bar raiser round.
+Round 6 (BR):
+It was telephonic discussion,
+Interviewer judged me on Amazon leadership principles,
+And i believe i just slips on one of the principle but overall he was satisfied with my responses.
+And he asked me to explain HLD for Automatic Parking System.
+This interview stretched for long since there was some network connectivity issue with my cell network,
+In last he asked me to explain just the approach of solving a technical problem,
+Exact question i don’t remember but it was related to merging k sorted array.
+Round 7 (HM):
+Nearly next week this interview was scheduled since Hiring mangers were not available due to their busy schedule,
+Majority of the time this interview was around behavioral questions and Amazon leadership principles.
+In last he asked me to design Game Studio like amoeba game zone.
+                                         
+
+
+
+
+Round 1: Telephonic round.
+Round 2:
+On site Interview:
+Round 3:
+Round 3:
+ 
+
+
+Round 0: Online Coding Test (90 Min – 4 Coding Questions)
+GeeksforGeeks Link
+
+After 1 month recruiter called for f2f rounds. There were 4 rounds on the same day.
+Round 1: Hiring Manager Round (Behaviour + Design)(1.5 Hrs)
+Intro, Project & Lot of Behaviour Questions
+Lot of other behaviour questions. Finally gave a design problem to solve.
+Design:
+Do integration for Splitwise app with Amazon Pay (or Paytm)
+1) where a person can pay to another person and money directly gets deposited into other person’s bank account.
+2) A person can also send reminder to another person for owning money.
+Round 2: Design Round (1.5 Hrs)
+Round 3: Coding Round (1.5 Hrs)
+GeeksforGeeks Link
+
+Round 4: Coding Round (1.5 Hrs)
+First write the data structure to solve this problem, then efficient algorithm, then complete working code on paper.
+
+ 
+Overall it was a positive experience, recruiter kept me informed about the progress and about next rounds. First four rounds went well but I wasn’t able to solve 5th round problem, and was eliminated after then.
+Thanks a lot to geeks for geeks for having such a great amount of collection to practice on.
+ 
+Advise:
+ 
+
+
+It was a recruitment drive at Pune, for Kindle team (Chennai).
+Round 1 (Screening):
+Two common questions were given to all. We’re supposed to discuss the approach to the problem with the interviewer first and then implement it after the interviewer is convinced with your approach.
+Round 2 (Problem Solving):
+Round 3 (Problem Solving):
+Round 4 (Design):
+Round 5 (Bar raiser):
+Few questions to evaluate me on Amazon’s leadership principles.  I can’t remember them all 🙁
+And one algorithmic problem at the end. Diameter of a binary tree
+Round 6 (Hiring manager):
+Note:  In problem solving rounds, you’re supposed to write a working code in any language of your choice, handling all the corner cases.
+Finally got an offer after 3 days!! 🙂 All the best!! (y)                                        
+
+
+A
+
+
+I was interviewed for customer returns team for Hyderabad campus. I had 1 year and 9 month experience at the time of getting interviewed. Less experience was something which was worrying me a lot. They generally ask for 3-5 years of experience, but come down to 2 years if you are good.
+1. What is so special about typescript that both Angular and React included it in the recent versions. Tsc compiler, final output, difference between java, JS and TS were discussed. Any live project use case where TS helped more than JS (I come from a pure JS background that’s why this question was asked)
+2. Design a vending machine with following functionalities
+Both HLD and LLD were expected.
+Round 2 to 6 were done in Amazon Hyderabad campus. All interviews were back to back. It started from 11 AM to 5:30 PM with just half an hour lunch break. Before I could even step out after completing one round, other interviewers would already be waiting outside. Interviewers were very helping, but only if your are thinking in the right direction. HR also was very supportive. He was coming and motivating me after every round. Some advices here
+ 
+
+
+Round 1: Telephonic Round 
+ 
+Round 2: Face to Face interview 
+Round 3: Face to Face interview 
+It was not a coding question only. He expected me to write a Heap interface and using that implement min heap or max heap. And also write the heapify code
+
+
+Round 1:
+Round 2:
+Round 3:
+Design round:
+Round 4: 
+Managerial round, lot of project and Amazon’s leadership principle related questions.
+Round 5:
+Bar Raiser: Lot of behavioral and leadership principle questions, then asked a design question, design a load balancer’s algorithm so that it redirects the traffic between three services s1, s2, s3 by 50%, 30% and 20%. further clause added to handle various clients calling to specific services.
+ 
+Tips for the interview:  Good hands on towards problem solving and algorithm, HLD and LLD,   prepare well for Amazon’s leadership principles.
+ 
+ 
+
+
+I was interviewed for SDE2 role at Amazon, Bangalore. I had 3 years of experience at the time of getting interviewed.
+Round 1 : Coding Test ———————————————————————————————————–
+– Explain design patterns used so far.
+– How is code review done.
+– How is design review done.
+– Write a program to search a number in a sorted array having 1 maxima.
+– Write a program to check parenthesis are matching.
+Round 2 : Technical Round ——————————————————————————————————-
+– What type of cache do you use in your projects/SYstem.
+– Design a LRU cache having methods
+  – get(K Key)
+  – put(K key, V Value)
+  – remove(K Key)
+They wanted a Library such as Redis which takes generic input.(Using generics)
+Round 3 : Hiring Manager Round ————————————————————————————————–
+– A brief introduction
+– Almost 15 minute discussion about what App Store in Amazon does
+– Explained my project in detail.
+– A very detailed description of technical challenge faced (it includes HLD, LLD and the solution offered)
+– Design google’s Autocomplete feature.
+– Which areas of yours would you like to improve upon? (Both technical and non-technical)
+– Write a program for finding K largest elements in an array.
+Round 4 : Technical Round ——————————————————————————————————-
+– In a linked list find Kth elements from end in a single traversal.
+– Given a 2-D matrix of 0s and 1s, find the number of groups of adjacent 1s given that diagonal 1s are not included.
+  This was the famous Islands problem using connected components in Graph.
+Round 5 : Design Round ———————————————————————————————————-
+– Design BookMyShow. All the microservices which are involved their APIs and HLL design was expected.
+  How will you resolved the concurrency issue when 2 customers try to book same seat.
+Round 6 : Bar Raiser Round
+– A brief introduction
+– Complete design of my project HLD, LLD, UI, DB etc.
+– Responsibilities in the current company
+– Why do you want to change your company
+– Any task/project which was designed and implemented in less time but had a great impact on the production/Business Side.
+– Have you been appreciated for your task more than your expectations.
+– Time when you did not agree with your manager.
+– have you lead anyone ? how do you review code ?
+– how do you review design?
+– What are you weaknesses ?
+– Any project which you feel proud for?
+Overall the process was very smooth and HR was very supportive.
+After a few days I got a call saying I was selected 🙂
+
+
+This interview was for the SDE-2 position for logistic management department of amazon. I had applied for this job on naukari.com.
+Round 1:
+
+There was an online codding test on Hackerearth. Two questions were asked. I don’t remember them now.
+Round 2:
+After two weeks they scheduled a telephonic round.
+Question 1: Given a matrix of ‘0’ and ‘1’, find the largest Iceland (i.e area of  ‘1’s)
+Question 2. Design a data structure with constant time for insert, delete, search and getRandom.
+I had given solutions for the both.
+Round 3 :
+This was onsite interview at Hyderabad.
+First he asked about my past projects and challenges faced. He then asked if I had designed anything on top of current a system.
+Next a technical question was given;
+Given an array of integers  and a window size ‘k’, find first negative number for each possible window in the array.
+I first gave him a two queue approach(was not optimal), he told to code it on paper. After I wrote the code, he asked to optimize it further. Finally after few iterations, I gave him an optimal two pointer approach.
+My suggestion here is; do not hurry to present your solution to interviewer,   first try to come-up with best optimal solution. For SDE-2 positions they expect optimal solution at the very first place from you.
+Round 4 :
+This was all project and HLD related round.
+There were two interviewers. The first introduced themselves and told about what their group does at amazon.
+He then asked about my role at previous company and past projects I did in brief. Then asked if I have done something like adding new functionality or suggested some improvement for the project that was not asked by customer or manager.
+He then asked me to draw HLD for meeting calendar system. Then there was discussion on various issues on it like scalability, what database should be used; SQL-NoSQL, concurrency etc.
+ 
+All the best guys!
+
+
+Amazon visited our campus(DAIICT) to recruit interns and FTEs. I’m sharing my internship interview experience.
+There were 2 rounds in all – 1 Online Round followed by 1 F2F Interview.
+Online Round(90 min ):
+There were 24 questions based on Logical Reasoning, 7 questions based on Debugging and 2 questions of coding.
+The 2 coding questions were:
+Out of around 250 students, 53 were shortlisted for Round 2.
+->Doing MCQ (Logical Reasoning) was important. Few students who solved both the coding question but didn’t attempt the MCQs were not selected while some who could solve 80% of 1 question(8/10 test cases) and few MCQs were selected.
+Round 2: FTF Interview (Around 90 mins):
+The interviewer asked me some HR questions like Why Amazon? , Introduce myself 
+Reverse every k node. 
+Then he asked me a question on the graph. I told him that I have not prepared for it, but I had a course called design and analysis in my semester 3 so I will try to recall that and try to answer your question. 1) given n cities and every city is connected via m roads. There is no cycle in the graph. Each road between city x and city y has some traffic denoted by weight of the edge. Each city has one stadium. Now suppose in one city, a cricket match is conducted and all other cities’ people come to that city to watch a match. Total traffic denoted by the sum of edges of all city. The task is to find maximum traffic coming to that city at any point in time.
+
+Suppose the match is in the city coloured with black. So traffic coming to that is from 3 sides.  one from the group of three cities and traffic will be (9+5+4+2 = 20), second will be from (15 + 6= 21) and third will be(1+4=5). so ans will be max of these and thus ans = 21.
+When he gave me this question I don’t know the answer but I tried a lot. I gave him around 3 approaches and discussed with the interviewer but he said that my approach is wrong. But then I tried and never give up. Then he gave me the hint to do bfs and then dfs from neighbouring. I got a hint and answered the question and wrote code. Then, he asked me if I had any questions for him.
+Out of the 53 selected for the interviews, 13 were finally selected for the internship.
+Verdict: Selected.
+Tips :
+During my preparation geeks for geeks, indeed, was a great help. Almost all the questions asked in the interview were from geeks. A big thank you to other geeks as well for sharing their interview experiences as going through past experiences was the perfect way to end my preparations.
+
+

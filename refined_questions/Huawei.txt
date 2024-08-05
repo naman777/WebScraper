@@ -1,0 +1,98 @@
+Question: 4. why do you want to change company?
+5.Brief about yourself
+Round 2.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How you optimize your code containing 1000s lines of codes
+4.
+
+
+why do you want to change company?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How to take care of memory leak in your program execution?
+2.
+
+
+How to increase the limit of JVM memory in Unix
+4.
+
+
+why do you want to change company?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: why do you want to change company?
+
+
+why do you want to change company?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 4. why do you want to change company?
+5.Brief about yourself
+Round 2.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How you optimize your code containing 1000s lines of codes
+4.
+
+
+why do you want to change company?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How to take care of memory leak in your program execution?
+2.
+
+
+How to increase the limit of JVM memory in Unix
+4.
+
+
+why do you want to change company?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: why do you want to change company?
+
+
+why do you want to change company?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

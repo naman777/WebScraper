@@ -1,0 +1,40 @@
+Implement LRU Cache,
+2. Implement your own Blocking Queue.
+
+
+Questions on Collections ,
+a. How AtomicInteger works
+b.
+
+
+Questions on Concurrent API, Executor Class, Executor Service, ThreadFactory.
+
+
+Questions on Serialisation/Deserialisation
+7.
+
+
+Questions on Design Patters – Composite, Observer, Decorator etc
+I dont remember other questions, but the interviewer grilled me completely in Java.
+
+
+Implement LRU Cache,
+2. Implement your own Blocking Queue.
+
+
+Questions on Collections ,
+a. How AtomicInteger works
+b.
+
+
+Questions on Concurrent API, Executor Class, Executor Service, ThreadFactory.
+
+
+Questions on Serialisation/Deserialisation
+7.
+
+
+Questions on Design Patters – Composite, Observer, Decorator etc
+I dont remember other questions, but the interviewer grilled me completely in Java.
+
+

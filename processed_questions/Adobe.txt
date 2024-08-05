@@ -1,0 +1,84 @@
+Where does b point to?
+Now this question was related to Big endian and little endian as in he wanted me to ask if the architechture is little endian or big endian.
+
+
+What is Adapter Design Pattern .
+
+
+Implement memcpy function.
+
+
+How do you make compiler to give warning if user passes nomberOfBytes less then equal to zero.
+Q2.
+
+
+What is SIMD?
+Q4.
+
+
+What are different IPCs mechanisam.
+Q5.
+
+
+How do u notify to users who have already liked the photo.(Observer pattern)
+       10 million users like the photo at the same time, how do you handle such scenario.
+
+
+Q3.
+
+
+Why do we need copy constructor?
+Q2.
+
+
+Q3.
+
+
+Implement a stack which supports push and pop function.
+
+
+Q2.
+
+
+Where does b point to?
+Now this question was related to Big endian and little endian as in he wanted me to ask if the architechture is little endian or big endian.
+
+
+What is Adapter Design Pattern .
+
+
+Implement memcpy function.
+
+
+How do you make compiler to give warning if user passes nomberOfBytes less then equal to zero.
+Q2.
+
+
+What is SIMD?
+Q4.
+
+
+What are different IPCs mechanisam.
+Q5.
+
+
+How do u notify to users who have already liked the photo.(Observer pattern)
+       10 million users like the photo at the same time, how do you handle such scenario.
+
+
+Q3.
+
+
+Why do we need copy constructor?
+Q2.
+
+
+Q3.
+
+
+Implement a stack which supports push and pop function.
+
+
+Q2.
+
+

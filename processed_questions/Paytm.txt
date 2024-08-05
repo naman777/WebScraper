@@ -1,0 +1,190 @@
+Some questions about the recommendation system that I built, which algorithm have I used ?, what is item-item collaborative filtering?
+
+
+What are the different architectures we can use for user session management, discussion on client side session management, server side session management, what if one of the servers crashed.
+Q3.
+
+
+How does Elasticsearch store data, what is inverted indexing.
+
+
+Why are you using aerospike?
+Given a matrix sorted only row-wise, search a number in it.
+
+
+Brief intro
+Discussion about project
+Why are you using aerospike?
+Design a hashmap.
+
+
+What is volatile.
+
+
+Brief intro
+Discussion about project
+Why are you using aerospike?
+Given a very long array of numbers, segregate it by odd and even placed numbers such that all the even placed numbers are in front and all the odd placed numbers after that.
+
+
+What is its worst case complexity?
+
+
+How can you improve the worst case complexity of hashmap?
+Write a bug-free code for BST insertion.
+
+
+Brief intro
+Discussion about project
+What is aerospike XDR?
+
+
+How will you make a list unmodifiable?
+
+
+How will you get ordinality for an enum?
+
+
+How can your enum A extends some class B?
+Difference between List<?> and List<Object>
+List<?> list1
+
+
+= new ArrayList<?>();
+List<Object> list2 = new ArrayList<Object>();
+List<String> list3 = new ArrayList<String>();
+List1 = list3;
+List1 = (List<String>)list2;
+What will be its output?
+Design a hashmap.
+
+
+interface i1 : void fun()
+interface i2 : void fun()
+interface i3 : void fun()
+now what will be the behavior if a class implement all interfaces?
+Didn’t got selected, attitude of the interviewers was like whatever they asked has to be answered and are god as know more than you.
+
+
+write code to print number 1 to N in increasing order.
+
+
+What is critical section in terms of thread, how do we handle it, write code to demonstrate simultaneous seat selection handling while booking a seat on bookmyshow.
+
+
+What are MySQL engines ?
+3.
+
+
+What is load balancer ?
+4.
+
+
+What is session and cookies ?
+
+
+How sessions are maintained and how these values are passed from client to server ?
+5.
+
+
+How to handle high request per second (distributed systems)?
+
+
+What is collision and what are collision resolution techniques.
+
+
+Some questions about the recommendation system that I built, which algorithm have I used ?, what is item-item collaborative filtering?
+
+
+What are the different architectures we can use for user session management, discussion on client side session management, server side session management, what if one of the servers crashed.
+Q3.
+
+
+How does Elasticsearch store data, what is inverted indexing.
+
+
+Why are you using aerospike?
+Given a matrix sorted only row-wise, search a number in it.
+
+
+Brief intro
+Discussion about project
+Why are you using aerospike?
+Design a hashmap.
+
+
+What is volatile.
+
+
+Brief intro
+Discussion about project
+Why are you using aerospike?
+Given a very long array of numbers, segregate it by odd and even placed numbers such that all the even placed numbers are in front and all the odd placed numbers after that.
+
+
+What is its worst case complexity?
+
+
+How can you improve the worst case complexity of hashmap?
+Write a bug-free code for BST insertion.
+
+
+Brief intro
+Discussion about project
+What is aerospike XDR?
+
+
+How will you make a list unmodifiable?
+
+
+How will you get ordinality for an enum?
+
+
+How can your enum A extends some class B?
+Difference between List<?> and List<Object>
+List<?> list1
+
+
+= new ArrayList<?>();
+List<Object> list2 = new ArrayList<Object>();
+List<String> list3 = new ArrayList<String>();
+List1 = list3;
+List1 = (List<String>)list2;
+What will be its output?
+Design a hashmap.
+
+
+interface i1 : void fun()
+interface i2 : void fun()
+interface i3 : void fun()
+now what will be the behavior if a class implement all interfaces?
+Didn’t got selected, attitude of the interviewers was like whatever they asked has to be answered and are god as know more than you.
+
+
+write code to print number 1 to N in increasing order.
+
+
+What is critical section in terms of thread, how do we handle it, write code to demonstrate simultaneous seat selection handling while booking a seat on bookmyshow.
+
+
+What are MySQL engines ?
+3.
+
+
+What is load balancer ?
+4.
+
+
+What is session and cookies ?
+
+
+How sessions are maintained and how these values are passed from client to server ?
+5.
+
+
+How to handle high request per second (distributed systems)?
+
+
+What is collision and what are collision resolution techniques.
+
+

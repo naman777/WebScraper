@@ -1,0 +1,28 @@
+Question: General questions like ‘why Expedia?, describe yourself & your experience?
+
+
+reason for switch?
+
+
+Questions for me?’ were asked by almost everyone in all the rounds.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: General questions like ‘why Expedia?, describe yourself & your experience?
+
+
+reason for switch?
+
+
+Questions for me?’ were asked by almost everyone in all the rounds.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

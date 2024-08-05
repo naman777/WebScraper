@@ -1,0 +1,144 @@
+Q 1.
+
+
+Q 2.
+
+
+Q 3.
+
+
+Q 4.
+
+
+Q 5.He asked me to write a code for finding a number in a matrix with is both row and column wise sorted give best algorithm for that and trace it .
+
+
+Q 6.
+
+
+Q 7.
+
+
+Q 8.
+
+
+Q 9.
+
+
+How to servers communicate each other.
+
+
+Q 10.
+
+
+What is the DBMS and RDBMS with difference .
+
+
+Q 11.
+
+
+How you are able to access the SQL services from netbeans IDE  since you have not launched  MY SQL server
+
+
+Q 12 .
+
+
+Difference between DATA WareHouse and DataBase?
+
+
+Q 13.What is Trigger what is the need of it .
+
+
+Q 2.
+
+
+What is your most embarrassing moment and why it is.
+
+
+Q 3.
+
+
+Q 4.
+
+
+Q 5.
+
+
+What is your GOAL in your Life.
+
+
+Q 6.
+
+
+Q 1.
+
+
+Q 2.
+
+
+Q 3.
+
+
+Q 4.
+
+
+Q 5.He asked me to write a code for finding a number in a matrix with is both row and column wise sorted give best algorithm for that and trace it .
+
+
+Q 6.
+
+
+Q 7.
+
+
+Q 8.
+
+
+Q 9.
+
+
+How to servers communicate each other.
+
+
+Q 10.
+
+
+What is the DBMS and RDBMS with difference .
+
+
+Q 11.
+
+
+How you are able to access the SQL services from netbeans IDE  since you have not launched  MY SQL server
+
+
+Q 12 .
+
+
+Difference between DATA WareHouse and DataBase?
+
+
+Q 13.What is Trigger what is the need of it .
+
+
+Q 2.
+
+
+What is your most embarrassing moment and why it is.
+
+
+Q 3.
+
+
+Q 4.
+
+
+Q 5.
+
+
+What is your GOAL in your Life.
+
+
+Q 6.
+
+

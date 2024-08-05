@@ -1,0 +1,20 @@
+How Node.js internally works.
+
+
+What is left joins and how it’s works.
+
+
+How inodb (mysql engine) works and it’s internal architecture.
+2)      How joins works.
+
+
+How Node.js internally works.
+
+
+What is left joins and how it’s works.
+
+
+How inodb (mysql engine) works and it’s internal architecture.
+2)      How joins works.
+
+

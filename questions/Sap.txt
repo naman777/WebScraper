@@ -1,0 +1,270 @@
+First of all, i got the mail and was asked to attend one online test. Online test had 6 parts-psychometric test, aptitude, logical, English, computer skills and 2 coding questions. Time was 90 minutes. I cleared the online test round and was asked to attend the interview rounds.
+Interview round consisted of 4 rounds-2 technical+1 managerial +1 HR
+1st Round-
+First the interviewer asked me to give my introduction.Then he asked about the projects which i am doing in my current company.C,C++ basic soncepts,real life examples for inheritance etc.As my project was on web programming he asked me questions related to web like why we use backend,how to troubleshoot problems,about performance issues, client and server.
+After that i was called for the second round.
+2nd Round-
+Again 2nd round started with an introduction . Then he started asking questions from resume. Working in the current company and all the projects that i have done. Few OOPs concepts (with proper explanation and coding) and some database related questions.That was the 2nd round. He asked me to find a number which when divided by 2 ,3 ,4 ,5 ,6, 7 ,8 , 9 ,10 individually gives remainder 1 and when divided by 11 gives remainder 0.Then he told me to draw E-R diagram of shopping site
+like flipkart.
+Then i was called for the 3rd Round.
+3rd Round-
+Introduction. After that he asked why i wanted to join Sap.He asked me two SQL questions.one was related to joins and normalization and the other was related to the aggregate functions used in SQL. Then he asked me simple linked list question which was to find the (k/n)th node where k is the size of the linked list and n is a given number.After that he asked me a puzzle to find the average salary of number of persons without disclosing their salary to anyone.
+Then i was called for the 4th Round.
+4th Round-
+It was just a formality and it was of 20-25 minutes.
+I would like to thank geeksforgeeks. You really helped me a lot.
+
+
+
+1st round online test-
+1. Psychometric Test
+2. General Aptitude
+3. Analytical Aptitude
+4. Verbal Skills
+5. Computer Skills
+6. Coding Skills
+Coding ques – 2ques requiring very basic coding skills in C.
+After clearing this I was called for interview process.
+2nd round- designing round
+we were divided into groups and given problem statement, assigned mentors group wise, bt asked to create solution individualy. Given around 3040 mins to design a banking system with given requirements,
+Design should include
+-Logic Flow Diagram
+-E-R diagram (very important)
+-DB tables with relations between them, preferably normalized
+-Commands for transaction with tables
+A PI with mentor on basis of design/DB tables etc created.
+3rd round-Technical
+Basic questions on
+-C (string, array, bitwise operators)
+-C++(inheritance concepts, private/public/protected concepts)
+-protocols HTTP,TCP/IP
+-current project
+-ER diagram for some requirement the create Db tables and write C function for transaction from tables.
+-Noramlisation 1NF, 2NF, 3NF BCNF with examples
+-Dynamic and static binding
+-developement and testing lifecycle and types based ques
+-Design patterns used in software development
+-OS ques paging etc
+-linux commands
+-puzzles (find volume of air in a bottle etc)
+-difference bet product and project
+-diff bet system software and bussiness software
+-abstract and interface examples
+4th round-Mangerial
+-normal ques about college, ranking in class etc
+-why should I hire u (justify you characteristics which u mention in this ans), why do you want to join SAP.
+Then he asked me do i have any ques, I asked about Onsite opportunities, and then while discussing I told him about my interest in visiting Heritage places, so he told me about an organization which conducts Heritage walks in delhi for places not so famous but with rich historic significance and then gave me contact details. I dont know how much I impressed him, Bt I was flattered by this gesture. 🙂
+5th round- HR
+He asked me how should i weigh Howrah bride and asked to give any answer I like, normal or wacky. My answer was very normal so i not gonna write that. 😀
+And then ques about my weakness and strength, my previous company, reason to change etc.
+Thanks geeksforgeeks for all content and platform you provide.
+
+
+
+This was for a Developer Specialist (JAVA,JAVASCRIPT) position(4-6 yrs). It was a very long process but was an awesome one!!!
+Round 1 (Telephonic) [ > 1hr]
+1) Why main method is void in JAVA?
+2) Are string parameters mandatory in main method? At what time are the parameters read?
+3)Difference between sleep and wait
+4)Difference between yield vs join
+5)Checked and unchecked exceptions.
+6) Concurrent hash map.
+7)Difference between isInstance and Instance of
+8)When to use reflection and name few methods?
+9)Fail fast vs fail safe iterator
+10) JVM JRE and JDK.What does rt.jar contain?
+11 )When to use LinkedHash Map and Tree map? Which is better for insertion,deletion and search?
+12) What is static method?Where are static variable stored in memory?
+13) JAVA memory model.
+14)JAVA garbage collection process.What is survivor space?
+15)When to override toString() method?
+16)Design a DS which does the following operations:
+1)Insert,2)Delete,3)Search in O(1) complexity.
+Few general questions about my previous experience.hobbies etc
+After 3-4 hrs I got an update that I am through the telephonic screening and have to attend F2F.
+Round 2 F2F( 90 min)
+After introduction,few questions were in JAVA then he started asking some coding questions.
+1)Write a recursive program to find distance between 2 nodes in a binary tree.
+Modify it to know the difference between parent and the root.
+2) Write a program “isPerfectSquare” without using SQRT, * and / operators.
+3) Write an infinite stack for doubly linked list.
+4)How to design a chess board? ->The discussion went on for almost 30 min.The solution was an incremental improvement and the interviewer seems to be very satisfied.
+Round 3 F2F( 90 min)
+1)What is strategy pattern? Explain and implement it.
+2)What is Dependency Injection?Which pattern supports it?
+3) Explain heap sort end to end with an example. Implement executable code for it.
+4)DeadLock,Race Condition,Mutual exclusion.
+5)Write a JAVA program to implement deadlock.Resolve it too.
+Round 4 F2F( 60 min)
+This was pure design round and was quite challenging.
+
+1)How to create REST API for a job scheduler?
+2) When to use IS-A and when to use HAS-A relationship? Difference between Compostion,Aggregation,Association,Specialization,Realization,Generalization.
+3)Design REST API for checkout option in a shopping cart and what is the API designed to generate the Order ID
+4) 1 JOIN query in SQL.
+Round 5 F2F(90 min) 
+1)Write an SQL query to remove duplicate rows in a table.
+2)Draw a UML class diagram for a FILE/FOLDER structure.
+3) Implement OR and AND operation using Conditional operator.
+4) Find the nth largest element in Binary Search Tree (Sol :Traverse inorder n times)
+5) Construct a binary tree for Infix expression without using stack.
+Round 6(90 min) (Techno-Managerial Round -F2F)
+1) some puzzles
+2) explain about project.some indepth questions on it.
+3)How has quora implemented its architecture.
+4)How is friends of friends feature implemented in Facebook?
+5)What are the best ways to design REST API?
+6) Few details about background ,SAP etc
+Round 7(45 min) (Techno-Managerial Round -Telephonic)
+1) How is hash map implemented in JAVA?
+2)Why have column-oriented databases evolved?Explain it.
+3) Few more questions on JAVA.
+4) Some behavioural questions giving a hypothetical situation (tricky)
+5) Biggest challenging task I have done till now technically.
+Round 8 ( HR -telephonic)
+1) What are your strengths and weakness?
+2)Why SAP?
+3)Notice period.
+4)Expected Salary.
+Tips:
+1)Questions in this firm are not that difficult like Amazon and other firms but the subjects covered are broader than what other companies ask.(Not limited to DS and Algo)
+2) Even though you are proficient in many topics/technologies as mentioned in your resume, the interviewer would give you an option to choose the topic of your choice.
+3)No on is perfect !!! All the interviewers were very helpful and were giving tips/clues during the problem solving.Please ask if you need more details about the question rather than keeping mum.Aall All the best Folks 🙂
+
+
+
+First of all, i got the mail and was asked to attend one online test. Online test had 6 parts-psychometric test, aptitude, logical, English, computer skills and 2 coding questions. Time was 90 minutes. I cleared the online test round and was asked to attend the interview rounds.
+Interview round consisted of 4 rounds-2 technical+1 managerial +1 HR
+1st Round-
+First the interviewer asked me to give my introduction.Then he asked about the projects which i am doing in my current company.C,C++ basic soncepts,real life examples for inheritance etc.As my project was on web programming he asked me questions related to web like why we use backend,how to troubleshoot problems,about performance issues, client and server.
+After that i was called for the second round.
+2nd Round-
+Again 2nd round started with an introduction . Then he started asking questions from resume. Working in the current company and all the projects that i have done. Few OOPs concepts (with proper explanation and coding) and some database related questions.That was the 2nd round. He asked me to find a number which when divided by 2 ,3 ,4 ,5 ,6, 7 ,8 , 9 ,10 individually gives remainder 1 and when divided by 11 gives remainder 0.Then he told me to draw E-R diagram of shopping site
+like flipkart.
+Then i was called for the 3rd Round.
+3rd Round-
+Introduction. After that he asked why i wanted to join Sap.He asked me two SQL questions.one was related to joins and normalization and the other was related to the aggregate functions used in SQL. Then he asked me simple linked list question which was to find the (k/n)th node where k is the size of the linked list and n is a given number.After that he asked me a puzzle to find the average salary of number of persons without disclosing their salary to anyone.
+Then i was called for the 4th Round.
+4th Round-
+It was just a formality and it was of 20-25 minutes.
+I would like to thank geeksforgeeks. You really helped me a lot.
+
+
+
+1st round online test-
+1. Psychometric Test
+2. General Aptitude
+3. Analytical Aptitude
+4. Verbal Skills
+5. Computer Skills
+6. Coding Skills
+Coding ques – 2ques requiring very basic coding skills in C.
+After clearing this I was called for interview process.
+2nd round- designing round
+we were divided into groups and given problem statement, assigned mentors group wise, bt asked to create solution individualy. Given around 3040 mins to design a banking system with given requirements,
+Design should include
+-Logic Flow Diagram
+-E-R diagram (very important)
+-DB tables with relations between them, preferably normalized
+-Commands for transaction with tables
+A PI with mentor on basis of design/DB tables etc created.
+3rd round-Technical
+Basic questions on
+-C (string, array, bitwise operators)
+-C++(inheritance concepts, private/public/protected concepts)
+-protocols HTTP,TCP/IP
+-current project
+-ER diagram for some requirement the create Db tables and write C function for transaction from tables.
+-Noramlisation 1NF, 2NF, 3NF BCNF with examples
+-Dynamic and static binding
+-developement and testing lifecycle and types based ques
+-Design patterns used in software development
+-OS ques paging etc
+-linux commands
+-puzzles (find volume of air in a bottle etc)
+-difference bet product and project
+-diff bet system software and bussiness software
+-abstract and interface examples
+4th round-Mangerial
+-normal ques about college, ranking in class etc
+-why should I hire u (justify you characteristics which u mention in this ans), why do you want to join SAP.
+Then he asked me do i have any ques, I asked about Onsite opportunities, and then while discussing I told him about my interest in visiting Heritage places, so he told me about an organization which conducts Heritage walks in delhi for places not so famous but with rich historic significance and then gave me contact details. I dont know how much I impressed him, Bt I was flattered by this gesture. 🙂
+5th round- HR
+He asked me how should i weigh Howrah bride and asked to give any answer I like, normal or wacky. My answer was very normal so i not gonna write that. 😀
+And then ques about my weakness and strength, my previous company, reason to change etc.
+Thanks geeksforgeeks for all content and platform you provide.
+
+
+
+This was for a Developer Specialist (JAVA,JAVASCRIPT) position(4-6 yrs). It was a very long process but was an awesome one!!!
+Round 1 (Telephonic) [ > 1hr]
+1) Why main method is void in JAVA?
+2) Are string parameters mandatory in main method? At what time are the parameters read?
+3)Difference between sleep and wait
+4)Difference between yield vs join
+5)Checked and unchecked exceptions.
+6) Concurrent hash map.
+7)Difference between isInstance and Instance of
+8)When to use reflection and name few methods?
+9)Fail fast vs fail safe iterator
+10) JVM JRE and JDK.What does rt.jar contain?
+11 )When to use LinkedHash Map and Tree map? Which is better for insertion,deletion and search?
+12) What is static method?Where are static variable stored in memory?
+13) JAVA memory model.
+14)JAVA garbage collection process.What is survivor space?
+15)When to override toString() method?
+16)Design a DS which does the following operations:
+1)Insert,2)Delete,3)Search in O(1) complexity.
+Few general questions about my previous experience.hobbies etc
+After 3-4 hrs I got an update that I am through the telephonic screening and have to attend F2F.
+Round 2 F2F( 90 min)
+After introduction,few questions were in JAVA then he started asking some coding questions.
+1)Write a recursive program to find distance between 2 nodes in a binary tree.
+Modify it to know the difference between parent and the root.
+2) Write a program “isPerfectSquare” without using SQRT, * and / operators.
+3) Write an infinite stack for doubly linked list.
+4)How to design a chess board? ->The discussion went on for almost 30 min.The solution was an incremental improvement and the interviewer seems to be very satisfied.
+Round 3 F2F( 90 min)
+1)What is strategy pattern? Explain and implement it.
+2)What is Dependency Injection?Which pattern supports it?
+3) Explain heap sort end to end with an example. Implement executable code for it.
+4)DeadLock,Race Condition,Mutual exclusion.
+5)Write a JAVA program to implement deadlock.Resolve it too.
+Round 4 F2F( 60 min)
+This was pure design round and was quite challenging.
+
+1)How to create REST API for a job scheduler?
+2) When to use IS-A and when to use HAS-A relationship? Difference between Compostion,Aggregation,Association,Specialization,Realization,Generalization.
+3)Design REST API for checkout option in a shopping cart and what is the API designed to generate the Order ID
+4) 1 JOIN query in SQL.
+Round 5 F2F(90 min) 
+1)Write an SQL query to remove duplicate rows in a table.
+2)Draw a UML class diagram for a FILE/FOLDER structure.
+3) Implement OR and AND operation using Conditional operator.
+4) Find the nth largest element in Binary Search Tree (Sol :Traverse inorder n times)
+5) Construct a binary tree for Infix expression without using stack.
+Round 6(90 min) (Techno-Managerial Round -F2F)
+1) some puzzles
+2) explain about project.some indepth questions on it.
+3)How has quora implemented its architecture.
+4)How is friends of friends feature implemented in Facebook?
+5)What are the best ways to design REST API?
+6) Few details about background ,SAP etc
+Round 7(45 min) (Techno-Managerial Round -Telephonic)
+1) How is hash map implemented in JAVA?
+2)Why have column-oriented databases evolved?Explain it.
+3) Few more questions on JAVA.
+4) Some behavioural questions giving a hypothetical situation (tricky)
+5) Biggest challenging task I have done till now technically.
+Round 8 ( HR -telephonic)
+1) What are your strengths and weakness?
+2)Why SAP?
+3)Notice period.
+4)Expected Salary.
+Tips:
+1)Questions in this firm are not that difficult like Amazon and other firms but the subjects covered are broader than what other companies ask.(Not limited to DS and Algo)
+2) Even though you are proficient in many topics/technologies as mentioned in your resume, the interviewer would give you an option to choose the topic of your choice.
+3)No on is perfect !!! All the interviewers were very helpful and were giving tips/clues during the problem solving.Please ask if you need more details about the question rather than keeping mum.Aall All the best Folks 🙂
+
+
+

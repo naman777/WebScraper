@@ -1,0 +1,12 @@
+– How to implement LRU caching scheme?
+
+
+What data structures should be used?
+
+
+– How to implement LRU caching scheme?
+
+
+What data structures should be used?
+
+

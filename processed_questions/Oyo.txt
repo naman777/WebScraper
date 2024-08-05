@@ -1,0 +1,56 @@
+Round 1: two written questions
+– https://www.hackerrank.com/challenges/candies/problem
+– Check if a binary tree is subtree of another binary tree 
+
+Round 2: F2F
+ discussion of above 2 questions and
+– Maximum Product Subarray
+– Bottom View of Binary Tree
+Round 3: F2F
+– Given n numbers having k unique numbers and rest repeated where k<<n, sort them in time complexity less than O(nlogn)
+– Sort array having numbers 1, 2, 3 only
+– One thread (for printing 1, 100 times) vs 10 threads ( each printing 1, 10 times), which one is better and why ?
+
+
+Implement stack using queue.
+
+
+Ref: https://www.youtube.com/watch?v=K6VBLJ4AR2Q  
+Round 4:
+1.
+
+
+Implement LRU cache.
+
+
+Questions on java concepts, design pattern and multithreading.
+
+
+Round 1: two written questions
+– https://www.hackerrank.com/challenges/candies/problem
+– Check if a binary tree is subtree of another binary tree 
+
+Round 2: F2F
+ discussion of above 2 questions and
+– Maximum Product Subarray
+– Bottom View of Binary Tree
+Round 3: F2F
+– Given n numbers having k unique numbers and rest repeated where k<<n, sort them in time complexity less than O(nlogn)
+– Sort array having numbers 1, 2, 3 only
+– One thread (for printing 1, 100 times) vs 10 threads ( each printing 1, 10 times), which one is better and why ?
+
+
+Implement stack using queue.
+
+
+Ref: https://www.youtube.com/watch?v=K6VBLJ4AR2Q  
+Round 4:
+1.
+
+
+Implement LRU cache.
+
+
+Questions on java concepts, design pattern and multithreading.
+
+

@@ -1,0 +1,156 @@
+Q2 :  https://www.geeksforgeeks.org/maximum-difference-between-two-elements/
+3 more MCQs in test.
+
+
+Q3:
+
+
+How would you make sure that this threat to read the message in between, is removed.
+
+
+Question 2: https://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxm-matrix/
+I solved this question pretty quickly.
+
+
+Question 2: He first gave a background on how the autocorrect feature in phone keypads work, explaining that the probability of the autocorrected word would be greater than the typed word.
+
+
+How will you differentiate the questions from google code jam and
+facebook hacker cup(As
+
+
+How C++ resolves it.
+
+
+Q-1:
+
+
+What data structure will you use.
+
+
+Why Microsoft, Why do you want to leave, Asked details of my last project.
+
+
+Algo Question:
+Check if given binary tree is binary search tree?
+
+
+How to handle the multiple thread case?
+
+
+What you explored outside of your current work.
+
+
+Explained about their work in detail.
+
+
+What is expected from the position, etc…
+
+Round-6(Skype-Redmond)(~45Mins)
+
+
+What was the duration of the project, and how many members involved?
+
+
+How many programming languages used?
+
+
+How many programming languages do you know?
+
+
+Which one are you most comfortable with?
+
+
+How to implement an interface in C++.
+etc..
+Algo Question:
+Given two linked lists sorted in ascending order, merge them into one linked list(Maintain Sorting).
+
+
+How do you generally approach the DP problem.
+
+
+How memory allocation is done.
+
+
+What they focussed more on was writing clean code and considering all the  corner cases .
+
+
+Q2 :  https://www.geeksforgeeks.org/maximum-difference-between-two-elements/
+3 more MCQs in test.
+
+
+Q3:
+
+
+How would you make sure that this threat to read the message in between, is removed.
+
+
+Question 2: https://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxm-matrix/
+I solved this question pretty quickly.
+
+
+Question 2: He first gave a background on how the autocorrect feature in phone keypads work, explaining that the probability of the autocorrected word would be greater than the typed word.
+
+
+How will you differentiate the questions from google code jam and
+facebook hacker cup(As
+
+
+How C++ resolves it.
+
+
+Q-1:
+
+
+What data structure will you use.
+
+
+Why Microsoft, Why do you want to leave, Asked details of my last project.
+
+
+Algo Question:
+Check if given binary tree is binary search tree?
+
+
+How to handle the multiple thread case?
+
+
+What you explored outside of your current work.
+
+
+Explained about their work in detail.
+
+
+What is expected from the position, etc…
+
+Round-6(Skype-Redmond)(~45Mins)
+
+
+What was the duration of the project, and how many members involved?
+
+
+How many programming languages used?
+
+
+How many programming languages do you know?
+
+
+Which one are you most comfortable with?
+
+
+How to implement an interface in C++.
+etc..
+Algo Question:
+Given two linked lists sorted in ascending order, merge them into one linked list(Maintain Sorting).
+
+
+How do you generally approach the DP problem.
+
+
+How memory allocation is done.
+
+
+What they focussed more on was writing clean code and considering all the  corner cases .
+
+

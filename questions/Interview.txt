@@ -1,0 +1,136 @@
+Round 1:
+First round was multiple choice question based on Core Java on inheritance, exception handling, type erasure, threading etc.
+Round 2:
+Second round was coding round and the questions asked to me to code was as follows –
+Priyanka works for an international toy company that ships by container. Her task is to the determine the lowest cost way to combine her orders for shipping.
+She has a list of item weights. The shipping company has a requirement that all items loaded in a container must weigh less than or equal to 4 units plus the weight of the minimum weight item. All items meeting that requirement will be shipped in one container.
+What is the smallest number of containers that can be contracted to ship the items based on the given list of weights?
+Input Format
+The first line contains an integer , the number of orders to ship.
+Next line will contain  integers,  , representing the orders in a weight array.
+Output Format
+Return the integer value of the number of containers Priyanka must contract ot ship all of the toys.
+Constraints
+
+
+Sample Input
+Sample Output
+Round 3:
+This round was face to face . He asked me questions on
+1.hibernate(versioning, many to one mapping etc..)
+2.code matrix problem . A 2n+1 (odd) size square matrix is given . We have to check if the centre element is equal to the individual sum of all the half diagonals in only ONE for loop . For example –
+5*5 matrix –
+M =   2   9   1   4   -2
+6   7   2   11   4
+4    2  9  2   4
+1   9   2    4   4
+0   2   4   2   5
+ 
+Sum of Half Diagonal 1 = 2+7=9
+Sum of Half Diagonal 2 = 9+0=9
+Sum of Half Diagonal 3 = 11 + -2 = 9
+Sum of Half Diagonal 4 = 5+4 = 9
+All the sums equal to the centre element that is M [2][2]=9, Hence return true or if any on of the sums of half diagonals doesnt match to the centre element, return false.
+ 
+3. a puzzle to find a defective ball amongst a collection of balls
+4. A way to synchronise booking of same seat on bookmyshow without using synchronisation like locks .
+Round 4:
+Design Round – Asked me to design a online retail System like Amazon taking into account the Customer, the Seller, the logistics and asked me to come up with database tables .
+Round 5 :
+Managerial Round –
+He asked me few questions on my previous projects, nature of work that i have done, few behavioural questions and one coding question.
+ 
+
+
+This article is based on my experience in the final year of my Engineering and how I prepared for the service-based companies and cracked their selection process. 
+
+Many of you are thinking that what is so difficult in cracking up these interviews and the selection process of the service-based company. But, I think it is a big deal when you are from a Tier-3 college and from a Non-CS branch. 
+So let us start, many of the service-based companies have sort of same selection process generally, they have the selection process like this: 
+Some of the companies have Written and Reading Skills Tests as well and some of them also have situation-based interview rounds. 
+So to prepare for Aptitude Tests you have to practice problems on topics like:
+You can take the help of Youtube or you can solve Aptitude problems which are asked in Government Exams. 
+To prepare for coding tests you should have a good grip on one of the Object-Oriented Programming Languages such as Java or C++. I would highly recommend using Java as it is slightly easy and I also suggest not using Python for these tests as it would not enhance your technical skills which would be helpful in Interview Rounds. 
+I recommend using the GeeksforGeeks’ Practice Portal as it has many questions regarding Data Structures and Algorithms. You should try almost 20-30 problems of Data Structures like Array, and Linked List. 
+If you want help from experts who knows what goes on behind the interview scenes in the top service based companies and how to ace interviews with ease, register for GeeksforGeeks’ Complete Test Series for Service-Based Companies where you can get uptodate mock test along with interview preparation by industry experts.
+It is highly recommended to not only prepare for coding tests but also for Interviews. 
+You can practice Interview questions by preparing from GeeksforGeeks’ Company Interview Corner and also for the HR interview you should have good knowledge of the company. On which projects the company is currently working on and also you should have good communicative skills. You can practice and improve your Communicative skills by reading books and also taking part in Mock Interviews in college and if not you can refer to Youtube to see the Interview Experience of a particular company. 
+Also, I recommend practising code not only on a compiler but also writing the code on a blank paper because many times Interviewer asks you to write code using a pen and a paper. 
+This article is written by Saksham Kapoor. Please feel free to ask any questions in the comments below.
+S
+
+
+I had three rounds: 
+My first round was telephonic interview and it lasted for about an hour and the questions covered entire breadth of core CS subjects, there were questions on Operating Systems,  questions on some SQL queries, Computer Networks, Computer Organisation, Digital Design,  some algorithms and there were some questions based on the projects i did (that was specified in Resume) i was asked questions on Android since i did a project on Android,and at last they asked me a puzzle on probability.
+In The second round (which was face to face interview), the emphasis was mostly on designing algorithms for some new problems, and they expected me to give optimal solutions, and they asked me to design web server and what are the various challenges you will be facing.
+The third round was the most critical one and the questions were mostly on C++ concepts and some operating system design issues (e.g., spin locks, semaphores, etc.,) and there were even questions on storage classes and how do you think they might be implemented, there were some questions on algorithms which were simple but there were many in-depth analysis on those questions (e.g., In finding the loop in the linked-list what happens when the fast pointer takes 3 steps instead of 2 does this algorithm does this algorithm converges,what is the condition under which the algorithm converges), they asked me to code some design patterns, and i was asked some puzzles to solve
+
+
+
+Round 1:
+First round was multiple choice question based on Core Java on inheritance, exception handling, type erasure, threading etc.
+Round 2:
+Second round was coding round and the questions asked to me to code was as follows –
+Priyanka works for an international toy company that ships by container. Her task is to the determine the lowest cost way to combine her orders for shipping.
+She has a list of item weights. The shipping company has a requirement that all items loaded in a container must weigh less than or equal to 4 units plus the weight of the minimum weight item. All items meeting that requirement will be shipped in one container.
+What is the smallest number of containers that can be contracted to ship the items based on the given list of weights?
+Input Format
+The first line contains an integer , the number of orders to ship.
+Next line will contain  integers,  , representing the orders in a weight array.
+Output Format
+Return the integer value of the number of containers Priyanka must contract ot ship all of the toys.
+Constraints
+
+
+Sample Input
+Sample Output
+Round 3:
+This round was face to face . He asked me questions on
+1.hibernate(versioning, many to one mapping etc..)
+2.code matrix problem . A 2n+1 (odd) size square matrix is given . We have to check if the centre element is equal to the individual sum of all the half diagonals in only ONE for loop . For example –
+5*5 matrix –
+M =   2   9   1   4   -2
+6   7   2   11   4
+4    2  9  2   4
+1   9   2    4   4
+0   2   4   2   5
+ 
+Sum of Half Diagonal 1 = 2+7=9
+Sum of Half Diagonal 2 = 9+0=9
+Sum of Half Diagonal 3 = 11 + -2 = 9
+Sum of Half Diagonal 4 = 5+4 = 9
+All the sums equal to the centre element that is M [2][2]=9, Hence return true or if any on of the sums of half diagonals doesnt match to the centre element, return false.
+ 
+3. a puzzle to find a defective ball amongst a collection of balls
+4. A way to synchronise booking of same seat on bookmyshow without using synchronisation like locks .
+Round 4:
+Design Round – Asked me to design a online retail System like Amazon taking into account the Customer, the Seller, the logistics and asked me to come up with database tables .
+Round 5 :
+Managerial Round –
+He asked me few questions on my previous projects, nature of work that i have done, few behavioural questions and one coding question.
+ 
+
+
+This article is based on my experience in the final year of my Engineering and how I prepared for the service-based companies and cracked their selection process. 
+
+Many of you are thinking that what is so difficult in cracking up these interviews and the selection process of the service-based company. But, I think it is a big deal when you are from a Tier-3 college and from a Non-CS branch. 
+So let us start, many of the service-based companies have sort of same selection process generally, they have the selection process like this: 
+Some of the companies have Written and Reading Skills Tests as well and some of them also have situation-based interview rounds. 
+So to prepare for Aptitude Tests you have to practice problems on topics like:
+You can take the help of Youtube or you can solve Aptitude problems which are asked in Government Exams. 
+To prepare for coding tests you should have a good grip on one of the Object-Oriented Programming Languages such as Java or C++. I would highly recommend using Java as it is slightly easy and I also suggest not using Python for these tests as it would not enhance your technical skills which would be helpful in Interview Rounds. 
+I recommend using the GeeksforGeeks’ Practice Portal as it has many questions regarding Data Structures and Algorithms. You should try almost 20-30 problems of Data Structures like Array, and Linked List. 
+If you want help from experts who knows what goes on behind the interview scenes in the top service based companies and how to ace interviews with ease, register for GeeksforGeeks’ Complete Test Series for Service-Based Companies where you can get uptodate mock test along with interview preparation by industry experts.
+It is highly recommended to not only prepare for coding tests but also for Interviews. 
+You can practice Interview questions by preparing from GeeksforGeeks’ Company Interview Corner and also for the HR interview you should have good knowledge of the company. On which projects the company is currently working on and also you should have good communicative skills. You can practice and improve your Communicative skills by reading books and also taking part in Mock Interviews in college and if not you can refer to Youtube to see the Interview Experience of a particular company. 
+Also, I recommend practising code not only on a compiler but also writing the code on a blank paper because many times Interviewer asks you to write code using a pen and a paper. 
+This article is written by Saksham Kapoor. Please feel free to ask any questions in the comments below.
+S
+
+
+I had three rounds: 
+My first round was telephonic interview and it lasted for about an hour and the questions covered entire breadth of core CS subjects, there were questions on Operating Systems,  questions on some SQL queries, Computer Networks, Computer Organisation, Digital Design,  some algorithms and there were some questions based on the projects i did (that was specified in Resume) i was asked questions on Android since i did a project on Android,and at last they asked me a puzzle on probability.
+In The second round (which was face to face interview), the emphasis was mostly on designing algorithms for some new problems, and they expected me to give optimal solutions, and they asked me to design web server and what are the various challenges you will be facing.
+The third round was the most critical one and the questions were mostly on C++ concepts and some operating system design issues (e.g., spin locks, semaphores, etc.,) and there were even questions on storage classes and how do you think they might be implemented, there were some questions on algorithms which were simple but there were many in-depth analysis on those questions (e.g., In finding the loop in the linked-list what happens when the fast pointer takes 3 steps instead of 2 does this algorithm does this algorithm converges,what is the condition under which the algorithm converges), they asked me to code some design patterns, and i was asked some puzzles to solve
+
+
+

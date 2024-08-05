@@ -1,0 +1,76 @@
+Question: Asked Javascript- asynchronous programming, eventloops in NodeJS, asked me the output of following JS program:-
+   for(var i=0;i<10;i++)
+     setTimeout(console.log(i), 10);
+What would happen if setTimeout is replaced with setTimeInterval?
+
+
+What would happen if var i=0 is replaced with let i=0 (Ans: It would produce error)
+
+
+What are closures in JavaScript?
+Q6.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is the difference between SQL and NOSQL databases?
+
+
+Advantages of NOSQL databases like Mongodb?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Can we have Relational DB in NOSQL?
+Q7.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Asked Javascript- asynchronous programming, eventloops in NodeJS, asked me the output of following JS program:-
+   for(var i=0;i<10;i++)
+     setTimeout(console.log(i), 10);
+What would happen if setTimeout is replaced with setTimeInterval?
+
+
+What would happen if var i=0 is replaced with let i=0 (Ans: It would produce error)
+
+
+What are closures in JavaScript?
+Q6.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is the difference between SQL and NOSQL databases?
+
+
+Advantages of NOSQL databases like Mongodb?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Can we have Relational DB in NOSQL?
+Q7.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

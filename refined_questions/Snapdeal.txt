@@ -1,0 +1,24 @@
+Question: How but
+
+
+Some HR questions like : Why snapdeal?
+5th HR  :
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How but
+
+
+Some HR questions like : Why snapdeal?
+5th HR  :
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

@@ -1,0 +1,40 @@
+how it hold the voltage?
+how request will come from host how it will be process by host layer / protocol layer/ application layer of SCSI.
+
+
+how error handling will be done in Firmware of SSD ?
+
+
+N to N flow of SSD firmware
+How PCIe /SAS work?
+
+
+register / volatile,
+bit operation along with how your solution will work.
+bit set ?
+
+
+5.Difference between c and c++ programming
+6.what is multi threaded programming?
+
+
+how it hold the voltage?
+how request will come from host how it will be process by host layer / protocol layer/ application layer of SCSI.
+
+
+how error handling will be done in Firmware of SSD ?
+
+
+N to N flow of SSD firmware
+How PCIe /SAS work?
+
+
+register / volatile,
+bit operation along with how your solution will work.
+bit set ?
+
+
+5.Difference between c and c++ programming
+6.what is multi threaded programming?
+
+

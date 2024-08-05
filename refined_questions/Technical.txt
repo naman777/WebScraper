@@ -1,0 +1,52 @@
+Question: Companies
+Recruitment Process
+Questions
+Problems
+It is obvious that each profile requires unique capabilities, so why do you need these question-and-answer sets?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How should I prepare for an interview with a tech company like Google?Ans: Focus on algorithm and data structure knowledge, practice coding problems, and be ready for behavioral questions that assess problem-solving and teamwork skills.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What are common interview questions for a software engineering position?Ans: Expect questions about your coding skills, problem-solving approach, and knowledge of relevant technologies.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How can I prepare for a finance-related interview?Ans: Brush up on financial concepts, and accounting principles, and be prepared to discuss your analytical and problem-solving skills.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Q4: What should I focus on when preparing for an interview with a consulting firm like McKinsey?Ans: Emphasize problem-solving abilities, and case study practice, and showcase your communication and analytical skills.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How do I prepare for a marketing job interview?Ans: Showcase your understanding of marketing principles, be ready to discuss your past campaigns, and demonstrate creativity.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

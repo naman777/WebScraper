@@ -1,0 +1,20 @@
+Question: What is the minimum number of straight lines to connect all the dots on this grid?
+Round 3:
+1.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is the minimum number of straight lines to connect all the dots on this grid?
+Round 3:
+1.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

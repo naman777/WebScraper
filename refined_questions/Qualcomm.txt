@@ -1,0 +1,182 @@
+Question: why I want to change the company?
+
+
+why I want to join Qualcomm?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 4. Why Qualcomm?
+
+
+Relocation?
+
+
+salary expectation?
+NOTE:
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Explain BE project (Satellite image processing)
+
+
+How to find loops in linked list?
+4.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How pivot element in quick sort affects the timing complexity?
+
+
+Questions on internship experience (Computer Vision domain)
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How simulation model of any HW is designed?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How you compare outputs of HW model and equivalent SW model?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What are timing complexity notations?
+4.
+
+
+Steps in SAP BI?
+7.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: It completed the total work in 15 days then how many days it require to completed 50% of work?
+
+R
+
+
+Round 1: Phone Interview – Lasted for 45 minutes(Originally scheduled for 30 minutes).
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: why I want to change the company?
+
+
+why I want to join Qualcomm?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 4. Why Qualcomm?
+
+
+Relocation?
+
+
+salary expectation?
+NOTE:
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Explain BE project (Satellite image processing)
+
+
+How to find loops in linked list?
+4.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How pivot element in quick sort affects the timing complexity?
+
+
+Questions on internship experience (Computer Vision domain)
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How simulation model of any HW is designed?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How you compare outputs of HW model and equivalent SW model?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What are timing complexity notations?
+4.
+
+
+Steps in SAP BI?
+7.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: It completed the total work in 15 days then how many days it require to completed 50% of work?
+
+R
+
+
+Round 1: Phone Interview – Lasted for 45 minutes(Originally scheduled for 30 minutes).
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

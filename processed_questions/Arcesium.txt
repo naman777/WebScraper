@@ -1,0 +1,18 @@
+Singleton Design Pattern (double locking mechanism vs Enum )
+e) How would you implement transactions in a Netbanking software, where multiple users are transferring and withdrawing money from multiple accounts?
+
+
+What is weak reference in Java and how it is used?
+i) Reason for joining Arcesium
+I answered all the questions correctly with some help from the interviewers who were very helpful, whenever I was stuck.
+
+
+Singleton Design Pattern (double locking mechanism vs Enum )
+e) How would you implement transactions in a Netbanking software, where multiple users are transferring and withdrawing money from multiple accounts?
+
+
+What is weak reference in Java and how it is used?
+i) Reason for joining Arcesium
+I answered all the questions correctly with some help from the interviewers who were very helpful, whenever I was stuck.
+
+

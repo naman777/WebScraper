@@ -1,0 +1,60 @@
+2. Rate yourself in DS and OOP and explain why?
+3.
+
+
+What the difference and similarity between Array and Linked List?
+4.
+
+
+Why we can do random access in Arrays?
+5.
+
+
+What are the data structures you have used in your project till now?
+6.
+
+
+What is hash table and where we can use them?
+7.
+
+
+How the hash table data saved internally in memory?
+7.
+
+
+What is time complexity and space complexity in how we calculate them for a algorithm?
+
+
+Q 3.
+
+
+2. Rate yourself in DS and OOP and explain why?
+3.
+
+
+What the difference and similarity between Array and Linked List?
+4.
+
+
+Why we can do random access in Arrays?
+5.
+
+
+What are the data structures you have used in your project till now?
+6.
+
+
+What is hash table and where we can use them?
+7.
+
+
+How the hash table data saved internally in memory?
+7.
+
+
+What is time complexity and space complexity in how we calculate them for a algorithm?
+
+
+Q 3.
+
+

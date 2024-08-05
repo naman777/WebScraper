@@ -1,0 +1,57 @@
+Question: What is object immutability?
+
+
+How to create immutable objects in Java?
+
+
+2. Difference between synchronous and asynchronous communication?
+
+
+Explain asynchronous communication protocols.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How can we break the singleton property?
+4.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is object immutability?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How to create immutable objects in Java?
+
+
+2. Difference between synchronous and asynchronous communication?
+
+
+Explain asynchronous communication protocols.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How can we break the singleton property?
+4.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

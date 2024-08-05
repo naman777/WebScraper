@@ -1,0 +1,57 @@
+Question: What is Systems Design - Learn System Design
+Functional vs Non Functional Requirements
+What are the components of System Design?
+Analysis of Monolithic and Distributed Systems - Learn System Design
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What are Microservices?
+What is Scalability and How to achieve it?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How does the process of developing a system differ from designing a system?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is Low Level Design or LLD - Learn System Design
+
+3 articles
+Design Media Sharing Social Networking System
+System Design of Youtube - A Complete Architecture
+Designing Twitter - A System Design Interview Question
+
+1 articles
+
+
+How can I start this course?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Is this course for newbies?
+
+
+Quorums are crucial for maintaining data consistency and availability, especially in scenarios prone to network partitions.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

@@ -1,0 +1,260 @@
+I recently got a call from Qualcomm Hyderabad for Engineer position. I am from CS background and had 1 year experience.
+There are #3 Tech Rounds and #1 Hr round.
+Round 1:
+1. Discussion about my last company, what they do and what is my role.
+2. Interviewer started with my resume and asked about my projects. One of the project is related to C so he asked me to code a small module in that.
+3. Memory layout of the C program, Heap & stack allocation. Malloc & calloc differences. storage classes in C.
+4. Fibonnaci with recursion and its time complexity derivation.
+5. Operating system synchronization mechanism, mutex vs semaphores, monitors.
+Round 2:
+1. Bit manipulation questions, Little and Big endian conversions.
+2. Questions on compiler design, they want me to tell the steps and what happens in each step inshort like preprocessor, compiler, assembler, linker, loader etc. In which stage error will be thrown and how it throw the error.
+3. Design a system which accepts a number divisible by 5. Hint finite automata state daigram for mod 5
+4. Many questions on static variable and static function and difference between static vs global vs extern.
+5. Reading a paragraph from a file and print the palindromes.
+Round 3:
+1. Discussion about my last company, what they do, what is my role, why I want to change.
+2. Discussion about my projects. And the toughest module among all the projects I have done, why it is tough, what are the different approaches I tried.
+3. write a program to find the number in a sorted array. constraints: you don’t know the size of the array and you should try without finding the array size.
+(Hint: Use exceptions).
+I have done using array out of bound exception and later optimized using binary search.
+4. Oops concepts, Static and dynamic polymorphism, Vtable, Vptr.
+5. Questions on Inheritance,  upcasting and downcasting.
+6. Cache mechanism in computer architecture, L1 and L2.
+Round 4: (HR)
+1. why I want to change the company?
+2. why I want to join Qualcomm?
+3. He explained about the work culture and about qualcomm.
+4. What are my strengths and weakness. 
+HR round is really cool, we had this round by having coffee in Cafeteria.
+
+
+
+It was really good experience at Qualcomm. I was interviewed for Associate Software Engineer and have an experience of an year, first by telephonic round and then F2F interview.
+Round-1 Telephonic around: 70 minutes (Taken by 2 persons)
+1. All they asked at first was about Projects done in my company and at college level.
+2. Then main thing they ask was OS and its concepts:
+         a. Memory management.
+         b. CPU scheduling.
+         c. Deadlock and its real time examples.
+         d. Questions on how two processes can communicate in OS, give different ways.
+3. Coding questions:
+         a. Reverse a linked list. 
+         b. Print left view of a binary tree.
+         c. Implement your own memcpy.
+After completion of this round they asked me if I can travel to Hyderabad for further rounds.At 7th January 2017 I gave F2F interview.
+Round-2 F2F:120 minutes
+He started with simple intro then explained me the position for which interview was going on.
+1. Then after he asked me about all of the projects on which I have worked till this time.
+He also asked different situations like how you use to fix the issues of memory overflow, crashes in your current company.
+2. Questions on big and little endian:
+           a. Their notation and what are the different OS which one is big endian and which one is little endian.
+            b. You have one code now this code must work on both little and big endian in same way how will you do that: I gave solution of having different macros for different OS like for linux, windows it will work as little endian and another macro for SUN and motorola OS it will work as big endian.
+           c. Some more explanations on  this topic only.
+3. Find the word in given para :
+           This is my island of love and it is meant for kids of 10 years.
+     Now you have to find word ‘is’ in this given para(word can come in other word) whose count is 4. Then implement the same logic, if you have to find ‘is’ if it separate word.
+They asked me the different solutions for this question using “strcmp” and your own logic.
+I gave solutions via hashMap and normal word searching and strcmp.
+4. He gave me 10 output questions based on pointers.
+5. Again he asked me some basic questions on programming like one x.h file is included in another y.cpp file and x.h file is included in z.h file and z.h is included in a.cpp now asked me several questions like which file have which variable accessed and what is the order of print statements and etc questions.
+
+Round-3 F2F: 80 minutes
+In this round he asked me about questions asked in previous round.
+1. Then he started with questions on OS
+         a. Process and thread difference.
+         b. How will you handle 2 thread working on same MAP.Then asked several questions on mutex and different types of locking systems.
+         c. Questions on Storage classes in C.
+2. Reverse the bits of a number.
+3. Min distance between two given nodes of a Binary Tree 
+    In the above question he asked me about call stack of the program.
+4. Use of stack and queue DS.
+5. Difference between stack and heap memory. Asked me to explain by writing a simple program.
+6. Questions on Function pointers and usage.
+Round-4 F2F: 80 minutes
+This round was more logical and was tough because in this round I was asked basic questions on pointers and how memory is accessed by different functions.
+1. He asked me to explain Inline function.Then asked me which are the cases where inline would not work.He asked me internals of inline how it works and why this function works more faster then any other normal function.He asked me is there is any common thing between function pointer and inline function.
+Afterwards he also explained some points in this topic to me.
+2. He told me to write my own sizeof operator (https://www.geeksforgeeks.org/implement-your-own-sizeof/)
+3. Program to Detect loop in a circular linked list.
+4. He also asked the question : Reverse the bits of a number and count the number of set bits in the given number.
+5. Many questions on static variable and static function.
+Round-5 F2F: 20-30 minutes [Manager round, HR round]
+1. He asked me about my previous company and projects done there.
+2. Then explained about the position.
+3. He asked me about my joining and all and all basic questions is work interesting or not.
+4. Why Qualcomm? Relocation? salary expectation?
+NOTE: One must be clear with pointers and memory management and DS questions. Basics of C is they ask a lot.
+
+
+
+I have applied for Graphics Software Engineer position through LinkedIn. I was called for interview after 2 weeks of applying. Interview took place in Bangalore office.
+Round 1 (60 minute):
+1. Explain BE project (Satellite image processing)
+2. BFS and DFS (Example and code)
+3. How to find loops in linked list?
+4. Merge sort ad Quick sort (Code and timing complexity)
+5. How pivot element in quick sort affects the timing complexity?
+6. Binary search
+7. Virtual function
+8. Overloading vs Overriding
+9. Find the intersection of two linked list (2 methods: brute force and nlogn complexity one)
+Round 2 (30 min):
+1. Questions on internship experience (Computer Vision domain)
+2. Multidimensional images
+3. Masking operation
+4. Edge detection
+5. Face detection
+6. General steps in image processing
+7. Image segmentation techniques
+8. How simulation model of any HW is designed?
+9. How you compare outputs of HW model and equivalent SW model?
+Round 3 (30 min):
+1. malloc vs calloc
+2. Write a python script to find an occurrence of a word in file
+3. What are timing complexity notations?
+4. Create and insert function in Binary search tree (BST)
+5. Access specifiers with example
+6. 1 year job experience (SAP BI). Steps in SAP BI?
+7. Puzzle: With minimum number of moves change given shape ito another shape (matchstick)
+6. Puzzle: One man does the exact double amount of work than the previous day. It completed the total work in 15 days then how many days it require to completed 50% of work?
+
+R
+
+
+Round 1: Phone Interview – Lasted for 45 minutes(Originally scheduled for 30 minutes).
+Questions involved about resume and projects.
+Understanding of data structures.
+ 
+
+
+I recently got a call from Qualcomm Hyderabad for Engineer position. I am from CS background and had 1 year experience.
+There are #3 Tech Rounds and #1 Hr round.
+Round 1:
+1. Discussion about my last company, what they do and what is my role.
+2. Interviewer started with my resume and asked about my projects. One of the project is related to C so he asked me to code a small module in that.
+3. Memory layout of the C program, Heap & stack allocation. Malloc & calloc differences. storage classes in C.
+4. Fibonnaci with recursion and its time complexity derivation.
+5. Operating system synchronization mechanism, mutex vs semaphores, monitors.
+Round 2:
+1. Bit manipulation questions, Little and Big endian conversions.
+2. Questions on compiler design, they want me to tell the steps and what happens in each step inshort like preprocessor, compiler, assembler, linker, loader etc. In which stage error will be thrown and how it throw the error.
+3. Design a system which accepts a number divisible by 5. Hint finite automata state daigram for mod 5
+4. Many questions on static variable and static function and difference between static vs global vs extern.
+5. Reading a paragraph from a file and print the palindromes.
+Round 3:
+1. Discussion about my last company, what they do, what is my role, why I want to change.
+2. Discussion about my projects. And the toughest module among all the projects I have done, why it is tough, what are the different approaches I tried.
+3. write a program to find the number in a sorted array. constraints: you don’t know the size of the array and you should try without finding the array size.
+(Hint: Use exceptions).
+I have done using array out of bound exception and later optimized using binary search.
+4. Oops concepts, Static and dynamic polymorphism, Vtable, Vptr.
+5. Questions on Inheritance,  upcasting and downcasting.
+6. Cache mechanism in computer architecture, L1 and L2.
+Round 4: (HR)
+1. why I want to change the company?
+2. why I want to join Qualcomm?
+3. He explained about the work culture and about qualcomm.
+4. What are my strengths and weakness. 
+HR round is really cool, we had this round by having coffee in Cafeteria.
+
+
+
+It was really good experience at Qualcomm. I was interviewed for Associate Software Engineer and have an experience of an year, first by telephonic round and then F2F interview.
+Round-1 Telephonic around: 70 minutes (Taken by 2 persons)
+1. All they asked at first was about Projects done in my company and at college level.
+2. Then main thing they ask was OS and its concepts:
+         a. Memory management.
+         b. CPU scheduling.
+         c. Deadlock and its real time examples.
+         d. Questions on how two processes can communicate in OS, give different ways.
+3. Coding questions:
+         a. Reverse a linked list. 
+         b. Print left view of a binary tree.
+         c. Implement your own memcpy.
+After completion of this round they asked me if I can travel to Hyderabad for further rounds.At 7th January 2017 I gave F2F interview.
+Round-2 F2F:120 minutes
+He started with simple intro then explained me the position for which interview was going on.
+1. Then after he asked me about all of the projects on which I have worked till this time.
+He also asked different situations like how you use to fix the issues of memory overflow, crashes in your current company.
+2. Questions on big and little endian:
+           a. Their notation and what are the different OS which one is big endian and which one is little endian.
+            b. You have one code now this code must work on both little and big endian in same way how will you do that: I gave solution of having different macros for different OS like for linux, windows it will work as little endian and another macro for SUN and motorola OS it will work as big endian.
+           c. Some more explanations on  this topic only.
+3. Find the word in given para :
+           This is my island of love and it is meant for kids of 10 years.
+     Now you have to find word ‘is’ in this given para(word can come in other word) whose count is 4. Then implement the same logic, if you have to find ‘is’ if it separate word.
+They asked me the different solutions for this question using “strcmp” and your own logic.
+I gave solutions via hashMap and normal word searching and strcmp.
+4. He gave me 10 output questions based on pointers.
+5. Again he asked me some basic questions on programming like one x.h file is included in another y.cpp file and x.h file is included in z.h file and z.h is included in a.cpp now asked me several questions like which file have which variable accessed and what is the order of print statements and etc questions.
+
+Round-3 F2F: 80 minutes
+In this round he asked me about questions asked in previous round.
+1. Then he started with questions on OS
+         a. Process and thread difference.
+         b. How will you handle 2 thread working on same MAP.Then asked several questions on mutex and different types of locking systems.
+         c. Questions on Storage classes in C.
+2. Reverse the bits of a number.
+3. Min distance between two given nodes of a Binary Tree 
+    In the above question he asked me about call stack of the program.
+4. Use of stack and queue DS.
+5. Difference between stack and heap memory. Asked me to explain by writing a simple program.
+6. Questions on Function pointers and usage.
+Round-4 F2F: 80 minutes
+This round was more logical and was tough because in this round I was asked basic questions on pointers and how memory is accessed by different functions.
+1. He asked me to explain Inline function.Then asked me which are the cases where inline would not work.He asked me internals of inline how it works and why this function works more faster then any other normal function.He asked me is there is any common thing between function pointer and inline function.
+Afterwards he also explained some points in this topic to me.
+2. He told me to write my own sizeof operator (https://www.geeksforgeeks.org/implement-your-own-sizeof/)
+3. Program to Detect loop in a circular linked list.
+4. He also asked the question : Reverse the bits of a number and count the number of set bits in the given number.
+5. Many questions on static variable and static function.
+Round-5 F2F: 20-30 minutes [Manager round, HR round]
+1. He asked me about my previous company and projects done there.
+2. Then explained about the position.
+3. He asked me about my joining and all and all basic questions is work interesting or not.
+4. Why Qualcomm? Relocation? salary expectation?
+NOTE: One must be clear with pointers and memory management and DS questions. Basics of C is they ask a lot.
+
+
+
+I have applied for Graphics Software Engineer position through LinkedIn. I was called for interview after 2 weeks of applying. Interview took place in Bangalore office.
+Round 1 (60 minute):
+1. Explain BE project (Satellite image processing)
+2. BFS and DFS (Example and code)
+3. How to find loops in linked list?
+4. Merge sort ad Quick sort (Code and timing complexity)
+5. How pivot element in quick sort affects the timing complexity?
+6. Binary search
+7. Virtual function
+8. Overloading vs Overriding
+9. Find the intersection of two linked list (2 methods: brute force and nlogn complexity one)
+Round 2 (30 min):
+1. Questions on internship experience (Computer Vision domain)
+2. Multidimensional images
+3. Masking operation
+4. Edge detection
+5. Face detection
+6. General steps in image processing
+7. Image segmentation techniques
+8. How simulation model of any HW is designed?
+9. How you compare outputs of HW model and equivalent SW model?
+Round 3 (30 min):
+1. malloc vs calloc
+2. Write a python script to find an occurrence of a word in file
+3. What are timing complexity notations?
+4. Create and insert function in Binary search tree (BST)
+5. Access specifiers with example
+6. 1 year job experience (SAP BI). Steps in SAP BI?
+7. Puzzle: With minimum number of moves change given shape ito another shape (matchstick)
+6. Puzzle: One man does the exact double amount of work than the previous day. It completed the total work in 15 days then how many days it require to completed 50% of work?
+
+R
+
+
+Round 1: Phone Interview – Lasted for 45 minutes(Originally scheduled for 30 minutes).
+Questions involved about resume and projects.
+Understanding of data structures.
+ 
+
+

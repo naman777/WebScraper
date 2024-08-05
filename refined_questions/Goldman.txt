@@ -1,0 +1,148 @@
+Question: Round 1:
+After asking for a brief intro, the interviewer started by asking Java questions which were: OOPs concepts of Java, what is runtime polymorphism, overloading/overriding, how many collections you have used in Java, how does Hashmap works, what is a contract between equals and hashcode?
+
+
+:P)
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Round 2:
+Here too, the interviewer started by asking java questions: What is the difference between string, string buffer and string builder, what does final keyword do, when can final variable value be changed, what is classpath in java?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: The question was like: How many total constituencies are there?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Which all candidates are contesting?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Which candidate represents which party?
+
+
+How many male/female candidates won and with how many votes?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: So if I give you the opportunity to go first, which move you’ll start with to ensure victory?
+After this, some discussion happened on GS and its workings.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How did you handle it and the conclusion?
+2.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: He changed errors to warnings then, said, Developers many times ignore them, but can they be of any use?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Round 1:
+After asking for a brief intro, the interviewer started by asking Java questions which were: OOPs concepts of Java, what is runtime polymorphism, overloading/overriding, how many collections you have used in Java, how does Hashmap works, what is a contract between equals and hashcode?
+
+
+:P)
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Round 2:
+Here too, the interviewer started by asking java questions: What is the difference between string, string buffer and string builder, what does final keyword do, when can final variable value be changed, what is classpath in java?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: The question was like: How many total constituencies are there?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Which all candidates are contesting?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Which candidate represents which party?
+
+
+How many male/female candidates won and with how many votes?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: So if I give you the opportunity to go first, which move you’ll start with to ensure victory?
+After this, some discussion happened on GS and its workings.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How did you handle it and the conclusion?
+2.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: He changed errors to warnings then, said, Developers many times ignore them, but can they be of any use?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

@@ -1,0 +1,68 @@
+Questions on Java : manipulation, string
+2.
+
+
+Round 1 
+1: If there is sudden cut off in power and you have to save the clients important data from a web browser, so that it can be recovered , how would you do that?
+2: Difference between Object,Class,Reference with example.
+
+
+Round 4
+1: why you are switching your current job?
+
+
+2: Why Oracle?
+3: State any two unique ideas on which we can build a mobile app.
+
+
+Determine whether its valid log file i.e. all statements properly logged or not ?
+	– XML file validation
+	– Managerial Questions
+Round 4:
+	– Questions on Threads, HashMap, etc
+	– find a number between 1 and 100, that generates longest series using following rules:
+		if n is odd, next n = 3n + 1
+		if n is even, next n = n/2
+		if n == 1, terminate
+Round 5:
+	– Managerial questions
+
+
+
+Oracle 3 years Java Experienced Kolkata location.
+
+
+Questions on Java : manipulation, string
+2.
+
+
+Round 1 
+1: If there is sudden cut off in power and you have to save the clients important data from a web browser, so that it can be recovered , how would you do that?
+2: Difference between Object,Class,Reference with example.
+
+
+Round 4
+1: why you are switching your current job?
+
+
+2: Why Oracle?
+3: State any two unique ideas on which we can build a mobile app.
+
+
+Determine whether its valid log file i.e. all statements properly logged or not ?
+	– XML file validation
+	– Managerial Questions
+Round 4:
+	– Questions on Threads, HashMap, etc
+	– find a number between 1 and 100, that generates longest series using following rules:
+		if n is odd, next n = 3n + 1
+		if n is even, next n = n/2
+		if n == 1, terminate
+Round 5:
+	– Managerial questions
+
+
+
+Oracle 3 years Java Experienced Kolkata location.
+
+

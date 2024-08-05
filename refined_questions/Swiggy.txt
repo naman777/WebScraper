@@ -1,0 +1,23 @@
+Question: F2F – Hiring Manager Round
+Discussion about work, challenges, ownership, why swiggy?
+
+
+
+
+1.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: F2F – Hiring Manager Round
+Discussion about work, challenges, ownership, why swiggy?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

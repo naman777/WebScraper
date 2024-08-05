@@ -1,0 +1,32 @@
+What is object immutability?
+
+
+How to create immutable objects in Java?
+
+
+2. Difference between synchronous and asynchronous communication?
+
+
+Explain asynchronous communication protocols.
+
+
+How can we break the singleton property?
+4.
+
+
+What is object immutability?
+
+
+How to create immutable objects in Java?
+
+
+2. Difference between synchronous and asynchronous communication?
+
+
+Explain asynchronous communication protocols.
+
+
+How can we break the singleton property?
+4.
+
+

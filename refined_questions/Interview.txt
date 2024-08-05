@@ -1,0 +1,16 @@
+Question: What is the smallest number of containers that can be contracted to ship the items based on the given list of weights?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is the smallest number of containers that can be contracted to ship the items based on the given list of weights?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

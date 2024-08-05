@@ -1,0 +1,902 @@
+Question: What’s your role?
+
+
+Questions on current project.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is the efficient way to navigate from str1 to str2?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: For example, if the input string is “aaabcdeeee”, then the function should return “a3b1c1d1e4?.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Given an integer array and a constant number X, print all pair of number in the array whose product is equal to X.
+follow ups: how will you do in O(n)?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: how will you handle duplicate pairs?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Example: Input String: String str=”a??a” Output: 26
+3.
+
+
+4th Round (Hiring Manager Round):
+Detailed discussion about previous company work?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Why I want to leave my previous employer?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Why Amazon?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What if I don’t like the work?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What are challenges I have faced in my work, how I resolved it?
+Weakness and strength?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What does router do, what is static routing?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Given a routing table, how would you decrease the time taken by router to decide to which router packet must be forwarded?
+Details of algorithm that could be implemented and discussion time and space complexities.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is LRU and implementation of lru?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: All edge cases are to be covered in code?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is Readers-Writers problem?
+
+
+Explain solution with code.
+4) Difference between TCP and UDP.
+
+
+2) Why do you want to change your current company?
+
+
+Why Amazon?
+3) Tell me about your current Projects.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is your role?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Tell me about yourself.
+3) Why do you want to change your current company?
+
+
+Why Amazon?
+4) Tell me about your current Projects.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is your role?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Draw the architecture of this project.
+5) Then one of the interviewer gave a C code snippet and asked me what this piece of code does?
+What the problems that you see in this code?
+6) Connect all the siblings node in a binary tree.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Time-> n(log k)
+then the question was changed to -> now that we have several computers which can combine to fit the entire set of stars, how will you then solve it?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Why do you want to change your current company?
+
+
+Why Amazon?
+3.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Why do you want to change your current company?
+
+
+Why Amazon?
+4.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How Have You Gone Above and Beyond in Your Work?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is your role?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 6.
+
+
+Find minimum number of coins that make a given value
+Given a value V, if we want to make change for V cents, and we have infinite supply of each of C = { C1, C2, .. , Cm} valued coins, what is the minimum number of coins to make the change?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Why do you want to leave the current company
+ 3.
+
+
+Why Amazon?
+ 4.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What data structure will you use to store songs?
+
+
+Q2)
+
+
+Q4) Give me an example of a project that didn’t work out well?
+Q5)
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What are some of the things that you and your supervisor have disagreed about?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Did you ever have a boss that you did not like or get along with?
+Q3)
+
+
+Q4) Move all zeroes to end of array.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: https://www.careercup.com/question?id=5638261762424832
+5th Round (Bar Raiser):
+1.
+
+
+Why Amazon?
+3.
+
+
+Why leaving current company?
+4. Evaluation of Postfix Expression 
+5.
+
+
+Questions :
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: As I reached to 25th Floor of WTC, Brigade Gateway, we 25 people were asked to write code for these 3 questions on paper (OnSite Written Round) :
+
+
+Why Amazon ?
+3.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: If you have indefinite budget and indefinite time, what type of project would do ?
+4.
+
+
+Question 1 :
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How will you find the median?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How will you implement it?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: (1) Which Sorting Algorithm is the fastest and why would you prefer it over others ?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Determine if it is a palindrome or not?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How do you measure your success in the whole year?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Why you want to leave the firm so early?
+
+
+Why Amazon.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Solution: GeeksforGeeks Link
+Solved it using Binary search tree
+
+Face to Face Rounds?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is so special about typescript that both Angular and React included it in the recent versions.
+
+
+– A very detailed description of technical challenge faced (it includes HLD, LLD and the solution offered)
+– Design google’s Autocomplete feature.
+– Which areas of yours would you like to improve upon?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Time when you did not agree with your manager.
+– have you lead anyone ?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: how do you review code ?
+– how do you review design?
+–
+
+
+What are you weaknesses ?
+– Any project which you feel proud for?
+
+
+Question 1: Given a matrix of ‘0’ and ‘1’, find the largest Iceland (i.e area of  ‘1’s)
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Question 2.
+
+
+Round 2: FTF Interview (Around 90 mins):
+The interviewer asked me some HR questions like Why Amazon? , Introduce myself 
+Reverse every k node.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What’s your role?
+
+
+Questions on current project.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is the efficient way to navigate from str1 to str2?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: For example, if the input string is “aaabcdeeee”, then the function should return “a3b1c1d1e4?.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Given an integer array and a constant number X, print all pair of number in the array whose product is equal to X.
+follow ups: how will you do in O(n)?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: how will you handle duplicate pairs?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Example: Input String: String str=”a??a” Output: 26
+3.
+
+
+4th Round (Hiring Manager Round):
+Detailed discussion about previous company work?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Why I want to leave my previous employer?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Why Amazon?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What if I don’t like the work?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What are challenges I have faced in my work, how I resolved it?
+Weakness and strength?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What does router do, what is static routing?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Given a routing table, how would you decrease the time taken by router to decide to which router packet must be forwarded?
+Details of algorithm that could be implemented and discussion time and space complexities.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is LRU and implementation of lru?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: All edge cases are to be covered in code?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is Readers-Writers problem?
+
+
+Explain solution with code.
+4) Difference between TCP and UDP.
+
+
+2) Why do you want to change your current company?
+
+
+Why Amazon?
+3) Tell me about your current Projects.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is your role?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Tell me about yourself.
+3) Why do you want to change your current company?
+
+
+Why Amazon?
+4) Tell me about your current Projects.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is your role?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Draw the architecture of this project.
+5) Then one of the interviewer gave a C code snippet and asked me what this piece of code does?
+What the problems that you see in this code?
+6) Connect all the siblings node in a binary tree.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Time-> n(log k)
+then the question was changed to -> now that we have several computers which can combine to fit the entire set of stars, how will you then solve it?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Why do you want to change your current company?
+
+
+Why Amazon?
+3.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Why do you want to change your current company?
+
+
+Why Amazon?
+4.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How Have You Gone Above and Beyond in Your Work?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is your role?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 6.
+
+
+Find minimum number of coins that make a given value
+Given a value V, if we want to make change for V cents, and we have infinite supply of each of C = { C1, C2, .. , Cm} valued coins, what is the minimum number of coins to make the change?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Why do you want to leave the current company
+ 3.
+
+
+Why Amazon?
+ 4.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What data structure will you use to store songs?
+
+
+Q2)
+
+
+Q4) Give me an example of a project that didn’t work out well?
+Q5)
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What are some of the things that you and your supervisor have disagreed about?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Did you ever have a boss that you did not like or get along with?
+Q3)
+
+
+Q4) Move all zeroes to end of array.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: https://www.careercup.com/question?id=5638261762424832
+5th Round (Bar Raiser):
+1.
+
+
+Why Amazon?
+3.
+
+
+Why leaving current company?
+4. Evaluation of Postfix Expression 
+5.
+
+
+Questions :
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: As I reached to 25th Floor of WTC, Brigade Gateway, we 25 people were asked to write code for these 3 questions on paper (OnSite Written Round) :
+
+
+Why Amazon ?
+3.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: If you have indefinite budget and indefinite time, what type of project would do ?
+4.
+
+
+Question 1 :
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How will you find the median?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How will you implement it?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: (1) Which Sorting Algorithm is the fastest and why would you prefer it over others ?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Determine if it is a palindrome or not?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How do you measure your success in the whole year?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Why you want to leave the firm so early?
+
+
+Why Amazon.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Solution: GeeksforGeeks Link
+Solved it using Binary search tree
+
+Face to Face Rounds?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is so special about typescript that both Angular and React included it in the recent versions.
+
+
+– A very detailed description of technical challenge faced (it includes HLD, LLD and the solution offered)
+– Design google’s Autocomplete feature.
+– Which areas of yours would you like to improve upon?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Time when you did not agree with your manager.
+– have you lead anyone ?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: how do you review code ?
+– how do you review design?
+–
+
+
+What are you weaknesses ?
+– Any project which you feel proud for?
+
+
+Question 1: Given a matrix of ‘0’ and ‘1’, find the largest Iceland (i.e area of  ‘1’s)
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Question 2.
+
+
+Round 2: FTF Interview (Around 90 mins):
+The interviewer asked me some HR questions like Why Amazon? , Introduce myself 
+Reverse every k node.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

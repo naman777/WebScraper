@@ -1,0 +1,6 @@
+What is the smallest number of containers that can be contracted to ship the items based on the given list of weights?
+
+
+What is the smallest number of containers that can be contracted to ship the items based on the given list of weights?
+
+

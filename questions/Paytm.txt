@@ -1,0 +1,300 @@
+It was a walk-in for experienced candidates actually. 
+Some questions about the recommendation system that I built, which algorithm have I used ?, what is item-item collaborative filtering?
+Then he asked me if I have any questions for him.
+Q1. Given a online movie ticket booking system, he wanted to know how can we handle simultaneous requests for same seat so that it should just be assigned to single user. how it can be done using MySQL, then how with REDIS. Asked some select and update queries in mysql.
+Q2. What are the different architectures we can use for user session management, discussion on client side session management, server side session management, what if one of the servers crashed.
+Q3. Given a m x n array in which each row consists of zeros and ones (zeros are present from left to right in a given row), find the row with maximum number of zeros.
+Q4. How does Elasticsearch store data, what is inverted indexing.
+
+
+
+Brief intro
+Discussion about Projects and work ex.
+Why are you using aerospike?
+Given a matrix sorted only row-wise, search a number in it. (Complexity O(log(m+n))).
+Brief intro
+Discussion about project
+Why are you using aerospike?
+Design a hashmap.
+Relationship between equals() and hashcode().
+Find a loop in linked list
+Given a string, print it in reverse order word by word. E.g. “Name is XYZ” -> “XYZ is Name”. First without any java function, then with built in java functions.
+Given a file, read it line by line, and print occurrences of each word in a line.
+Difference between StringBuilder and StringBuffer.
+Design a singleton class. Then make it thread safe. Then improve its performance by double checked locking.
+What is volatile.
+Brief intro
+Discussion about project
+Why are you using aerospike?
+Given a very long array of numbers, segregate it by odd and even placed numbers such that all the even placed numbers are in front and all the odd placed numbers after that. Space complexity should be constant and order must be maintained. Eg. 1,2,3,4,5,6,7,8,9 → 2,4,6,8,1,3,5,7,9
+Design of hashmap. What is its worst case complexity? How can you improve the worst case complexity of hashmap?
+Write a bug-free code for BST insertion. Write bug-free code to balance it.
+Brief intro
+Discussion about project
+What is aerospike XDR?
+How will you make a list unmodifiable? Eg List list = {1,2,3,4,5}. Now list cannot add or remove any element.
+Write code for an enum. How will you get ordinality for an enum? How can your enum A extends some class B?
+Difference between List<?> and List<Object>
+List<?> list1 = new ArrayList<?>();
+List<Object> list2 = new ArrayList<Object>();
+List<String> list3 = new ArrayList<String>();
+List1 = list3;
+List1 = (List<String>)list2;
+What will be its output?
+Design a hashmap.
+Relationship between equals() and hashcode().
+ 
+ 
+
+
+
+I want to share my interview experience with Paytm with all of you.
+
+
+
+I answered almost all questions of 2nd Round.
+Didn’t solved puzzle (Non-technical).
+(Production level code was required.)
+wrote both of code with zero errors.
+ 
+
+
+
+Senior android Developer
+
+
+
+Hi all, below are the questions asked in paytm interview for 2yr experienced guy in java technology. I could remember these much only, although there were more questions.
+interface i1 : void fun()
+interface i2 : void fun()
+interface i3 : void fun()
+now what will be the behavior if a class implement all interfaces?
+Didn’t got selected, attitude of the interviewers was like whatever they asked has to be answered and are god as know more than you. Although it taught a lot in the end.
+Best of luck 🙂
+
+
+Round 1: 2 questions on mettle – online judge
+1. longest palindrome of a given string.
+2. There are n candies and K student. candies are distributed in a order that 1st student get 1 candy, 2nd get 2, 3rd get 3 and so on till nth student. now, 1st student gets k+1 candy, 2nd get k+2, 3rd gets k+3 and so on. if there are not enough candies to be given to candidate then all the remaining candies is given to that candidate. return an array where its element represent number of candies (i-1)th candidate get.
+Round 2 : 
+1. There are two threads, one printing even number and 2nd printing odd number. write code to print number 1 to N in increasing order. (can be solved using wait and notify using a Boolean variable as shared lock).
+2. Zig zag traversal of a binary tree.
+3. Given an array of numbers, find the largest sum of a subsequence of array. subsequence does not contain number which are adjacent to each other. (solved using dp in order n with space n).
+Round 3:
+1. What is critical section in terms of thread, how do we handle it, write code to demonstrate simultaneous seat selection handling while booking a seat on bookmyshow. assuming bookmyshow is handling seat configuration.
+2. Next largest palindrome of the given number.
+Round 4:
+Write code to solve sudoku.
+
+
+Round 1:
+First round was taken on mettl, online judge. There was two questions and that required to be done in 1hr
+1. A paragraph which contained some dates in format DD-MM-YYYY, find number of distinct years in the paragraph.
+ 
+For e.g Some random words with date 12-01-1990 and some more words with date 12-12-2017 and again some random words with same date 12-05-1990
+ 
+Output will be: 2
+Since two different years (1990 and 2017)
+ 
+2. Given an array containing positive integers. Find count of magic numbers in the array.
+A magic number is that number which can be expressed as sum of two numbers and those two numbers should be reverse of each other. For e.g 22 is magic number which can be expressed as 11+11, 121 is magic number which can be expressed as 29+92
+ 
+Input: [4, 22, 121, 13]
+Output: 3
+Round 2:
+Round 2 was F2F.
+1. Write a function to clone a link list with random pointers.
+Expected complexity was O(N) with O(1) space
+2. What are MySQL engines ?
+3. What is load balancer ?
+4. What is session and cookies ? How sessions are maintained and how these values are passed from client to server ?
+5. How to handle high request per second (distributed systems)?
+6. Write mysql query to find 2nd highest salary.
+Round 3:
+In this round there were discussions on current employment and the projects. Discussion on DB designs and some modules. Some questions on AngularJS(I have experience in that, thats why)
+1. Given a long string and an array of words. Find the minimum window in the string where all the words in given array are present in that window.
+For e.g if string is
+A B B A C E Y I J A B
+Array is [ B, I, Y ]
+So the output will be 7, 11
+Where 7 is starting index and 11 is end index of window.
+
+
+I was interviewed at Paytm office, Noida for Backend Developer role in March 2018.
+Round 1:
+Discussion on current work and projects mentioned in the resume
+Given an array of n-2 elements. The range of elements is n and 2 elements are missing. Find them and write a code for the same
+Round 2:
+What are process and thread. Difference between the two.
+Page faults
+Scheduling algorithms and their drawback
+Hashmap and its implementation. What is collision and what are collision resolution techniques.
+Garbage collection.. discussion on how can u implement gc
+Design a data structure for fm radio with following two methods:-
+Only approach was discussed no code
+ 
+Round 3.
+Current work and tools in which I was involved
+Most complex bug
+Challenges faced in work
+An array of character is given sort it in O(n) and write the code for it
+Thank you GeeksForGeeks. I hope this helps other aspirants.                                        
+
+
+
+
+Round 1:
+Round 2:
+Round 3:
+
+
+It was a walk-in for experienced candidates actually. 
+Some questions about the recommendation system that I built, which algorithm have I used ?, what is item-item collaborative filtering?
+Then he asked me if I have any questions for him.
+Q1. Given a online movie ticket booking system, he wanted to know how can we handle simultaneous requests for same seat so that it should just be assigned to single user. how it can be done using MySQL, then how with REDIS. Asked some select and update queries in mysql.
+Q2. What are the different architectures we can use for user session management, discussion on client side session management, server side session management, what if one of the servers crashed.
+Q3. Given a m x n array in which each row consists of zeros and ones (zeros are present from left to right in a given row), find the row with maximum number of zeros.
+Q4. How does Elasticsearch store data, what is inverted indexing.
+
+
+
+Brief intro
+Discussion about Projects and work ex.
+Why are you using aerospike?
+Given a matrix sorted only row-wise, search a number in it. (Complexity O(log(m+n))).
+Brief intro
+Discussion about project
+Why are you using aerospike?
+Design a hashmap.
+Relationship between equals() and hashcode().
+Find a loop in linked list
+Given a string, print it in reverse order word by word. E.g. “Name is XYZ” -> “XYZ is Name”. First without any java function, then with built in java functions.
+Given a file, read it line by line, and print occurrences of each word in a line.
+Difference between StringBuilder and StringBuffer.
+Design a singleton class. Then make it thread safe. Then improve its performance by double checked locking.
+What is volatile.
+Brief intro
+Discussion about project
+Why are you using aerospike?
+Given a very long array of numbers, segregate it by odd and even placed numbers such that all the even placed numbers are in front and all the odd placed numbers after that. Space complexity should be constant and order must be maintained. Eg. 1,2,3,4,5,6,7,8,9 → 2,4,6,8,1,3,5,7,9
+Design of hashmap. What is its worst case complexity? How can you improve the worst case complexity of hashmap?
+Write a bug-free code for BST insertion. Write bug-free code to balance it.
+Brief intro
+Discussion about project
+What is aerospike XDR?
+How will you make a list unmodifiable? Eg List list = {1,2,3,4,5}. Now list cannot add or remove any element.
+Write code for an enum. How will you get ordinality for an enum? How can your enum A extends some class B?
+Difference between List<?> and List<Object>
+List<?> list1 = new ArrayList<?>();
+List<Object> list2 = new ArrayList<Object>();
+List<String> list3 = new ArrayList<String>();
+List1 = list3;
+List1 = (List<String>)list2;
+What will be its output?
+Design a hashmap.
+Relationship between equals() and hashcode().
+ 
+ 
+
+
+
+I want to share my interview experience with Paytm with all of you.
+
+
+
+I answered almost all questions of 2nd Round.
+Didn’t solved puzzle (Non-technical).
+(Production level code was required.)
+wrote both of code with zero errors.
+ 
+
+
+
+Senior android Developer
+
+
+
+Hi all, below are the questions asked in paytm interview for 2yr experienced guy in java technology. I could remember these much only, although there were more questions.
+interface i1 : void fun()
+interface i2 : void fun()
+interface i3 : void fun()
+now what will be the behavior if a class implement all interfaces?
+Didn’t got selected, attitude of the interviewers was like whatever they asked has to be answered and are god as know more than you. Although it taught a lot in the end.
+Best of luck 🙂
+
+
+Round 1: 2 questions on mettle – online judge
+1. longest palindrome of a given string.
+2. There are n candies and K student. candies are distributed in a order that 1st student get 1 candy, 2nd get 2, 3rd get 3 and so on till nth student. now, 1st student gets k+1 candy, 2nd get k+2, 3rd gets k+3 and so on. if there are not enough candies to be given to candidate then all the remaining candies is given to that candidate. return an array where its element represent number of candies (i-1)th candidate get.
+Round 2 : 
+1. There are two threads, one printing even number and 2nd printing odd number. write code to print number 1 to N in increasing order. (can be solved using wait and notify using a Boolean variable as shared lock).
+2. Zig zag traversal of a binary tree.
+3. Given an array of numbers, find the largest sum of a subsequence of array. subsequence does not contain number which are adjacent to each other. (solved using dp in order n with space n).
+Round 3:
+1. What is critical section in terms of thread, how do we handle it, write code to demonstrate simultaneous seat selection handling while booking a seat on bookmyshow. assuming bookmyshow is handling seat configuration.
+2. Next largest palindrome of the given number.
+Round 4:
+Write code to solve sudoku.
+
+
+Round 1:
+First round was taken on mettl, online judge. There was two questions and that required to be done in 1hr
+1. A paragraph which contained some dates in format DD-MM-YYYY, find number of distinct years in the paragraph.
+ 
+For e.g Some random words with date 12-01-1990 and some more words with date 12-12-2017 and again some random words with same date 12-05-1990
+ 
+Output will be: 2
+Since two different years (1990 and 2017)
+ 
+2. Given an array containing positive integers. Find count of magic numbers in the array.
+A magic number is that number which can be expressed as sum of two numbers and those two numbers should be reverse of each other. For e.g 22 is magic number which can be expressed as 11+11, 121 is magic number which can be expressed as 29+92
+ 
+Input: [4, 22, 121, 13]
+Output: 3
+Round 2:
+Round 2 was F2F.
+1. Write a function to clone a link list with random pointers.
+Expected complexity was O(N) with O(1) space
+2. What are MySQL engines ?
+3. What is load balancer ?
+4. What is session and cookies ? How sessions are maintained and how these values are passed from client to server ?
+5. How to handle high request per second (distributed systems)?
+6. Write mysql query to find 2nd highest salary.
+Round 3:
+In this round there were discussions on current employment and the projects. Discussion on DB designs and some modules. Some questions on AngularJS(I have experience in that, thats why)
+1. Given a long string and an array of words. Find the minimum window in the string where all the words in given array are present in that window.
+For e.g if string is
+A B B A C E Y I J A B
+Array is [ B, I, Y ]
+So the output will be 7, 11
+Where 7 is starting index and 11 is end index of window.
+
+
+I was interviewed at Paytm office, Noida for Backend Developer role in March 2018.
+Round 1:
+Discussion on current work and projects mentioned in the resume
+Given an array of n-2 elements. The range of elements is n and 2 elements are missing. Find them and write a code for the same
+Round 2:
+What are process and thread. Difference between the two.
+Page faults
+Scheduling algorithms and their drawback
+Hashmap and its implementation. What is collision and what are collision resolution techniques.
+Garbage collection.. discussion on how can u implement gc
+Design a data structure for fm radio with following two methods:-
+Only approach was discussed no code
+ 
+Round 3.
+Current work and tools in which I was involved
+Most complex bug
+Challenges faced in work
+An array of character is given sort it in O(n) and write the code for it
+Thank you GeeksForGeeks. I hope this helps other aspirants.                                        
+
+
+
+
+Round 1:
+Round 2:
+Round 3:
+
+

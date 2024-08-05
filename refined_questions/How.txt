@@ -1,0 +1,18 @@
+Question: But what if we tell you that searching for an interview experience is a much better solution to your worries? 
+Yes, interview experience can help you in a big way.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: But what if we tell you that searching for an interview experience is a much better solution to your worries? 
+Yes, interview experience can help you in a big way.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

@@ -1,0 +1,276 @@
+Question: Round 1 (Telephonic) [ > 1hr]
+1) Why main method is void in JAVA?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 2) Are string parameters mandatory in main method?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: At what time are the parameters read?
+3)Difference between sleep and wait
+4)Difference between yield vs join
+5)Checked and unchecked exceptions.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 6) Concurrent hash map.
+7)Difference between isInstance and Instance of
+8)When to use reflection and name few methods?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 9)Fail fast vs fail safe iterator
+10) JVM JRE and JDK.What does rt.jar contain?
+11 )When to use LinkedHash Map and Tree map?
+
+
+Which is better for insertion,deletion and search?
+12)
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is static method?Where are static variable stored in memory?
+13) JAVA memory model.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is survivor space?
+15)When to override toString() method?
+16)Design a DS which does the following operations:
+1)Insert,2)Delete,3)Search in O(1) complexity.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 4)How to design a chess board?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Round 3 F2F( 90 min)
+1)What is strategy pattern?
+
+
+Explain and implement it.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 2)What is Dependency Injection?Which pattern supports it?
+3) Explain heap sort end to end with an example.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: This was pure design round and was quite challenging.
+
+1)How to create REST API for a job scheduler?
+2) When to use IS-A and when to use HAS-A relationship?
+
+
+4)How is friends of friends feature implemented in Facebook?
+5)What are the best ways to design REST API?
+6) Few details about background ,SAP etc
+Round 7(45 min) (Techno-Managerial Round -Telephonic)
+1) How is hash map implemented in JAVA?
+2)Why have column-oriented databases evolved?Explain it.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Round 8 ( HR -telephonic)
+1) What are your strengths and weakness?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 2)Why SAP?
+3)Notice period.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Round 1 (Telephonic) [ > 1hr]
+1) Why main method is void in JAVA?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 2) Are string parameters mandatory in main method?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: At what time are the parameters read?
+3)Difference between sleep and wait
+4)Difference between yield vs join
+5)Checked and unchecked exceptions.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 6) Concurrent hash map.
+7)Difference between isInstance and Instance of
+8)When to use reflection and name few methods?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 9)Fail fast vs fail safe iterator
+10) JVM JRE and JDK.What does rt.jar contain?
+11 )When to use LinkedHash Map and Tree map?
+
+
+Which is better for insertion,deletion and search?
+12)
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is static method?Where are static variable stored in memory?
+13) JAVA memory model.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What is survivor space?
+15)When to override toString() method?
+16)Design a DS which does the following operations:
+1)Insert,2)Delete,3)Search in O(1) complexity.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 4)How to design a chess board?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Round 3 F2F( 90 min)
+1)What is strategy pattern?
+
+
+Explain and implement it.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 2)What is Dependency Injection?Which pattern supports it?
+3) Explain heap sort end to end with an example.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: This was pure design round and was quite challenging.
+
+1)How to create REST API for a job scheduler?
+2) When to use IS-A and when to use HAS-A relationship?
+
+
+4)How is friends of friends feature implemented in Facebook?
+5)What are the best ways to design REST API?
+6) Few details about background ,SAP etc
+Round 7(45 min) (Techno-Managerial Round -Telephonic)
+1) How is hash map implemented in JAVA?
+2)Why have column-oriented databases evolved?Explain it.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Round 8 ( HR -telephonic)
+1) What are your strengths and weakness?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: 2)Why SAP?
+3)Notice period.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+

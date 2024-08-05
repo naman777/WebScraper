@@ -1,0 +1,106 @@
+Question: Algo Question:
+Check if given binary tree is binary search tree?
+
+
+How to handle the multiple thread case?
+
+
+What you explored outside of your current work.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What was the duration of the project, and how many members involved?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How many programming languages used?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How many programming languages do you know?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Which one are you most comfortable with?
+
+
+How to implement an interface in C++.
+etc..
+Algo Question:
+Given two linked lists sorted in ascending order, merge them into one linked list(Maintain Sorting).
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Algo Question:
+Check if given binary tree is binary search tree?
+
+
+How to handle the multiple thread case?
+
+
+What you explored outside of your current work.
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: What was the duration of the project, and how many members involved?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How many programming languages used?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: How many programming languages do you know?
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
+Question: Which one are you most comfortable with?
+
+
+How to implement an interface in C++.
+etc..
+Algo Question:
+Given two linked lists sorted in ascending order, merge them into one linked list(Maintain Sorting).
+Topic: Unknown Topic
+Test Cases:
+  Input: example_input => Expected Output: example_output
+Edge Cases:
+  edge_case_1
+  edge_case_2
+
